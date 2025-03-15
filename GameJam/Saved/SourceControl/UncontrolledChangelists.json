@@ -6,6 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"E:/Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/QQ/NBINXAGJV88UTM63CTWQP0.uasset",
+				"E:/Github/GameJam/GameJam/Content/dog/Dogo_Object001.uasset",
+				"E:/Github/GameJam/GameJam/Content/dog/Dogo_Object004j.uasset",
+				"E:/Github/GameJam/GameJam/Content/dog/DogoDiff.uasset",
+				"E:/Github/GameJam/GameJam/Content/dog/DogoNormal.uasset",
+				"E:/Github/GameJam/GameJam/Content/dog/DogoRough.uasset",
+				"E:/Github/GameJam/GameJam/Content/dog/Material__40.uasset",
 				"D:/Unreal Engine Project/GameJam/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/GitUnreal/GameJam/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
