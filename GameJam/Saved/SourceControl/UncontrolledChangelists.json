@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"E:/Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/QQ/NBINXAGJV88UTM63CTWQP0.uasset",
 				"D:/Unreal Engine Project/GameJam/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset",
 				"D:/GitUnreal/GameJam/GameJam/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset"
 			]
