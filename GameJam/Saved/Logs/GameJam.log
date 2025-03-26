@@ -1606,3 +1606,471 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.26-10.12.17:287][761]BlueprintLog: New page: Compile WBP_Buttons
 [2025.03.26-10.12.17:289][761]LogBlueprint: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\MENUE\UI_Elements\WBP_Buttons.uasset: [Compiler] 'BP First Person Game Mode' does not inherit from 'Pawn' ( Cast To BP_FirstPersonGameMode  would always fail).
 [2025.03.26-10.12.17:297][761]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.26-10.14.48:149][807]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.26-10.14.48:150][807]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.26-10.14.52:534][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.26-10.14.54:025][293]LogSlate: Window 'Save Content' being destroyed
+[2025.03.26-10.14.54:052][293]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-10.14.54:112][293]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Maps/MainMenue" FILE="../../../../../Github/GameJam/GameJam/Content/FirstPerson/Maps/MainMenue.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.03.26-10.14.54:153][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.26-10.14.54:161][293]LogSavePackage: Moving output files for package: /Game/FirstPerson/Maps/MainMenue
+[2025.03.26-10.14.54:161][293]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/MainMenue2BEA815A4DE13FAB047F7AB4FCB931A6.tmp' to '../../../../../Github/GameJam/GameJam/Content/FirstPerson/Maps/MainMenue.umap'
+[2025.03.26-10.14.54:166][293]LogFileHelpers: Saving map 'MainMenue' took 0.055
+[2025.03.26-10.14.54:171][293]LogFileHelpers: InternalPromptForCheckoutAndSave took 118 ms (total: 175 ms)
+[2025.03.26-10.14.54:215][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.14.54:216][293]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.26-10.14.54:216][293]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.26-10.14.54:216][293]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Inactive, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.26-10.14.54:216][293]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/Blueprints/Goblet does not exist, will not scan.
+[2025.03.26-10.14.54:216][293]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/Blueprints/Gold_bar does not exist, will not scan.
+[2025.03.26-10.14.54:216][293]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Mechanics/interaction/Curtains_open does not exist, will not scan.
+[2025.03.26-10.14.54:216][293]LogWorldPartition: Warning: Failed to find redirected assets for '/Game/FirstPerson/Blueprints/Curtains_open.Curtains_open' from '/Game/Mechanics/interaction/Curtains_open.Curtains_open'
+[2025.03.26-10.14.54:216][293]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Mechanics/interaction/Curtains_Closed does not exist, will not scan.
+[2025.03.26-10.14.54:216][293]LogWorldPartition: Warning: Failed to find redirected assets for '/Game/FirstPerson/Blueprints/Curtains_Closed.Curtains_Closed' from '/Game/Mechanics/interaction/Curtains_Closed.Curtains_Closed'
+[2025.03.26-10.14.54:217][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Gold_bar.Gold_bar_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Gold_bar_C_UAID_D843AE576D27B45802_2003753130', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:217][293]LogWorldPartition: Can't find class descriptor '/Game/Mechanics/interaction/Curtains_Closed.Curtains_Closed_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Curtains_Closed_C_UAID_D843AE576D27AE5802_1153069047', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:217][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Goblet.Goblet_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Goblet_C_UAID_D843AE576D27B75802_1426118690', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:217][293]LogWorldPartition: Can't find class descriptor '/Game/Mechanics/interaction/Curtains_open.Curtains_open_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Curtains_open_C_UAID_D843AE576D27AE5802_1153070048', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:218][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Gold_bar.Gold_bar_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Gold_bar_C_UAID_D843AE576D27B45802_1982710128', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:218][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Goblet.Goblet_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Goblet_C_UAID_D843AE576D27B45802_1744552125', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:218][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Gold_bar.Gold_bar_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Gold_bar_C_UAID_D843AE576D27B45802_1995708129', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:256][293]LoadErrors: Error: The summary for the package '/Game/Props_elya/Painting/6' is invalid. Check that the file is of the expected type and not corrupted.
+[2025.03.26-10.14.54:266][293]LoadErrors: Error: The summary for the package '/Game/Props_elya/Painting/1' is invalid. Check that the file is of the expected type and not corrupted.
+[2025.03.26-10.14.54:291][293]LoadErrors: Error: The summary for the package '/Game/Props_elya/Painting/7' is invalid. Check that the file is of the expected type and not corrupted.
+[2025.03.26-10.14.54:317][293]LoadErrors: Error: The summary for the package '/Game/Props_elya/Painting/2' is invalid. Check that the file is of the expected type and not corrupted.
+[2025.03.26-10.14.54:327][293]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.26-10.14.54:327][293]LogWorldPartition: Display: WorldPartition initialize took 111 ms (total: 6.66 sec)
+[2025.03.26-10.14.54:338][293]LogAssetEditorSubsystem: Opening Asset editor for World /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap
+[2025.03.26-10.14.54:339][293]Cmd: MAP LOAD FILE="../../../../../Github/GameJam/GameJam/Content/FirstPerson/Maps/FirstPersonMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.03.26-10.14.54:339][293]LightingResults: New page: Lighting Build
+[2025.03.26-10.14.54:339][293]LoadErrors: New page: Loading map: FirstPersonMap.umap
+[2025.03.26-10.14.54:384][293]LogWorld: UWorld::CleanupWorld for MainMenue, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-10.14.54:384][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-10.14.54:385][293]MapCheck: New page: Map Check
+[2025.03.26-10.14.54:385][293]LightingResults: New page: Lighting Build
+[2025.03.26-10.14.54:399][293]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-10.14.54:400][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.26-10.14.54:402][293]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-10.14.54:402][293]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-10.14.54:403][293]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.26-10.14.54:413][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.26-10.14.54:424][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.26-10.14.54:438][293]LogAudio: Display: Audio Device (ID: 1) registered with world 'FirstPersonMap'.
+[2025.03.26-10.14.54:438][293]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.14.54:438][293]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-10.14.54:438][293]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.26-10.14.54:438][293]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=0, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=1, InitializeForGame=0)
+[2025.03.26-10.14.54:438][293]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.26-10.14.54:438][293]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = Editor, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 1, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.26-10.14.54:439][293]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/Blueprints/Goblet does not exist, will not scan.
+[2025.03.26-10.14.54:439][293]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/FirstPerson/Blueprints/Gold_bar does not exist, will not scan.
+[2025.03.26-10.14.54:439][293]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Mechanics/interaction/Curtains_open does not exist, will not scan.
+[2025.03.26-10.14.54:439][293]LogWorldPartition: Warning: Failed to find redirected assets for '/Game/FirstPerson/Blueprints/Curtains_open.Curtains_open' from '/Game/Mechanics/interaction/Curtains_open.Curtains_open'
+[2025.03.26-10.14.54:439][293]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/Mechanics/interaction/Curtains_Closed does not exist, will not scan.
+[2025.03.26-10.14.54:439][293]LogWorldPartition: Warning: Failed to find redirected assets for '/Game/FirstPerson/Blueprints/Curtains_Closed.Curtains_Closed' from '/Game/Mechanics/interaction/Curtains_Closed.Curtains_Closed'
+[2025.03.26-10.14.54:439][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Gold_bar.Gold_bar_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Gold_bar_C_UAID_D843AE576D27B45802_2003753130', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:439][293]LogWorldPartition: Can't find class descriptor '/Game/Mechanics/interaction/Curtains_Closed.Curtains_Closed_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Curtains_Closed_C_UAID_D843AE576D27AE5802_1153069047', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:440][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Goblet.Goblet_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Goblet_C_UAID_D843AE576D27B75802_1426118690', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:440][293]LogWorldPartition: Can't find class descriptor '/Game/Mechanics/interaction/Curtains_open.Curtains_open_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Curtains_open_C_UAID_D843AE576D27AE5802_1153070048', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:441][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Gold_bar.Gold_bar_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Gold_bar_C_UAID_D843AE576D27B45802_1982710128', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:441][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Goblet.Goblet_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Goblet_C_UAID_D843AE576D27B45802_1744552125', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:441][293]LogWorldPartition: Can't find class descriptor '/Game/FirstPerson/Blueprints/Gold_bar.Gold_bar_C' for loading '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Gold_bar_C_UAID_D843AE576D27B45802_1995708129', using '/Script/Engine.Actor'
+[2025.03.26-10.14.54:478][293]LoadErrors: Error: The summary for the package '/Game/Props_elya/Painting/6' is invalid. Check that the file is of the expected type and not corrupted.
+[2025.03.26-10.14.54:487][293]LoadErrors: Error: The summary for the package '/Game/Props_elya/Painting/1' is invalid. Check that the file is of the expected type and not corrupted.
+[2025.03.26-10.14.54:512][293]LoadErrors: Error: The summary for the package '/Game/Props_elya/Painting/7' is invalid. Check that the file is of the expected type and not corrupted.
+[2025.03.26-10.14.54:537][293]LoadErrors: Error: The summary for the package '/Game/Props_elya/Painting/2' is invalid. Check that the file is of the expected type and not corrupted.
+[2025.03.26-10.14.54:547][293]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.26-10.14.54:547][293]LogWorldPartition: Display: WorldPartition initialize took 108 ms (total: 6.77 sec)
+[2025.03.26-10.14.54:581][293]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.03.26-10.14.54:689][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2025.03.26-10.14.54:698][293]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.03.26-10.14.54:698][293]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,554ms to complete.
+[2025.03.26-10.14.54:712][293]AssetCheck: New page: Asset Save: MainMenue
+[2025.03.26-10.15.01:556][ 90]LogSlate: Window 'Message Log' being destroyed
+[2025.03.26-10.15.01:558][ 90]LogSlate: Window 'Message Log' being destroyed
+[2025.03.26-10.16.10:309][581]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1056.395508
+[2025.03.26-10.16.11:302][584]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-10.16.11:302][584]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1057.060425, Update Interval: 351.304047
+[2025.03.26-10.17.26:909][472]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: ================================================
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Total job queries 47, among them cache hits 13 (27.66%)
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Tracking 30 distinct input hashes that result in 22 distinct outputs (73.33%)
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: RAM used: 711,31 KiB of 1,60 GiB budget. Usage: 0.04%
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Shaders Compiled: 4
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Jobs assigned 4, completed 4 (100%)
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.04 s
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Job execution time: average 1.15 s, max 1.17 s
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Job life time (pending + execution): average 1.19 s, max 1.22
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Shader code size: average 54,141 KiB, min 37,188 KiB, max 73,371 KiB
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.22 s
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Average processing rate: 3.29 jobs/sec
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Total thread time: 1,08 s
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Total thread preprocess time: 0,101 s
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Percentage time preprocessing: 9.35%
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Effective parallelization: 0.89 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Top 3 most expensive shader types by average time:
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 0.27 sec, max 0.32 sec, min 0.23 sec)
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: Top 3 shader types by total compile time:
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 50.88% of total time (compiled    2 times, average 0.27 sec, max 0.32 sec, min 0.23 sec)
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight - 24.94% of total time (compiled    1 times, average 0.27 sec, max 0.27 sec, min 0.27 sec)
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 24.18% of total time (compiled    1 times, average 0.26 sec, max 0.26 sec, min 0.26 sec)
+[2025.03.26-10.17.37:649][675]LogShaderCompilers: Display: ================================================
+[2025.03.26-10.18.01:553][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OldWest/VOL1/Meshes/SM_Dresser_02a.SM_Dresser_02a
+[2025.03.26-10.18.01:553][461]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OldWest/VOL1/Meshes/SM_Dresser_02a.SM_Dresser_02a
+[2025.03.26-10.18.01:554][461]LogActorFactory: Actor Factory spawned StaticMesh /Game/OldWest/VOL1/Meshes/SM_Dresser_02a.SM_Dresser_02a as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
+[2025.03.26-10.18.03:125][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OldWest/VOL1/Meshes/SM_Dresser_02a.SM_Dresser_02a
+[2025.03.26-10.18.03:125][646]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/OldWest/VOL1/Meshes/SM_Dresser_02a.SM_Dresser_02a
+[2025.03.26-10.18.03:128][646]LogActorFactory: Actor Factory spawned StaticMesh /Game/OldWest/VOL1/Meshes/SM_Dresser_02a.SM_Dresser_02a as actor: StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27D75802_1758209263
+[2025.03.26-10.18.04:251][776]Cmd: DELETE
+[2025.03.26-10.18.04:252][776]Cmd: ACTOR DELETE
+[2025.03.26-10.18.04:255][776]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.26-10.18.04:262][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.03.26-10.18.04:265][776]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2025.03.26-10.18.43:956][ 40]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.43:994][ 41]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:013][ 42]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:032][ 43]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:052][ 44]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:070][ 45]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:089][ 46]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:108][ 47]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:127][ 48]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:147][ 49]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:166][ 50]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.44:185][ 51]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.47:473][432]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.18.47:519][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Mechanics/interaction/BP_Closet.BP_Closet_C
+[2025.03.26-10.18.47:519][432]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Mechanics/interaction/BP_Closet.BP_Closet_C
+[2025.03.26-10.18.47:520][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Mechanics/interaction/BP_Closet.BP_Closet as actor: BP_Closet_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Closet_C_0
+[2025.03.26-10.18.47:521][432]LogActorFactory: Actor Factory spawned Blueprint /Game/Mechanics/interaction/BP_Closet.BP_Closet as actor: BP_Closet_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Closet_C_0
+[2025.03.26-10.18.47:531][433]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.03.26-10.18.49:015][606]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Mechanics/interaction/BP_Closet.BP_Closet_C
+[2025.03.26-10.18.49:015][606]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Mechanics/interaction/BP_Closet.BP_Closet_C
+[2025.03.26-10.18.49:017][606]LogActorFactory: Actor Factory spawned Blueprint /Game/Mechanics/interaction/BP_Closet.BP_Closet as actor: BP_Closet_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Closet_C_UAID_D843AE576D27D75802_1804098264
+[2025.03.26-10.18.49:018][606]LogActorFactory: Actor Factory spawned Blueprint /Game/Mechanics/interaction/BP_Closet.BP_Closet as actor: BP_Closet_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Closet_C_UAID_D843AE576D27D75802_1804098264
+[2025.03.26-10.19.20:127][233]Cmd: DELETE
+[2025.03.26-10.19.20:127][233]Cmd: ACTOR DELETE
+[2025.03.26-10.19.20:129][233]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.03.26-10.19.20:138][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.26-10.19.20:142][233]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2025.03.26-10.21.12:876][135]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.26-10.21.12:876][135]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.26-10.22.15:653][477]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1421.735596
+[2025.03.26-10.22.15:819][497]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-10.22.15:819][497]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1421.894165, Update Interval: 323.993042
+[2025.03.26-10.23.26:814][504]LogEditorViewport: Clicking Background
+[2025.03.26-10.25.00:844][326]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.26-10.25.00:844][326]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.26-10.25.13:762][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2025.03.26-10.25.13:765][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/9S/NLL4LQRA5AIJ988YAVF26Z_Auto1
+[2025.03.26-10.25.13:765][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/NLL4LQRA5AIJ988YAVF26Z_Auto1D7B66BCE46F843ED84E00790DAAE0E43.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/9S/NLL4LQRA5AIJ988YAVF26Z_Auto1.uasset'
+[2025.03.26-10.25.13:766][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/LC/UJVP54UUYSPAQAABTC733D_Auto1
+[2025.03.26-10.25.13:766][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/UJVP54UUYSPAQAABTC733D_Auto19C3517CC44DC4F1CF2A034A61A6265D9.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/LC/UJVP54UUYSPAQAABTC733D_Auto1.uasset'
+[2025.03.26-10.25.13:767][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5N/ZGO9UYVQOHWGI3GG5EWI86_Auto1
+[2025.03.26-10.25.13:767][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/ZGO9UYVQOHWGI3GG5EWI86_Auto105C7D5674D8FBDED1DCF56A33DCF0AAF.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5N/ZGO9UYVQOHWGI3GG5EWI86_Auto1.uasset'
+[2025.03.26-10.25.13:768][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/JD/AIENG09C2R3A9MULRLBIKO_Auto1
+[2025.03.26-10.25.13:768][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/AIENG09C2R3A9MULRLBIKO_Auto148F89E834644EA7F55CFB2B72FC081A4.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/JD/AIENG09C2R3A9MULRLBIKO_Auto1.uasset'
+[2025.03.26-10.25.13:769][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H2/FLJ41I9YN96064IJ6VEWPU_Auto1
+[2025.03.26-10.25.13:769][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/FLJ41I9YN96064IJ6VEWPU_Auto1172AC4ED43DDBB1279AB24B92BF72AC9.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H2/FLJ41I9YN96064IJ6VEWPU_Auto1.uasset'
+[2025.03.26-10.25.13:770][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/K0/SSD1VIYUESCECCFI1DNJZ6_Auto1
+[2025.03.26-10.25.13:770][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/SSD1VIYUESCECCFI1DNJZ6_Auto1889B64B54F7CDD76DA89B9BC1B0834F5.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/K0/SSD1VIYUESCECCFI1DNJZ6_Auto1.uasset'
+[2025.03.26-10.25.13:770][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QA/BSU8SQE0LUK21VQ2D6IA90_Auto1
+[2025.03.26-10.25.13:770][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/BSU8SQE0LUK21VQ2D6IA90_Auto1C73F99894F6E39C56D406AAEA095CF63.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QA/BSU8SQE0LUK21VQ2D6IA90_Auto1.uasset'
+[2025.03.26-10.25.13:772][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OY/NIUTO82N3G0SAQ6UI0X01G_Auto1
+[2025.03.26-10.25.13:772][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/NIUTO82N3G0SAQ6UI0X01G_Auto12F2B703D4C6B7F9898E80D8E753CC8FD.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OY/NIUTO82N3G0SAQ6UI0X01G_Auto1.uasset'
+[2025.03.26-10.25.13:773][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TJ/TSGX18XWBWET3VVRITOEAL_Auto1
+[2025.03.26-10.25.13:773][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/TSGX18XWBWET3VVRITOEAL_Auto1F74DA0E444BCBE91815F96AA2A0113C5.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TJ/TSGX18XWBWET3VVRITOEAL_Auto1.uasset'
+[2025.03.26-10.25.13:774][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/6P/624E2M0LGLAW2XW6IM5F3C_Auto1
+[2025.03.26-10.25.13:774][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/624E2M0LGLAW2XW6IM5F3C_Auto1932BD1054B082167AF0AB39AADEDCC38.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/6P/624E2M0LGLAW2XW6IM5F3C_Auto1.uasset'
+[2025.03.26-10.25.13:777][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VW/QPMNK2P5QICKII9QXFAP85_Auto1
+[2025.03.26-10.25.13:777][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/QPMNK2P5QICKII9QXFAP85_Auto1864CDF064DCAEDE24F39E8A39570100C.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VW/QPMNK2P5QICKII9QXFAP85_Auto1.uasset'
+[2025.03.26-10.25.13:778][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BF/D6GYNKQ33IM363MJQOUU7K_Auto1
+[2025.03.26-10.25.13:778][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/D6GYNKQ33IM363MJQOUU7K_Auto1360B9F2146706EB75D784BAC97030E6D.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BF/D6GYNKQ33IM363MJQOUU7K_Auto1.uasset'
+[2025.03.26-10.25.13:779][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/5S/AHHYA813J5U9GUWHCDZKBI_Auto1
+[2025.03.26-10.25.13:779][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/AHHYA813J5U9GUWHCDZKBI_Auto1D800B2D0402E3EE2D15DAB80CDEFD0A7.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/5S/AHHYA813J5U9GUWHCDZKBI_Auto1.uasset'
+[2025.03.26-10.25.13:780][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/O2/XOK7BC3PJ3Q4KXQCCNSAF9_Auto1
+[2025.03.26-10.25.13:780][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/XOK7BC3PJ3Q4KXQCCNSAF9_Auto1543096604502808B25055DA53185B7BE.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/O2/XOK7BC3PJ3Q4KXQCCNSAF9_Auto1.uasset'
+[2025.03.26-10.25.13:781][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PH/LS79UL14XCORKDVJGLFVZ9_Auto1
+[2025.03.26-10.25.13:781][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/LS79UL14XCORKDVJGLFVZ9_Auto1384583C0489864BDA2E4FCA529281C00.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PH/LS79UL14XCORKDVJGLFVZ9_Auto1.uasset'
+[2025.03.26-10.25.13:782][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PX/KKZ7WUB1H7YQFYYX3PLQDO_Auto1
+[2025.03.26-10.25.13:782][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/KKZ7WUB1H7YQFYYX3PLQDO_Auto107C39DCF4E7E432CE47136A875978FAC.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PX/KKZ7WUB1H7YQFYYX3PLQDO_Auto1.uasset'
+[2025.03.26-10.25.13:782][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/36/3B4J22L54KK8U99LC0WL38_Auto1
+[2025.03.26-10.25.13:782][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/3B4J22L54KK8U99LC0WL38_Auto1B9CE59694FEE3205ECB0DA9649A1BF9A.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/36/3B4J22L54KK8U99LC0WL38_Auto1.uasset'
+[2025.03.26-10.25.13:783][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/UY/DB1M2X81SLI7NRSIBYZZYG_Auto1
+[2025.03.26-10.25.13:783][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/DB1M2X81SLI7NRSIBYZZYG_Auto1A0B2233A430CA39BF6F378956017D858.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/UY/DB1M2X81SLI7NRSIBYZZYG_Auto1.uasset'
+[2025.03.26-10.25.13:784][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VX/VNZEMT9P0M15M1ZU3WRJME_Auto1
+[2025.03.26-10.25.13:784][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/VNZEMT9P0M15M1ZU3WRJME_Auto1AE6FFFEC4B427EFB7D5B65B3063CEB5B.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VX/VNZEMT9P0M15M1ZU3WRJME_Auto1.uasset'
+[2025.03.26-10.25.13:785][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Z2/68O1X5TVXP8X54E9MPN3Y7_Auto1
+[2025.03.26-10.25.13:785][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/68O1X5TVXP8X54E9MPN3Y7_Auto1274896724C10E477922D99938DE94239.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Z2/68O1X5TVXP8X54E9MPN3Y7_Auto1.uasset'
+[2025.03.26-10.25.13:786][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/2T/SPYD2OO7JPUAAKD2AB6KN7_Auto1
+[2025.03.26-10.25.13:786][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/SPYD2OO7JPUAAKD2AB6KN7_Auto18164CB814DBDD9A106B0659816E40487.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/2T/SPYD2OO7JPUAAKD2AB6KN7_Auto1.uasset'
+[2025.03.26-10.25.13:787][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7T/QG34JSVYD2VEOI8KA47MXE_Auto1
+[2025.03.26-10.25.13:787][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/QG34JSVYD2VEOI8KA47MXE_Auto1978052F44EA69B5A1FF1A5A66F950C6E.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7T/QG34JSVYD2VEOI8KA47MXE_Auto1.uasset'
+[2025.03.26-10.25.13:788][307]LogWorldPartition: Can't find class descriptor '/Game/Mechanics/interaction/BP_Closet.BP_Closet_C' for saving '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Closet_C_UAID_D843AE576D27D75802_1804098264'
+[2025.03.26-10.25.13:788][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SE/L358PWHWIUAVTJLFKR146W_Auto1
+[2025.03.26-10.25.13:788][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/L358PWHWIUAVTJLFKR146W_Auto1B6457CCF4D07EF2DE721DA9D3B8B5A32.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SE/L358PWHWIUAVTJLFKR146W_Auto1.uasset'
+[2025.03.26-10.25.13:789][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/13/NYILYCHPHKLGGR2PE400TS_Auto1
+[2025.03.26-10.25.13:789][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/NYILYCHPHKLGGR2PE400TS_Auto14503750D4013A609F72C18B04581C400.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/13/NYILYCHPHKLGGR2PE400TS_Auto1.uasset'
+[2025.03.26-10.25.13:790][307]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/M2/VBQ4KB668XCE16M038OZ6J_Auto1
+[2025.03.26-10.25.13:790][307]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/VBQ4KB668XCE16M038OZ6J_Auto180AD26454401A3CA063DB8A21A3E0508.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/M2/VBQ4KB668XCE16M038OZ6J_Auto1.uasset'
+[2025.03.26-10.25.13:790][307]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.045
+[2025.03.26-10.25.13:790][307]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.045
+[2025.03.26-10.27.49:169][ 19]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.26-10.27.49:169][ 19]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.26-10.27.49:173][ 19]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 10 ms)
+[2025.03.26-10.27.49:174][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-10.27.49:174][ 19]PIE: New page: SIE session: FirstPersonMap (26 мар. 2025 г., 16:27:49)
+[2025.03.26-10.27.49:195][ 19]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.26-10.27.49:205][ 19]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010000s)
+[2025.03.26-10.27.49:205][ 19]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.010029s)
+[2025.03.26-10.27.49:212][ 19]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.26-10.27.49:213][ 19]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.27.49:213][ 19]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-10.27.49:214][ 19]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.26-10.27.49:214][ 19]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.26-10.27.49:214][ 19]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.26-10.27.49:214][ 19]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.26-10.27.49:214][ 19]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.26-10.27.49:217][ 19]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.26-10.27.49:217][ 19]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.77 sec)
+[2025.03.26-10.27.49:217][ 19]LogPlayLevel: PIE: World Init took: (0.003435s)
+[2025.03.26-10.27.49:217][ 19]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.03.26-10.27.49:217][ 19]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-10.27.49:217][ 19]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-10.27.49:217][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-10.27.49:217][ 19]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-10.27.49:217][ 19]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-10.27.49:217][ 19]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-10.27.49:217][ 19]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-10.27.49:217][ 19]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-10.27.49:217][ 19]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-10.27.49:217][ 19]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-10.27.49:217][ 19]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-10.27.49:219][ 19]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-10.27.49:229][ 19]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Xonar SoundCard)
+[2025.03.26-10.27.49:230][ 19]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-10.27.49:230][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-10.27.49:230][ 19]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-10.27.49:230][ 19]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.03.26-10.27.49:230][ 19]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.03.26-10.27.49:231][ 19]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.03.26-10.27.49:231][ 19]LogInit: FAudioDevice initialized with ID 4.
+[2025.03.26-10.27.49:231][ 19]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.03.26-10.27.49:231][ 19]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2025.03.26-10.27.49:231][ 19]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.26-10.27.49:233][ 19]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-10.27.49:238][ 19]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.03.26-13.27.49
+[2025.03.26-10.27.49:238][ 19]LogWorld: Bringing up level for play took: 0.004496
+[2025.03.26-10.27.49:239][ 19]LogOnline: OSS: Created online subsystem instance for: :Context_19
+[2025.03.26-10.27.49:241][ 19]PIE: Server logged in
+[2025.03.26-10.27.49:241][ 19]PIE: Play in editor total start time 0,072 seconds.
+[2025.03.26-10.28.06:832][ 68]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1772.926758
+[2025.03.26-10.28.06:912][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-10.28.06:912][ 73]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.26-10.28.06:912][ 73]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-10.28.06:913][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-10.28.06:913][ 73]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.26-10.28.06:915][ 73]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-10.28.06:917][ 73]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-10.28.06:924][ 73]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.26-10.28.06:925][ 73]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.03.26-10.28.06:925][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.26-10.28.06:926][ 73]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2025.03.26-10.28.06:929][ 73]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-10.28.06:932][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.26-10.28.07:003][ 76]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2025.03.26-10.28.07:007][ 77]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.26-10.28.07:007][ 77]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1773.097534, Update Interval: 306.654266
+[2025.03.26-10.28.28:796][ 59]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.28.28:835][ 60]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.28.28:854][ 61]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.28.28:874][ 62]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.28.35:352][810]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.28.35:406][811]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C
+[2025.03.26-10.28.35:406][811]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C
+[2025.03.26-10.28.35:408][811]LogActorFactory: Actor Factory spawned Blueprint /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains as actor: BP_SM_Curtains_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_0
+[2025.03.26-10.28.35:409][811]LogActorFactory: Actor Factory spawned Blueprint /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains as actor: BP_SM_Curtains_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_0
+[2025.03.26-10.28.37:836][ 82]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C
+[2025.03.26-10.28.37:836][ 82]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C
+[2025.03.26-10.28.37:839][ 82]LogActorFactory: Actor Factory spawned Blueprint /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains as actor: BP_SM_Curtains_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_UAID_D843AE576D27D85802_1319177443
+[2025.03.26-10.28.37:840][ 82]LogActorFactory: Actor Factory spawned Blueprint /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains as actor: BP_SM_Curtains_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_UAID_D843AE576D27D85802_1319177443
+[2025.03.26-10.31.03:976][346]LogDebuggerCommands: Repeating last play command: Simulate
+[2025.03.26-10.31.03:981][346]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.26-10.31.03:981][346]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.26-10.31.03:985][346]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 14 ms)
+[2025.03.26-10.31.03:985][346]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.26-10.31.03:985][346]PIE: New page: SIE session: FirstPersonMap (26 мар. 2025 г., 16:31:03)
+[2025.03.26-10.31.04:012][346]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.26-10.31.04:024][346]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011621s)
+[2025.03.26-10.31.04:024][346]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.011660s)
+[2025.03.26-10.31.04:044][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.26-10.31.04:046][346]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.26-10.31.04:047][346]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.26-10.31.04:047][346]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.26-10.31.04:047][346]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.26-10.31.04:047][346]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.26-10.31.04:047][346]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.26-10.31.04:047][346]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.26-10.31.04:050][346]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.26-10.31.04:050][346]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 6.78 sec)
+[2025.03.26-10.31.04:050][346]LogPlayLevel: PIE: World Init took: (0.003459s)
+[2025.03.26-10.31.04:050][346]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.03.26-10.31.04:050][346]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.26-10.31.04:050][346]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.26-10.31.04:050][346]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.26-10.31.04:050][346]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.26-10.31.04:050][346]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.26-10.31.04:050][346]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.26-10.31.04:050][346]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.26-10.31.04:050][346]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.26-10.31.04:050][346]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.26-10.31.04:050][346]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.26-10.31.04:050][346]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.26-10.31.04:052][346]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.26-10.31.04:062][346]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Xonar SoundCard)
+[2025.03.26-10.31.04:062][346]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.26-10.31.04:062][346]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.26-10.31.04:062][346]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.26-10.31.04:063][346]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.03.26-10.31.04:063][346]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.03.26-10.31.04:064][346]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.03.26-10.31.04:064][346]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.03.26-10.31.04:064][346]LogInit: FAudioDevice initialized with ID 5.
+[2025.03.26-10.31.04:064][346]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2025.03.26-10.31.04:064][346]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.26-10.31.04:066][346]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.26-10.31.04:070][346]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.03.26-13.31.04
+[2025.03.26-10.31.04:071][346]LogWorld: Bringing up level for play took: 0.004323
+[2025.03.26-10.31.04:072][346]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2025.03.26-10.31.04:074][346]PIE: Server logged in
+[2025.03.26-10.31.04:074][346]PIE: Play in editor total start time 0,094 seconds.
+[2025.03.26-10.31.19:152][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-10.31.19:152][ 74]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.26-10.31.19:153][ 74]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.26-10.31.19:155][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-10.31.19:155][ 74]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.26-10.31.19:157][ 74]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.26-10.31.19:160][ 74]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.26-10.31.19:170][ 74]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.26-10.31.19:170][ 74]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.03.26-10.31.19:171][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.26-10.31.19:172][ 74]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2025.03.26-10.31.19:178][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.26-10.31.19:213][ 75]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2025.03.26-10.31.21:380][313]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.26-10.31.21:443][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.26-10.31.21:451][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.26-10.31.21:459][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.26-10.31.21:460][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/9S/NLL4LQRA5AIJ988YAVF26Z
+[2025.03.26-10.31.21:461][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/NLL4LQRA5AIJ988YAVF26ZC43B002E41BCC2F6F77CDCBF5F086A7E.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/9S/NLL4LQRA5AIJ988YAVF26Z.uasset'
+[2025.03.26-10.31.21:462][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/LC/UJVP54UUYSPAQAABTC733D
+[2025.03.26-10.31.21:462][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/UJVP54UUYSPAQAABTC733DFC4FAD9D4B61171BC9F3328145FE047E.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/LC/UJVP54UUYSPAQAABTC733D.uasset'
+[2025.03.26-10.31.21:463][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5N/ZGO9UYVQOHWGI3GG5EWI86
+[2025.03.26-10.31.21:463][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/ZGO9UYVQOHWGI3GG5EWI86E7D6E77443B1A666869E5F91A0730AD4.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/5N/ZGO9UYVQOHWGI3GG5EWI86.uasset'
+[2025.03.26-10.31.21:464][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/JD/AIENG09C2R3A9MULRLBIKO
+[2025.03.26-10.31.21:464][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/AIENG09C2R3A9MULRLBIKO0994BBE9429ED841E763C28DE2DCD165.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/JD/AIENG09C2R3A9MULRLBIKO.uasset'
+[2025.03.26-10.31.21:465][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/XS/35HOV3M82SIJVOMX948W1C
+[2025.03.26-10.31.21:465][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/35HOV3M82SIJVOMX948W1CF20768C34383B7E2547EA289DD58D2D2.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/XS/35HOV3M82SIJVOMX948W1C.uasset'
+[2025.03.26-10.31.21:466][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H2/FLJ41I9YN96064IJ6VEWPU
+[2025.03.26-10.31.21:466][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/FLJ41I9YN96064IJ6VEWPU7C8E9EA04524A976A0C251BA1D837327.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/H2/FLJ41I9YN96064IJ6VEWPU.uasset'
+[2025.03.26-10.31.21:467][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/K0/SSD1VIYUESCECCFI1DNJZ6
+[2025.03.26-10.31.21:467][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/SSD1VIYUESCECCFI1DNJZ6926554DD49B7262A54EC13A418438590.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/K0/SSD1VIYUESCECCFI1DNJZ6.uasset'
+[2025.03.26-10.31.21:468][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QA/BSU8SQE0LUK21VQ2D6IA90
+[2025.03.26-10.31.21:468][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/BSU8SQE0LUK21VQ2D6IA9027CE52244BED4D6EC0EF9AB82E70208D.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/QA/BSU8SQE0LUK21VQ2D6IA90.uasset'
+[2025.03.26-10.31.21:469][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OY/NIUTO82N3G0SAQ6UI0X01G
+[2025.03.26-10.31.21:469][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/NIUTO82N3G0SAQ6UI0X01G7E371EB1446C918DD629FC9CA7E28256.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/OY/NIUTO82N3G0SAQ6UI0X01G.uasset'
+[2025.03.26-10.31.21:470][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TJ/TSGX18XWBWET3VVRITOEAL
+[2025.03.26-10.31.21:470][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/TSGX18XWBWET3VVRITOEAL0D36B0954D57AB81A51C3686203AD182.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/TJ/TSGX18XWBWET3VVRITOEAL.uasset'
+[2025.03.26-10.31.21:471][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4E/HHRNBZSSHA0QLZN8B48GIX
+[2025.03.26-10.31.21:471][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/HHRNBZSSHA0QLZN8B48GIXC52425E042CC68B1266CDCB90F4BC5DA.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/4E/HHRNBZSSHA0QLZN8B48GIX.uasset'
+[2025.03.26-10.31.21:472][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/6P/624E2M0LGLAW2XW6IM5F3C
+[2025.03.26-10.31.21:472][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/624E2M0LGLAW2XW6IM5F3C1F1DDCD74623BE6606F3CF9672B16786.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/6P/624E2M0LGLAW2XW6IM5F3C.uasset'
+[2025.03.26-10.31.21:473][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VW/QPMNK2P5QICKII9QXFAP85
+[2025.03.26-10.31.21:473][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/QPMNK2P5QICKII9QXFAP855824B66B4FCAC7ACC57FC6986D0323C6.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/VW/QPMNK2P5QICKII9QXFAP85.uasset'
+[2025.03.26-10.31.21:474][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BF/D6GYNKQ33IM363MJQOUU7K
+[2025.03.26-10.31.21:474][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/D6GYNKQ33IM363MJQOUU7K3B4568D44094C41FADF3958EC879CE1D.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BF/D6GYNKQ33IM363MJQOUU7K.uasset'
+[2025.03.26-10.31.21:475][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/W8/6Y4EGW7XZ77T8UUH8BUGJV
+[2025.03.26-10.31.21:475][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/6Y4EGW7XZ77T8UUH8BUGJV4750A6694526134B963DFA9B1A3AFCAD.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/W8/6Y4EGW7XZ77T8UUH8BUGJV.uasset'
+[2025.03.26-10.31.21:476][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/FV/EY33HU2R3ZA0BW2TYSFOII
+[2025.03.26-10.31.21:476][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/EY33HU2R3ZA0BW2TYSFOII13F585894D2C8131CEF16CB61F6369C8.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/FV/EY33HU2R3ZA0BW2TYSFOII.uasset'
+[2025.03.26-10.31.21:477][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/5S/AHHYA813J5U9GUWHCDZKBI
+[2025.03.26-10.31.21:477][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/AHHYA813J5U9GUWHCDZKBIC90B92B046904DBB5735D3B1D9DA5BB6.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/5S/AHHYA813J5U9GUWHCDZKBI.uasset'
+[2025.03.26-10.31.21:478][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/O2/XOK7BC3PJ3Q4KXQCCNSAF9
+[2025.03.26-10.31.21:478][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/XOK7BC3PJ3Q4KXQCCNSAF9B0569F88423E5E669D755D8B8E0281B0.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/O2/XOK7BC3PJ3Q4KXQCCNSAF9.uasset'
+[2025.03.26-10.31.21:479][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PH/LS79UL14XCORKDVJGLFVZ9
+[2025.03.26-10.31.21:479][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/LS79UL14XCORKDVJGLFVZ96EC419434B045FB55EE48EB5736FDC0A.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PH/LS79UL14XCORKDVJGLFVZ9.uasset'
+[2025.03.26-10.31.21:480][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PX/KKZ7WUB1H7YQFYYX3PLQDO
+[2025.03.26-10.31.21:480][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/KKZ7WUB1H7YQFYYX3PLQDO46470A0A4283A1684D67C3B366E4B9C4.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PX/KKZ7WUB1H7YQFYYX3PLQDO.uasset'
+[2025.03.26-10.31.21:481][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1P/WNMJ8WLEN76XW24YNLL6IW
+[2025.03.26-10.31.21:481][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WNMJ8WLEN76XW24YNLL6IW92B767FA4ECE7B145CA190BA082B2191.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1P/WNMJ8WLEN76XW24YNLL6IW.uasset'
+[2025.03.26-10.31.21:482][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/36/3B4J22L54KK8U99LC0WL38
+[2025.03.26-10.31.21:483][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/3B4J22L54KK8U99LC0WL386D86603A4E8A2213313307AA6EDCF64C.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/36/3B4J22L54KK8U99LC0WL38.uasset'
+[2025.03.26-10.31.21:483][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/UY/DB1M2X81SLI7NRSIBYZZYG
+[2025.03.26-10.31.21:484][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/DB1M2X81SLI7NRSIBYZZYG06A3F49444F7A892407FE38196B42F83.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/UY/DB1M2X81SLI7NRSIBYZZYG.uasset'
+[2025.03.26-10.31.21:485][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VX/VNZEMT9P0M15M1ZU3WRJME
+[2025.03.26-10.31.21:485][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/VNZEMT9P0M15M1ZU3WRJME92800E4A4339A1380271498DAEDAFEF5.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VX/VNZEMT9P0M15M1ZU3WRJME.uasset'
+[2025.03.26-10.31.21:486][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Z2/68O1X5TVXP8X54E9MPN3Y7
+[2025.03.26-10.31.21:486][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/68O1X5TVXP8X54E9MPN3Y7149006784DB148F6277445AE223BE86C.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/Z2/68O1X5TVXP8X54E9MPN3Y7.uasset'
+[2025.03.26-10.31.21:487][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/2T/SPYD2OO7JPUAAKD2AB6KN7
+[2025.03.26-10.31.21:487][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/SPYD2OO7JPUAAKD2AB6KN752DBCA9F42CBFBFDEA9CC6B605ADDB86.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/2T/SPYD2OO7JPUAAKD2AB6KN7.uasset'
+[2025.03.26-10.31.21:488][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7T/QG34JSVYD2VEOI8KA47MXE
+[2025.03.26-10.31.21:488][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/QG34JSVYD2VEOI8KA47MXEFBC289B840AC9DA6E210739BB851923E.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/7T/QG34JSVYD2VEOI8KA47MXE.uasset'
+[2025.03.26-10.31.21:489][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/II/L086VJZ4DPI58GF5P1D9AH
+[2025.03.26-10.31.21:489][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/L086VJZ4DPI58GF5P1D9AH1544714E4551DBA1CA0A61A3B322ED39.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/II/L086VJZ4DPI58GF5P1D9AH.uasset'
+[2025.03.26-10.31.21:490][313]LogWorldPartition: Can't find class descriptor '/Game/Mechanics/interaction/BP_Closet.BP_Closet_C' for saving '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Closet_C_UAID_D843AE576D27D75802_1804098264'
+[2025.03.26-10.31.21:490][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SE/L358PWHWIUAVTJLFKR146W
+[2025.03.26-10.31.21:490][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/L358PWHWIUAVTJLFKR146WC745BAF148D97D6F578A689BFC74B866.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SE/L358PWHWIUAVTJLFKR146W.uasset'
+[2025.03.26-10.31.21:491][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/13/NYILYCHPHKLGGR2PE400TS
+[2025.03.26-10.31.21:491][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/NYILYCHPHKLGGR2PE400TS4723B962477D7B0AF1F63E88BA4D0ACF.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/13/NYILYCHPHKLGGR2PE400TS.uasset'
+[2025.03.26-10.31.21:492][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/M2/VBQ4KB668XCE16M038OZ6J
+[2025.03.26-10.31.21:492][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/VBQ4KB668XCE16M038OZ6JE222AA8645803662970339ABAF4A642A.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/M2/VBQ4KB668XCE16M038OZ6J.uasset'
+[2025.03.26-10.31.21:493][313]LogWorldPartition: Can't find class descriptor '/Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C' for saving '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_UAID_D843AE576D27D85802_1431371445'
+[2025.03.26-10.31.21:494][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/XT/CEXGH0GBIFLQN2BHRF801V
+[2025.03.26-10.31.21:494][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/CEXGH0GBIFLQN2BHRF801VCEE6B37B4F82F3B845319E8F621C2D15.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/XT/CEXGH0GBIFLQN2BHRF801V.uasset'
+[2025.03.26-10.31.21:495][313]LogWorldPartition: Can't find class descriptor '/Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C' for saving '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_UAID_D843AE576D27D85802_1319177443'
+[2025.03.26-10.31.21:495][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TU/134Y221ZP19ME08UHMK8RJ
+[2025.03.26-10.31.21:495][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/134Y221ZP19ME08UHMK8RJF999083D455CD072ED81F58AC85F375C.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/TU/134Y221ZP19ME08UHMK8RJ.uasset'
+[2025.03.26-10.31.21:496][313]LogWorldPartition: Can't find class descriptor '/Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C' for saving '/Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_UAID_D843AE576D27D85802_1405541444'
+[2025.03.26-10.31.21:496][313]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LV/9XUAIG5DMV671NZ55AWKUM
+[2025.03.26-10.31.21:496][313]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/9XUAIG5DMV671NZ55AWKUMC0A9EED640A3067F8EDB90ACDCD5DDD7.tmp' to '../../../../../Github/GameJam/GameJam/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/LV/9XUAIG5DMV671NZ55AWKUM.uasset'
+[2025.03.26-10.31.21:502][313]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 297 ms)
+[2025.03.26-10.31.21:506][313]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/Mechanics/interaction/Dishes/Silver_Goblet.Silver_Goblet_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Silver_Goblet_C_UAID_D843AE576D27B65802_1774717502
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/Mechanics/interaction/Dishes/Spoon.Spoon_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Spoon_C_UAID_D843AE576D27B65802_1802056504
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/NavigationSystem.RecastNavMesh /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.RecastNavMesh_UAID_309C2392D39FB45802-Default
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B55802_2119124314
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27885802_1396296368
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B65802_2016182505
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B65802_1198332493
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B45802_1959330127
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/Mechanics/interaction/Dishes/Silver_Goblet.Silver_Goblet_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Silver_Goblet_C_UAID_D843AE576D27B55802_1505656310
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B45802_1680572124
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B55802_1962246313
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B75802_2028501692
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_309C2392D39FB45802_1313134105
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B75802_2012816691
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27885802_1628673373
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27665802_1222078393
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B65802_1180637492
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/Neckless.Neckless_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Neckless_C_UAID_D843AE576D27B75802_1407847689
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/Mechanics/interaction/Dishes/Folk.Folk_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Folk_C_UAID_D843AE576D27B65802_1788968503
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/Mechanics/interaction/Dishes/Plate.Plate_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Plate_C_UAID_D843AE576D27B65802_1763824501
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/Piano.Piano_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Piano_C_UAID_D843AE576D27B55802_1904848312
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/Clock.Clock_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Clock_C_UAID_D843AE576D27B85802_1169141872
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B65802_1312456495
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.PlayerStart /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.PlayerStart_UAID_309C2392D39FBA5802_1325548159
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B45802_1896592126
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B45802_1404594123
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27B65802_1452984500
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27665802_1179712392
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/Mechanics/interaction/BP_Closet.BP_Closet_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Closet_C_UAID_D843AE576D27D75802_1804098264
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27D75802_2058143265
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_D843AE576D27D75802_2058145266
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_UAID_D843AE576D27D85802_1431371445
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_UAID_D843AE576D27D85802_1319177443
+[2025.03.26-10.31.21:506][313]LogContentValidation: Display: Validating /Game/Mechanics/interaction/BP_SM_Curtains.BP_SM_Curtains_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_SM_Curtains_C_UAID_D843AE576D27D85802_1405541444
