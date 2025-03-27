@@ -2136,3 +2136,1095 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.27-18.17.03:857][962]LogSlate: Window 'MI_Wall_Shelf_04a' being destroyed
 [2025.03.27-18.17.03:870][962]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
 [2025.03.27-18.17.03:870][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.22.52:931][719]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2004.442017
+[2025.03.27-18.22.53:932][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-18.22.53:932][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2005.109619, Update Interval: 339.290131
+[2025.03.27-18.27.12:633][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.27.13:409][396]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.27.13:423][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.27-18.27.13:429][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.27-18.27.13:434][396]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-18.27.44:436][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.27.45:309][922]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.27.45:322][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.27-18.27.45:326][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.27-18.27.45:329][922]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.27-18.28.43:046][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.28.44:547][324]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.28.44:557][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.27-18.28.44:561][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.27-18.28.44:567][324]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.27-18.29.16:043][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-18.29.16:830][798]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.29.16:846][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.27-18.29.16:852][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2025.03.27-18.29.16:856][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.29.19:233][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2390.715820
+[2025.03.27-18.29.19:408][ 85]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-18.29.19:408][ 85]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2390.882812, Update Interval: 343.357025
+[2025.03.27-18.29.38:661][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.29.39:885][219]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.29.39:900][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-18.29.39:905][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.27-18.29.39:910][219]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-18.30.00:903][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.30.01:754][637]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.30.01:769][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2025.03.27-18.30.01:774][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.27-18.30.01:779][637]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-18.30.15:487][232]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.30.17:397][232]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.30.19:289][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.30.20:820][419]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.30.20:833][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-18.30.20:837][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.27-18.30.20:840][419]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.30.23:806][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.30.24:756][748]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.30.24:765][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.30.24:771][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.27-18.30.24:775][748]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.27-18.30.32:916][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.30.34:203][671]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.30.34:213][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.27-18.30.34:218][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-18.30.34:224][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-18.30.39:921][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.27-18.30.40:880][317]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.30.40:894][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.27-18.30.40:899][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-18.30.40:904][317]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.30.40:908][317]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.30.40:909][317]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.27-18.30.40:909][317]LogShaderCompilers: Display: Total job queries 93, among them cache hits 24 (25.81%)
+[2025.03.27-18.30.40:909][317]LogShaderCompilers: Display: Tracking 69 distinct input hashes that result in 44 distinct outputs (63.77%)
+[2025.03.27-18.30.40:909][317]LogShaderCompilers: Display: RAM used: 1,58 MiB of 1,60 GiB budget. Usage: 0.10%
+[2025.03.27-18.30.40:909][317]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.27-18.30.40:909][317]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.27-18.30.40:909][317]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.03.27-18.30.40:909][317]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.27-18.30.40:909][317]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.30.47:283][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.30.48:272][ 30]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.30.48:286][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.27-18.30.48:290][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.27-18.30.48:295][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-18.31.57:978][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-18.31.59:211][ 73]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.31.59:480][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.27-18.31.59:482][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-18.31.59:484][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-18.32.15:768][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-18.32.17:216][893]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.32.17:693][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.27-18.32.17:697][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-18.32.17:699][893]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.32.25:921][768]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL5/Materials/MI_Rug_02a.MI_Rug_02a
+[2025.03.27-18.32.25:923][768]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.32.25:923][768]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.32.26:117][768]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.32.33:210][598]LogSlate: Window 'MI_Rug_02a' being destroyed
+[2025.03.27-18.32.33:215][598]LogSlate: Window 'MI_Rug_02a' being destroyed
+[2025.03.27-18.32.33:220][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-18.32.33:966][598]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.32.33:987][598]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.32.33:987][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.32.38:111][ 78]Cmd: TRANSACTION UNDO
+[2025.03.27-18.32.38:111][ 78]LogEditorTransaction: Undo Edit Condition Changed
+[2025.03.27-18.32.39:529][189]Cmd: TRANSACTION UNDO
+[2025.03.27-18.32.39:529][189]LogEditorTransaction: Undo Edit Condition Changed
+[2025.03.27-18.32.40:648][323]Cmd: TRANSACTION UNDO
+[2025.03.27-18.32.40:648][323]LogEditorTransaction: Undo Clicking on Elements
+[2025.03.27-18.32.56:007][108]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL6/Materials/MI_Door_07a.MI_Door_07a
+[2025.03.27-18.32.56:008][108]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.32.56:008][108]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.32.56:191][108]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.32.57:263][230]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/OldWest/VOL6/Textures/TX_Door_07a_ALB.TX_Door_07a_ALB
+[2025.03.27-18.32.57:377][230]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.33.04:059][918]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL5/Materials/MI_Rug_02a.MI_Rug_02a
+[2025.03.27-18.33.04:060][918]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.33.04:060][918]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.33.04:216][918]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.33.05:118][ 21]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/OldWest/VOL5/Textures/TX_Rugs_02b_ALB.TX_Rugs_02b_ALB
+[2025.03.27-18.33.05:219][ 21]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.33.10:578][576]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL6/Materials/MI_Shelf_12a.MI_Shelf_12a
+[2025.03.27-18.33.10:579][576]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.33.10:579][576]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.33.10:741][576]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.33.11:854][702]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/OldWest/VOL6/Textures/TX_Shelf_NN_12a_ALB.TX_Shelf_NN_12a_ALB
+[2025.03.27-18.33.11:959][702]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.33.19:906][543]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL6/Materials/MI_Piano_01a.MI_Piano_01a
+[2025.03.27-18.33.19:907][543]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.33.19:907][543]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.33.20:086][543]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.33.20:982][645]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/OldWest/VOL6/Textures/TX_Piano_01a_ALB.TX_Piano_01a_ALB
+[2025.03.27-18.33.21:089][645]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.33.24:250][925]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Props_elya/vase/MatID_1.MatID_1
+[2025.03.27-18.33.24:253][925]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.33.24:253][925]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.33.24:351][925]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.33.24:352][925]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.03.27-18.33.24:352][925]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.33.24:352][925]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.33.24:356][925]LogSlate: Took 0.000555 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.03.27-18.33.24:359][925]LogViewport: Scene viewport resized to 137x184, mode Windowed.
+[2025.03.27-18.33.24:408][927]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.03.27-18.33.24:408][927]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.27-18.33.24:408][927]MaterialEditorStats: Texture samplers: 5/16
+[2025.03.27-18.33.24:408][927]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.03.27-18.33.24:408][927]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.33.24:408][927]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.33.28:638][333]LogSlate: Window 'MatID_1' being destroyed
+[2025.03.27-18.33.28:642][333]LogSlate: Window 'MatID_1' being destroyed
+[2025.03.27-18.33.28:658][333]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.33.28:658][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.33.28:690][333]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.33.28:690][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.33.28:720][333]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.33.28:720][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.33.28:749][333]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.33.28:749][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.33.28:778][333]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.33.28:778][333]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.33.39:523][542]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Props_elya/furniture/Clock/Clock.Clock
+[2025.03.27-18.33.39:526][542]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.33.39:526][542]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.33.39:637][542]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.33.39:637][542]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.03.27-18.33.39:637][542]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.33.39:637][542]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.33.39:642][542]LogViewport: Scene viewport resized to 137x184, mode Windowed.
+[2025.03.27-18.33.39:683][544]MaterialEditorStats: Base pass shader: 208 instructions
+[2025.03.27-18.33.39:683][544]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.27-18.33.39:683][544]MaterialEditorStats: Texture samplers: 6/16
+[2025.03.27-18.33.39:683][544]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(4)
+[2025.03.27-18.33.39:683][544]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.33.39:683][544]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Total job queries 175, among them cache hits 84 (48.00%)
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Tracking 91 distinct input hashes that result in 53 distinct outputs (58.24%)
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: RAM used: 2,03 MiB of 1,60 GiB budget. Usage: 0.12%
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.11 s
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.42 s
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 0.53
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Shader code size: average 42,674 KiB, min 35,938 KiB, max 49,41 KiB
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.53 s
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Average processing rate: 3.77 jobs/sec
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Total thread time: 0,416 s
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Total thread preprocess time: 0,036 s
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Percentage time preprocessing: 8.66%
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Effective parallelization: 0.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display:                                             FDebugViewModePS - 55.04% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display:                                             FDebugViewModeVS - 44.96% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.03.27-18.33.41:073][690]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.33.43:523][940]LogSlate: Window 'Clock' being destroyed
+[2025.03.27-18.33.43:527][940]LogSlate: Window 'Clock' being destroyed
+[2025.03.27-18.33.43:541][940]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.33.43:541][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.33.49:816][631]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL5/Materials/MI_Rug_02a.MI_Rug_02a
+[2025.03.27-18.33.49:817][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.33.49:817][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.33.50:023][631]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.33.51:171][764]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/OldWest/VOL5/Textures/TX_Rugs_02b_ALB.TX_Rugs_02b_ALB
+[2025.03.27-18.33.51:278][764]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.33.52:631][911]LogSlate: Window 'TX_Rugs_02b_ALB' being destroyed
+[2025.03.27-18.33.52:635][911]LogSlate: Window 'TX_Rugs_02b_ALB' being destroyed
+[2025.03.27-18.33.52:649][911]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.33.52:649][911]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.33.55:522][192]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Props_elya/furniture/Sofa/NewMaterial.NewMaterial
+[2025.03.27-18.33.55:524][192]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.33.55:524][192]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.33.55:649][192]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.33.55:649][192]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.33.55:649][192]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.33.55:649][192]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.33.55:654][192]LogViewport: Scene viewport resized to 137x184, mode Windowed.
+[2025.03.27-18.33.55:698][194]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.03.27-18.33.55:698][194]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.27-18.33.55:698][194]MaterialEditorStats: Texture samplers: 5/16
+[2025.03.27-18.33.55:698][194]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.33.55:698][194]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.33.55:698][194]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.33.59:844][657]LogSlate: Window 'NewMaterial' being destroyed
+[2025.03.27-18.33.59:850][657]LogSlate: Window 'NewMaterial' being destroyed
+[2025.03.27-18.33.59:865][657]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.33.59:865][657]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.34.05:987][321]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials_elya/Wall_3/Wall_3_Inst.Wall_3_Inst
+[2025.03.27-18.34.05:988][321]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.34.05:988][321]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.34.06:133][321]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.34.08:157][523]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials_elya/Wall_3/Wall_3.Wall_3
+[2025.03.27-18.34.08:161][523]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.34.08:161][523]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.34.08:240][523]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.34.08:240][523]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2025.03.27-18.34.08:240][523]MaterialEditorStats: LWC Promote usages (Est.): 7
+[2025.03.27-18.34.08:240][523]MaterialEditorStats: LWC Demote usages (Est.): 3
+[2025.03.27-18.34.08:240][523]MaterialEditorStats: LWC Divide usages (Est.): 4
+[2025.03.27-18.34.08:240][523]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 11
+[2025.03.27-18.34.08:240][523]MaterialEditorStats: LWC Other usages (Est.): 13
+[2025.03.27-18.34.08:240][523]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.34.08:245][523]LogViewport: Scene viewport resized to 137x184, mode Windowed.
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: Base pass shader: 289 instructions
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: LWC Promote usages (Est.): 7
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: LWC Demote usages (Est.): 3
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: LWC Divide usages (Est.): 4
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 11
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: LWC Other usages (Est.): 13
+[2025.03.27-18.34.08:292][525]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.34.16:642][372]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials_elya/Wall_3/forest-wallpaper_albedo.forest-wallpaper_albedo
+[2025.03.27-18.34.16:703][372]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.34.16:703][372]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2025.03.27-18.34.16:703][372]MaterialEditorStats: LWC Promote usages (Est.): 7
+[2025.03.27-18.34.16:703][372]MaterialEditorStats: LWC Demote usages (Est.): 3
+[2025.03.27-18.34.16:703][372]MaterialEditorStats: LWC Divide usages (Est.): 4
+[2025.03.27-18.34.16:703][372]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 11
+[2025.03.27-18.34.16:703][372]MaterialEditorStats: LWC Other usages (Est.): 13
+[2025.03.27-18.34.16:703][372]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.34.16:746][372]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: Base pass shader: 289 instructions
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: LWC Promote usages (Est.): 7
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: LWC Demote usages (Est.): 3
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: LWC Divide usages (Est.): 4
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 11
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: LWC Other usages (Est.): 13
+[2025.03.27-18.34.16:795][373]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.34.18:217][537]LogSlate: Window 'forest-wallpaper_albedo' being destroyed
+[2025.03.27-18.34.18:221][537]LogSlate: Window 'forest-wallpaper_albedo' being destroyed
+[2025.03.27-18.34.18:235][537]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.34.18:235][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.34.18:252][537]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.34.18:252][537]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.34.25:557][296]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL6/Materials/MI_Shelf_12a.MI_Shelf_12a
+[2025.03.27-18.34.25:558][296]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.34.25:558][296]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.34.25:767][296]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.34.26:800][412]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/OldWest/VOL6/Textures/TX_Shelf_NN_12a_ALB.TX_Shelf_NN_12a_ALB
+[2025.03.27-18.34.26:910][412]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.34.29:729][731]LogSlate: Window 'TX_Shelf_NN_12a_ALB' being destroyed
+[2025.03.27-18.34.29:734][731]LogSlate: Window 'TX_Shelf_NN_12a_ALB' being destroyed
+[2025.03.27-18.34.29:748][731]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.34.29:748][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.34.33:979][139]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL6/Materials/MI_Piano_01a.MI_Piano_01a
+[2025.03.27-18.34.33:981][139]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.34.33:981][139]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.34.34:194][139]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.34.35:187][247]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/OldWest/VOL6/Textures/TX_Piano_01a_ALB.TX_Piano_01a_ALB
+[2025.03.27-18.34.35:282][247]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.34.36:216][345]LogSlate: Window 'TX_Piano_01a_ALB' being destroyed
+[2025.03.27-18.34.36:221][345]LogSlate: Window 'TX_Piano_01a_ALB' being destroyed
+[2025.03.27-18.34.36:235][345]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.34.36:235][345]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.34.38:136][549]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Props_elya/chair/Tex_Common_Chair_seat.Tex_Common_Chair_seat
+[2025.03.27-18.34.38:138][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.34.38:138][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.34.38:249][549]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.34.38:249][549]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.34.38:249][549]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.34.38:249][549]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.34.38:255][549]LogViewport: Scene viewport resized to 137x184, mode Windowed.
+[2025.03.27-18.34.38:323][551]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.03.27-18.34.38:323][551]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.27-18.34.38:323][551]MaterialEditorStats: Texture samplers: 5/16
+[2025.03.27-18.34.38:323][551]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.34.38:323][551]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.34.38:323][551]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.34.41:991][918]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Props_elya/chair/Tex_Common_Chair_seat_BaseColor.Tex_Common_Chair_seat_BaseColor
+[2025.03.27-18.34.42:051][918]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.34.42:051][918]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.34.42:051][918]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.34.42:051][918]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.34.42:097][918]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.34.42:158][920]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.03.27-18.34.42:158][920]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.27-18.34.42:158][920]MaterialEditorStats: Texture samplers: 5/16
+[2025.03.27-18.34.42:158][920]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.34.42:158][920]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.34.42:158][920]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.34.43:905][121]LogSlate: Window 'Tex_Common_Chair_seat_BaseColor' being destroyed
+[2025.03.27-18.34.43:910][121]LogSlate: Window 'Tex_Common_Chair_seat_BaseColor' being destroyed
+[2025.03.27-18.34.43:923][121]LogWorld: UWorld::CleanupWorld for World_37, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.34.43:923][121]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.34.45:195][255]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Props_elya/chair/Tex_Common_Chair_leg.Tex_Common_Chair_leg
+[2025.03.27-18.34.45:198][255]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.34.45:198][255]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.34.45:349][255]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.34.45:349][255]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.34.45:349][255]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.34.45:349][255]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.34.45:354][255]LogViewport: Scene viewport resized to 137x184, mode Windowed.
+[2025.03.27-18.34.45:391][257]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.03.27-18.34.45:391][257]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.27-18.34.45:391][257]MaterialEditorStats: Texture samplers: 5/16
+[2025.03.27-18.34.45:391][257]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.34.45:391][257]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.34.45:392][257]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.34.48:571][578]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Props_elya/chair/Tex_Common_Chair_leg_BaseColor.Tex_Common_Chair_leg_BaseColor
+[2025.03.27-18.34.48:630][578]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.34.48:630][578]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.34.48:630][578]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.34.48:630][578]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.34.48:669][578]LogViewport: Scene viewport resized to 465x369, mode Windowed.
+[2025.03.27-18.34.48:722][579]MaterialEditorStats: Base pass shader: 205 instructions
+[2025.03.27-18.34.48:722][579]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2025.03.27-18.34.48:722][579]MaterialEditorStats: Texture samplers: 5/16
+[2025.03.27-18.34.48:722][579]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(3)
+[2025.03.27-18.34.48:722][579]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2025.03.27-18.34.48:722][579]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.34.49:930][717]LogSlate: Window 'Tex_Common_Chair_leg_BaseColor' being destroyed
+[2025.03.27-18.34.49:934][717]LogSlate: Window 'Tex_Common_Chair_leg_BaseColor' being destroyed
+[2025.03.27-18.34.49:948][717]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.34.49:948][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.34.55:427][318]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials_elya/Wall_3/Wall_3_Inst.Wall_3_Inst
+[2025.03.27-18.34.55:428][318]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.34.55:429][318]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.34.55:597][318]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.34.56:892][455]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials_elya/Wall_3/Wall_3.Wall_3
+[2025.03.27-18.34.56:896][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.34.56:896][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.34.56:976][455]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.34.56:976][455]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2025.03.27-18.34.56:976][455]MaterialEditorStats: LWC Promote usages (Est.): 7
+[2025.03.27-18.34.56:976][455]MaterialEditorStats: LWC Demote usages (Est.): 3
+[2025.03.27-18.34.56:976][455]MaterialEditorStats: LWC Divide usages (Est.): 4
+[2025.03.27-18.34.56:976][455]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 11
+[2025.03.27-18.34.56:976][455]MaterialEditorStats: LWC Other usages (Est.): 13
+[2025.03.27-18.34.56:976][455]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.34.56:982][455]LogViewport: Scene viewport resized to 137x184, mode Windowed.
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: Base pass shader: 289 instructions
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: LWC Promote usages (Est.): 7
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: LWC Demote usages (Est.): 3
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: LWC Divide usages (Est.): 4
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 11
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: LWC Other usages (Est.): 13
+[2025.03.27-18.34.57:021][457]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.35.01:257][870]LogViewport: Scene viewport resized to 138x184, mode Windowed.
+[2025.03.27-18.35.01:308][870]LogViewport: Scene viewport resized to 141x187, mode Windowed.
+[2025.03.27-18.35.01:377][870]LogViewport: Scene viewport resized to 163x202, mode Windowed.
+[2025.03.27-18.35.01:444][870]LogViewport: Scene viewport resized to 193x225, mode Windowed.
+[2025.03.27-18.35.01:511][870]LogViewport: Scene viewport resized to 221x251, mode Windowed.
+[2025.03.27-18.35.01:540][870]LogViewport: Scene viewport resized to 231x263, mode Windowed.
+[2025.03.27-18.35.01:592][870]LogViewport: Scene viewport resized to 233x266, mode Windowed.
+[2025.03.27-18.35.02:415][941]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/Materials_elya/Wall_3/forest-wallpaper_albedo.forest-wallpaper_albedo
+[2025.03.27-18.35.02:482][941]MaterialEditorStats: Texture samplers: 0/16
+[2025.03.27-18.35.02:482][941]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2025.03.27-18.35.02:482][941]MaterialEditorStats: LWC Promote usages (Est.): 7
+[2025.03.27-18.35.02:482][941]MaterialEditorStats: LWC Demote usages (Est.): 3
+[2025.03.27-18.35.02:482][941]MaterialEditorStats: LWC Divide usages (Est.): 4
+[2025.03.27-18.35.02:482][941]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 11
+[2025.03.27-18.35.02:482][941]MaterialEditorStats: LWC Other usages (Est.): 13
+[2025.03.27-18.35.02:482][941]MaterialEditorStats: Shader Count: 0
+[2025.03.27-18.35.02:525][941]LogViewport: Scene viewport resized to 784x533, mode Windowed.
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: Base pass shader: 289 instructions
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: Texture samplers: 3/16
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(15)
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: LWC Promote usages (Est.): 7
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: LWC Demote usages (Est.): 3
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: LWC Divide usages (Est.): 4
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: LWC Multiply Vector Vector usages (Est.): 11
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: LWC Other usages (Est.): 13
+[2025.03.27-18.35.02:582][942]MaterialEditorStats: Shader Count: 4
+[2025.03.27-18.35.05:510][247]LogSlate: Window 'forest-wallpaper_albedo' being destroyed
+[2025.03.27-18.35.05:515][247]LogSlate: Window 'forest-wallpaper_albedo' being destroyed
+[2025.03.27-18.35.05:529][247]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.05:529][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.35.05:547][247]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.05:547][247]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.35.19:979][950]LogDebuggerCommands: Repeating last play command: Simulate
+[2025.03.27-18.35.19:985][950]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.27-18.35.19:985][950]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.27-18.35.19:997][950]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 12 ms
+[2025.03.27-18.35.19:998][950]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.27-18.35.19:998][950]PIE: New page: SIE session: FirstPersonMap (28 мар. 2025 г., 00:35:19)
+[2025.03.27-18.35.20:005][950]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.03.27-18.35.20:005][950]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.03.27-18.35.20:005][950]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.27-18.35.20:037][950]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031305s)
+[2025.03.27-18.35.20:037][950]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.031354s)
+[2025.03.27-18.35.20:049][950]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-18.35.20:053][950]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.35.20:053][950]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.35.20:054][950]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.27-18.35.20:054][950]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.27-18.35.20:054][950]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.27-18.35.20:054][950]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.27-18.35.20:054][950]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.27-18.35.20:062][950]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.27-18.35.20:062][950]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 978 ms)
+[2025.03.27-18.35.20:062][950]LogPlayLevel: PIE: World Init took: (0.008668s)
+[2025.03.27-18.35.20:062][950]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.03.27-18.35.20:062][950]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.27-18.35.20:062][950]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.27-18.35.20:062][950]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.27-18.35.20:062][950]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.27-18.35.20:062][950]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.27-18.35.20:062][950]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.27-18.35.20:062][950]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.27-18.35.20:062][950]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.27-18.35.20:062][950]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.27-18.35.20:062][950]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.27-18.35.20:062][950]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.27-18.35.20:064][950]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.27-18.35.20:075][950]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Xonar SoundCard)
+[2025.03.27-18.35.20:075][950]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.27-18.35.20:075][950]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.27-18.35.20:075][950]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.27-18.35.20:076][950]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.03.27-18.35.20:076][950]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.03.27-18.35.20:077][950]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.03.27-18.35.20:077][950]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.03.27-18.35.20:077][950]LogInit: FAudioDevice initialized with ID 2.
+[2025.03.27-18.35.20:077][950]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2025.03.27-18.35.20:077][950]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.27-18.35.20:081][950]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.27-18.35.20:093][950]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.03.27-21.35.20
+[2025.03.27-18.35.20:094][950]LogWorld: Bringing up level for play took: 0.012655
+[2025.03.27-18.35.20:096][950]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2025.03.27-18.35.20:101][950]LogBlueprintUserMessages: [TestSecondVar_C_UAID_309C2392D39F2C5902_1248905223] 190
+[2025.03.27-18.35.20:102][950]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.27-18.35.20:102][950]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-18.35.20:103][950]PIE: Server logged in
+[2025.03.27-18.35.20:103][950]PIE: Play in editor total start time 0,119 seconds.
+[2025.03.27-18.35.23:832][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-18.35.23:832][133]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.27-18.35.23:833][133]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.23:836][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.35.23:836][133]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.27-18.35.23:841][133]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.27-18.35.23:843][133]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.35.23:845][133]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.27-18.35.23:845][133]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.03.27-18.35.23:845][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.27-18.35.23:847][133]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2025.03.27-18.35.23:859][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.35.23:901][134]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2025.03.27-18.35.29:135][716]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.35.29:138][716]LogStall: Shutdown...
+[2025.03.27-18.35.29:144][716]LogStall: Shutdown complete.
+[2025.03.27-18.35.29:173][716]LogSlate: Window 'GameJam - Unreal Editor' being destroyed
+[2025.03.27-18.35.29:250][717]Cmd: QUIT_EDITOR
+[2025.03.27-18.35.29:250][717]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.03.27-18.35.29:255][717]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.03.27-18.35.29:255][717]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.03.27-18.35.29:255][717]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.03.27-18.35.29:260][717]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.29:260][717]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.35.29:262][717]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.27-18.35.29:267][717]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.03.27-18.35.29:715][717]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.03.27-18.35.29:716][717]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.03.27-18.35.29:716][717]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2025.03.27-18.35.29:716][717]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 1
+[2025.03.27-18.35.29:716][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.27-18.35.29:717][717]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.03.27-18.35.29:722][717]LogAudio: Display: Audio Device Manager Shutdown
+[2025.03.27-18.35.29:722][717]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.27-18.35.29:724][717]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.03.27-18.35.29:724][717]LogExit: Preparing to exit.
+[2025.03.27-18.35.29:738][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:366][717]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:367][717]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:367][717]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.35.30:489][717]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.03.27-18.35.30:495][717]LogExit: Editor shut down
+[2025.03.27-18.35.30:498][717]LogExit: Transaction tracking system shut down
+[2025.03.27-18.35.30:664][717]LogExit: Object subsystem successfully closed.
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Total job queries 315, among them cache hits 208 (66.03%)
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Tracking 107 distinct input hashes that result in 58 distinct outputs (54.21%)
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: RAM used: 2,36 MiB of 1,60 GiB budget. Usage: 0.14%
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Time job spent in pending queue: average 0.11 s, longest 0.11 s
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Job execution time: average 0.42 s, max 0.42 s
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Job life time (pending + execution): average 0.53 s, max 0.53
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Shader code size: average 42,674 KiB, min 35,938 KiB, max 49,41 KiB
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.53 s
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Average processing rate: 3.77 jobs/sec
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Total thread time: 0,416 s
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Total thread preprocess time: 0,036 s
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Percentage time preprocessing: 8.66%
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Effective parallelization: 0.78 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Top 2 most expensive shader types by average time:
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: Top 2 shader types by total compile time:
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display:                                             FDebugViewModePS - 55.04% of total time (compiled    1 times, average 0.23 sec, max 0.23 sec, min 0.23 sec)
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display:                                             FDebugViewModeVS - 44.96% of total time (compiled    1 times, average 0.19 sec, max 0.19 sec, min 0.19 sec)
+[2025.03.27-18.35.30:669][717]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.35.30:744][717]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.03.27-18.35.30:989][717]LogVirtualization: UE::Virtualization was shutdown
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (1064)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module Voice (1062)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module TextureEditor (1060)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module MaterialEditor (1058)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module DataLayerEditor (1056)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (1054)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module AddContentDialog (1052)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module WidgetCarousel (1051)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module SubobjectEditor (1048)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module SceneOutliner (1046)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module StatusBar (1044)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (1042)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (1040)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module StatsViewer (1038)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (1036)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module AutomationWorker (1034)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module PlanarCut (1032)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module FractureEngine (1030)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module CharacterAI (1028)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (1026)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (1024)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (1022)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module WaveTableEditor (1020)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module RigVMEditor (1018)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (1016)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module HDRIBackdrop (1014)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module GooglePADEditor (1012)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (1010)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (1008)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (1006)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (1004)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (1002)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (1000)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (998)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module WebMMedia (996)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (994)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (992)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module SequenceRecorder (991)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (988)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (986)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (984)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (982)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (980)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (978)
+[2025.03.27-18.35.31:004][717]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (976)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module EngineAssetDefinitions (974)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module TextureAlignMode (972)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module BspMode (970)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module GeometryMode (968)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module ControlRigEditor (966)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module IKRigEditor (964)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module SmartSnapping (962)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module SessionServices (960)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module MeshPaint (958)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (956)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module PlacementMode (955)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module FoliageEdit (952)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module LandscapeEditor (950)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (948)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module ActorPickerMode (946)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module ViewportSnapping (944)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module EditorWidgets (942)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module ViewportInteraction (940)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module ClothPainter (938)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (937)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module WidgetRegistration (934)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module LogVisualizer (932)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (930)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (928)
+[2025.03.27-18.35.31:005][717]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (927)
+[2025.03.27-18.35.31:006][717]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (925)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (922)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module MacPlatformEditor (920)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (918)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (916)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module RenderResourceViewer (914)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module GameplayDebuggerEditor (912)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module AnimationSettings (910)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (908)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module CSVtoSVG (906)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (904)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module EditorConfig (902)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module EditorFramework (900)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (898)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module TraceInsights (896)
+[2025.03.27-18.35.31:341][717]MemoryProfiler: Shutdown
+[2025.03.27-18.35.31:341][717]NetworkingProfiler: Shutdown
+[2025.03.27-18.35.31:341][717]LoadingProfiler: Shutdown
+[2025.03.27-18.35.31:341][717]TimingProfiler: Shutdown
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module TraceServices (895)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module TraceAnalysis (894)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (890)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (889)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module InputBindingEditor (886)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module MergeActors (884)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (882)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module LocalizationService (881)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module HardwareTargeting (878)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (876)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module UndoHistory (874)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module XmlParser (872)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module Blutility (870)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (868)
+[2025.03.27-18.35.31:341][717]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (867)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (864)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (863)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module SettingsEditor (860)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module ProjectLauncher (858)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module SessionFrontend (856)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module ProfilerClient (854)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module DeviceManager (852)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module AutomationController (850)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module AutomationWindow (848)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module Layers (846)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (844)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module DetailCustomizations (842)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module PackagesDialog (840)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (838)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module Persona (836)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (835)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module Kismet (832)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module KismetWidgets (831)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module GraphEditor (828)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module StructViewer (826)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module ClassViewer (824)
+[2025.03.27-18.35.31:342][717]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (822)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (820)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module SourceControlWindows (818)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module OutputLog (816)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module Documentation (814)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module SparseVolumeTexture (812)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (810)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module MovieScene (808)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (806)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (804)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (802)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module AudioMixer (801)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module AudioMixerCore (800)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module LauncherPlatform (796)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module AnalyticsET (794)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module PortalServices (792)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module PortalRpc (790)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module MessagingRpc (788)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module AIModule (786)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module GameplayDebugger (785)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module AITestSuite (783)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module NavigationSystem (781)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (778)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (776)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module TypedElementFramework (774)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (772)
+[2025.03.27-18.35.31:343][717]LogModuleManager: Shutting down and abandoning module ProfilerService (770)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module ProfileVisualizer (768)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module CacheTrackRecorder (766)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (764)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (762)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module TakesCore (760)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (758)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module Fab (756)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module MegascansPlugin (754)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module Bridge (752)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (750)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module PortableObjectFileDataSource (748)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (746)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module CollectionManager (745)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (742)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module LightMixer (740)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (738)
+[2025.03.27-18.35.31:414][717]LogModuleManager: Shutting down and abandoning module TakeSequencer (736)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module TakeMovieScene (734)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (732)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (730)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (728)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeExport (726)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeMessages (724)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GLTFCore (722)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (720)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (718)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeEditor (716)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (714)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InterchangeTests (712)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module AlembicImporter (710)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module AlembicLibrary (709)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ToolPresetEditor (706)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ToolPresetAsset (704)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module StructUtilsTestSuite (702)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module StructUtilsNodes (700)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module StructUtilsEditor (698)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module StructUtilsEngine (696)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (694)
+[2025.03.27-18.35.31:415][717]LogOpenImageDenoise: OIDN shutting down
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module SkeletalMeshModifiers (692)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (690)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (688)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (686)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (684)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module MeshLODToolset (682)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module LocalizableMessageBlueprint (680)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module LocalizableMessage (678)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (676)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (674)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (672)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (670)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (668)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (667)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (665)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (662)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module DataflowNodes (660)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module DataflowEnginePlugin (658)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module DataflowEditor (656)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (654)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ChaosNiagara (652)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (650)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (648)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module FractureEditor (646)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (644)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module BackChannel (642)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (640)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module AutomationUtils (638)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module VariantManager (636)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (635)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (632)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (630)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module SequencerScripting (628)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module TemplateSequence (626)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module SynthesisEditor (624)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ResonanceAudio (622)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (620)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (618)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (616)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ModelingOperators (614)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (612)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module ModelingComponents (610)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GeometryFramework (609)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (606)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module MeshModelingTools (604)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InputDebuggingEditor (602)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module InputDebugging (600)
+[2025.03.27-18.35.31:415][717]LogModuleManager: Shutting down and abandoning module GooglePAD (598)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module DynamicMesh (596)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (594)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (592)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module GeometryCache (590)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (588)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (586)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (584)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module AudioCapture (582)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module AudioCaptureWasapi (581)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module AssetTags (578)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (576)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (574)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module AppleImageUtils (572)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module AndroidPermission (570)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (568)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (566)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (562)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (560)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module MediaPlate (558)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module MediaCompositing (556)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module ImgMedia (554)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (552)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (550)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (548)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (546)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (544)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module UVEditorTools (542)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module UVEditor (540)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module PluginBrowser (538)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (536)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (534)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (532)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module CurveEditorTools (530)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (528)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module EditorDebugTools (526)
+[2025.03.27-18.35.31:416][717]LogModuleManager: Shutting down and abandoning module ChangelistReview (524)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (522)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (520)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module CryptoKeys (518)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (516)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (514)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module ACLPluginEditor (512)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (510)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module ControlRigSpline (508)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (506)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module PluginUtils (504)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (502)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (500)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module UObjectPlugin (498)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (496)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (494)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module Paper2DEditor (492)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module GitSourceControl (490)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module N10XSourceCodeAccess (488)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (486)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module DumpGPUServices (484)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (482)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module TraceUtilities (480)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (478)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (476)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module InputEditor (474)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (472)
+[2025.03.27-18.35.31:417][717]LogModuleManager: Shutting down and abandoning module UdpMessaging (470)
+[2025.03.27-18.35.31:518][717]LogModuleManager: Shutting down and abandoning module TcpMessaging (468)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module InterchangePipelines (466)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module InterchangeImport (464)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (462)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module InterchangeNodes (460)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module StructUtils (458)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (456)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module PBIK (454)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module FullBodyIK (452)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (450)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module Niagara (448)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module NiagaraEditor (447)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module NiagaraCore (444)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (442)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module TakeRecorder (441)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module ChaosCaching (438)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module ActorSequence (436)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module Synthesis (434)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module SoundFields (432)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module SignificanceManager (430)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module RigVMDeveloper (428)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module RigVM (426)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (424)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (422)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module MsQuicRuntime (420)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module MetasoundEditor (418)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module AudioWidgets (417)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (416)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (412)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module MetasoundEngine (410)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module WaveTable (409)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (407)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (404)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (402)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (400)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (398)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (396)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (394)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module CableComponent (392)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (390)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (389)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (386)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module SignalProcessing (385)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module GameplayCameras (382)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (380)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (378)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (376)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module FacialAnimation (374)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module DataValidation (372)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (370)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module ControlRig (368)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module Constraints (367)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module LevelSequence (365)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (362)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module IKRig (360)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (358)
+[2025.03.27-18.35.31:619][717]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (356)
+[2025.03.27-18.35.31:620][717]LogModuleManager: Shutting down and abandoning module LevelEditor (355)
+[2025.03.27-18.35.31:624][717]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (354)
+[2025.03.27-18.35.31:624][717]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (352)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module MainFrame (350)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module HotReload (349)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module ContentBrowser (345)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module ToolMenus (344)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module ContentBrowserData (342)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module TreeMap (339)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module AnimationData (336)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module AnimationSharing (334)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (332)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module Paper2D (330)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (328)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module BlueprintGraph (327)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module EnhancedInput (324)
+[2025.03.27-18.35.31:625][717]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (322)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (320)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module AndroidFileServer (318)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (316)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module PacketHandler (314)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (312)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module AnimGraph (310)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module TimeManagement (308)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module AnimationDataController (306)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (304)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (302)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module MediaAssets (300)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module Overlay (298)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module OverlayEditor (297)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module VREditor (294)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module StringTableEditor (292)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (290)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (288)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module FunctionalTesting (286)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (284)
+[2025.03.27-18.35.31:636][717]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (283)
+[2025.03.27-18.35.31:637][717]LogModuleManager: Shutting down and abandoning module ScriptableEditorWidgets (280)
+[2025.03.27-18.35.31:637][717]LogModuleManager: Shutting down and abandoning module UMG (278)
+[2025.03.27-18.35.31:637][717]LogModuleManager: Shutting down and abandoning module UMGEditor (277)
+[2025.03.27-18.35.31:637][717]LogModuleManager: Shutting down and abandoning module EditorStyle (272)
+[2025.03.27-18.35.31:637][717]LogModuleManager: Shutting down and abandoning module SlateReflector (270)
+[2025.03.27-18.35.31:637][717]LogModuleManager: Shutting down and abandoning module Slate (268)
+[2025.03.27-18.35.31:637][717]LogModuleManager: Shutting down and abandoning module SlateCore (266)
+[2025.03.27-18.35.31:638][717]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (264)
+[2025.03.27-18.35.31:638][717]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2025.03.27-18.35.31:638][717]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2025.03.27-18.35.31:638][717]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2025.03.27-18.35.31:638][717]LogModuleManager: Shutting down and abandoning module Messaging (256)
+[2025.03.27-18.35.31:638][717]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (254)
+[2025.03.27-18.35.31:638][717]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (252)
+[2025.03.27-18.35.31:638][717]LogModuleManager: Shutting down and abandoning module LiveCoding (250)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module Networking (248)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module Core (246)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module AssetDefinition (244)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module MovieSceneTools (242)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module CurveEditor (241)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module Sequencer (239)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module NaniteBuilder (232)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module MeshUtilities (230)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (229)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module StaticMeshDescription (228)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module GeometryProcessingInterfaces (227)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (224)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (223)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (221)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (219)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (217)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module MaterialBaking (213)
+[2025.03.27-18.35.31:644][717]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (210)
+[2025.03.27-18.35.31:655][717]LogModuleManager: Shutting down and abandoning module TelemetryUtils (207)
+[2025.03.27-18.35.31:655][717]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (204)
+[2025.03.27-18.35.31:655][717]LogModuleManager: Shutting down and abandoning module ShaderPreprocessor (202)
+[2025.03.27-18.35.31:655][717]LogModuleManager: Shutting down and abandoning module DerivedDataCache (200)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module TargetPlatform (198)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (197)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (195)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (193)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (191)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (189)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module AudioFormatBINK (187)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (185)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (183)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (181)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (179)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (177)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (175)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (173)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (171)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (169)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (167)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module TextureFormat (165)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module ImageWrapper (164)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (162)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (160)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (158)
+[2025.03.27-18.35.31:661][717]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (156)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (154)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (152)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module TurnkeySupport (149)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module InputCore (146)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module Settings (144)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (142)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (140)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (139)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module Chaos (136)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module GeometryCore (135)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (132)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (131)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module AVEncoder (130)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module D3D12RHI (126)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module AISupportModule (124)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (122)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module NiagaraShader (120)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module ChaosCloth (118)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module VariantManagerContent (116)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module GLTFExporter (114)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module DatasmithContent (112)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (110)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (108)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (106)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module ChunkDownloader (104)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (102)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (100)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (98)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (96)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (94)
+[2025.03.27-18.35.31:662][717]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (92)
+[2025.03.27-18.35.31:664][717]LogModuleManager: Shutting down and abandoning module XMPP (87)
+[2025.03.27-18.35.31:664][717]LogModuleManager: Shutting down and abandoning module WebSockets (86)
+[2025.03.27-18.35.31:684][717]LogModuleManager: Shutting down and abandoning module HTTP (83)
+[2025.03.27-18.35.31:684][717]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.03.27-18.35.31:684][717]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1778258C-48CC-4782-3FC1-1E82B793D00E%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.3.2-29314046%2B%2B%2BUE5%2BRelease-5.3&UserID=373019ad4af21c32577adf8059ffbbf2%7Ce90a29ebb4124572abef7f40386839b1%7Cc6cc49f0-4a9d-4250-8047-11af73816c79&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2025.03.27-18.35.31:688][717]LogModuleManager: Shutting down and abandoning module SSL (82)
+[2025.03.27-18.35.31:688][717]LogModuleManager: Shutting down and abandoning module EOSShared (78)
+[2025.03.27-18.35.32:247][717]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.03.27-18.35.32:247][717]LogModuleManager: Shutting down and abandoning module WmfMedia (76)
+[2025.03.27-18.35.32:249][717]LogModuleManager: Shutting down and abandoning module Media (75)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (72)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module RenderDocPlugin (70)
+[2025.03.27-18.35.32:250][717]RenderDocPlugin: plugin has been unloaded.
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module ACLPlugin (68)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module PixWinPlugin (66)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module DesktopPlatform (64)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (62)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (60)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (58)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module PlatformCrypto (56)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (54)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (52)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module SourceControl (51)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module XGEController (48)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module FastBuildController (46)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module IoStoreOnDemand (44)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module AnimationModifiers (42)
+[2025.03.27-18.35.32:250][717]LogModuleManager: Shutting down and abandoning module AudioEditor (40)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module PropertyEditor (39)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module Virtualization (36)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module MessageLog (35)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module OpenColorIOWrapper (31)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2025.03.27-18.35.32:251][717]LogPakFile: Destroying PakPlatformFile
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2025.03.27-18.35.32:251][717]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2025.03.27-18.35.32:561][717]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.03.27-18.35.32:604][717]LogExit: Exiting.
+[2025.03.27-18.35.32:630][717]Log file closed, 03/27/25 21:35:32
