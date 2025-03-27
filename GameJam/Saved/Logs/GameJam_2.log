@@ -1300,3 +1300,839 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.03.27-17.54.58:013][705]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 329.519989
 [2025.03.27-17.54.59:014][708]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.03.27-17.54.59:014][708]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 330.187103, Update Interval: 310.501404
+[2025.03.27-17.57.15:695][474]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_02a.uasset: Failed to load '/Game/OldWest/VOL1/Meshes/SM_Bed_02a': Can't find file.
+[2025.03.27-17.57.15:695][474]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_02a.uasset: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL1/Meshes/SM_Bed_02a'
+[2025.03.27-17.57.15:695][474]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_02a.uasset: Failed to load '/Game/OldWest/VOL1/Meshes/SM_Bed_02b': Can't find file.
+[2025.03.27-17.57.15:695][474]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_02a.uasset: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL1/Meshes/SM_Bed_02b'
+[2025.03.27-17.57.15:695][474]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_02a.uasset: Failed to load '/Game/OldWest/VOL1/Meshes/SM_Bed_02c': Can't find file.
+[2025.03.27-17.57.15:695][474]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_02a.uasset: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL1/Meshes/SM_Bed_02c'
+[2025.03.27-17.57.15:700][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.57.16:999][474]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.57.17:016][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.27-17.57.17:020][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-17.57.17:034][474]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-17.57.19:710][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-17.57.19:788][741]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-17.57.20:685][741]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.57.20:695][741]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-17.57.20:695][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-17.57.20:702][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2025.03.27-17.57.20:707][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.27-17.57.20:712][741]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-17.57.23:666][ 72]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_01a.uasset: Failed to load '/Game/OldWest/VOL1/Meshes/SM_Bed_01a': Can't find file.
+[2025.03.27-17.57.23:666][ 72]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_01a.uasset: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL1/Meshes/SM_Bed_01a'
+[2025.03.27-17.57.23:666][ 72]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_01a.uasset: Failed to load '/Game/OldWest/VOL1/Meshes/SM_Bed_01b': Can't find file.
+[2025.03.27-17.57.23:666][ 72]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_01a.uasset: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL1/Meshes/SM_Bed_01b'
+[2025.03.27-17.57.23:666][ 72]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_01a.uasset: Failed to load '/Game/OldWest/VOL1/Meshes/SM_Bed_01c': Can't find file.
+[2025.03.27-17.57.23:666][ 72]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\BP\BP_Bed_01a.uasset: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL1/Meshes/SM_Bed_01c'
+[2025.03.27-17.57.23:671][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-17.57.26:215][ 72]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.57.26:228][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.27-17.57.26:232][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.27-17.57.26:237][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.27-17.57.26:253][ 73]LogAutomationController: Ignoring very large delta of 2.59 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: ================================================
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: Total job queries 46, among them cache hits 8 (17.39%)
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: Tracking 38 distinct input hashes that result in 26 distinct outputs (68.42%)
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: RAM used: 883,56 KiB of 1,60 GiB budget. Usage: 0.05%
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.27-17.57.29:165][391]LogShaderCompilers: Display: ================================================
+[2025.03.27-17.57.29:705][445]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-17.57.35:073][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-17.57.36:000][958]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.57.36:060][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.27-17.57.36:065][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.27-17.57.36:069][958]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-17.57.44:762][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.27-17.57.46:121][921]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.57.46:144][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.27-17.57.46:149][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.03.27-17.57.46:154][921]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-17.57.49:747][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.57.52:432][281]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.57.52:446][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.27-17.57.52:451][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.27-17.57.52:456][281]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.57.52:504][282]LogAutomationController: Ignoring very large delta of 2.77 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-17.57.56:666][744]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_Drawer_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.57.56:667][744]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Desk_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.57.56:667][744]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Desk_NN_01a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.57.56:667][744]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Desk_NN_01a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.57.56:668][744]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Desk_NN_01a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.57.56:754][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-17.57.57:800][744]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.57.57:811][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.27-17.57.57:816][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.27-17.57.57:820][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-17.58.01:303][113]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_Drawer_NN_01b.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.01:307][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-17.58.02:623][113]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.02:638][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.27-17.58.02:643][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.27-17.58.02:647][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.58.05:606][425]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_Drawer_NN_01c.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.05:610][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-17.58.06:599][425]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.06:613][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.27-17.58.06:617][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.27-17.58.06:622][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-17.58.07:914][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.58.11:061][556]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.11:082][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.27-17.58.11:086][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.27-17.58.11:090][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-17.58.11:130][557]LogAutomationController: Ignoring very large delta of 3.22 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-17.58.12:391][688]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_Drawer_NN_01e.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.12:395][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.27-17.58.13:220][688]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.13:231][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-17.58.13:236][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-17.58.13:240][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.27-17.58.13:886][755]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_Drawer_NN_01f.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.13:890][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-17.58.14:574][755]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.14:587][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-17.58.14:593][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.27-17.58.14:597][755]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-17.58.15:373][842]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_Drawer_NN_01g.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.15:377][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-17.58.16:025][842]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.16:038][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-17.58.16:043][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.27-17.58.16:047][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-17.58.16:751][916]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_Drawer_NN_01h.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.16:754][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.27-17.58.17:470][916]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.17:484][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-17.58.17:489][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.58.17:493][916]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-17.58.18:094][978]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_Drawer_NN_01i.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.18:097][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-17.58.18:822][978]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.18:831][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-17.58.18:834][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.27-17.58.18:837][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-17.58.19:486][ 48]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_NN_01j.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.19:489][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.58.20:698][ 48]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.20:708][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.27-17.58.20:711][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-17.58.20:716][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.58.21:447][122]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_NN_01k.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.21:451][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.58.22:211][122]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.22:223][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-17.58.22:227][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.58.22:232][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.58.22:913][193]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Meshes\SM_Desk_NN_01l.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-17.58.22:917][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.58.23:639][193]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.23:654][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-17.58.23:659][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-17.58.23:663][193]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.58.24:403][260]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-17.58.24:485][260]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-17.58.24:496][260]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-17.58.25:880][260]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.29:094][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-17.58.29:998][623]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.30:011][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-17.58.30:016][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-17.58.30:019][623]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.27-17.58.30:812][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-17.58.31:587][695]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.31:601][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-17.58.31:607][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.27-17.58.31:611][695]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-17.58.32:560][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.27-17.58.33:269][791]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.33:283][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-17.58.33:288][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-17.58.33:292][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-17.58.33:977][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-17.58.35:103][861]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.35:113][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-17.58.35:146][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.58.35:149][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2025.03.27-17.58.36:044][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-17.58.36:957][942]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.36:969][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-17.58.36:973][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.27-17.58.36:978][942]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.27-17.58.53:216][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Barrels_03a': Can't find file.
+[2025.03.27-17.58.53:216][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Barrels_03a'
+[2025.03.27-17.58.53:216][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Bench_01a': Can't find file.
+[2025.03.27-17.58.53:216][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Bench_01a'
+[2025.03.27-17.58.53:216][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Chair_04a': Can't find file.
+[2025.03.27-17.58.53:216][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Chair_04a'
+[2025.03.27-17.58.53:218][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Crate_01a': Can't find file.
+[2025.03.27-17.58.53:218][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Crate_01a'
+[2025.03.27-17.58.53:218][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Crate_02a': Can't find file.
+[2025.03.27-17.58.53:218][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Crate_02a'
+[2025.03.27-17.58.53:219][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_01a': Can't find file.
+[2025.03.27-17.58.53:219][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_01a'
+[2025.03.27-17.58.53:226][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Outhouse_01a': Can't find file.
+[2025.03.27-17.58.53:226][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Outhouse_01a'
+[2025.03.27-17.58.53:226][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Outhouse_01b': Can't find file.
+[2025.03.27-17.58.53:226][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Outhouse_01b'
+[2025.03.27-17.58.53:229][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Stove_01a': Can't find file.
+[2025.03.27-17.58.53:229][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Stove_01a'
+[2025.03.27-17.58.53:229][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Stove_01b': Can't find file.
+[2025.03.27-17.58.53:229][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Stove_01b'
+[2025.03.27-17.58.53:974][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Armchair_NN_01a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Armchair_NN_01a'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Barrels_NN_01a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Barrels_NN_01a'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Barrels_NN_02a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Barrels_NN_02a'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Barrels_NN_03a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Barrels_NN_03a'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Bench_NN_01a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Bench_NN_01a'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Chair_NN_04a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Chair_NN_04a'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Chair_NN_05a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Chair_NN_05a'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Chest_NN_05c': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Chest_NN_05c'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Crate_NN_01a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Crate_NN_01a'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Crate_NN_02a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Crate_NN_02a'
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Crate_NN_03a': Can't find file.
+[2025.03.27-17.58.53:984][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Crate_NN_03a'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_01a': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_01a'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_01b': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_01b'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_01d': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_01d'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_02a': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_02a'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_02b': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_02b'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_02c': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_02c'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_02d': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_02d'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_03a': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_03a'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_03b': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_03b'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_03c': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_03c'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_03d': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_03d'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Outhouse_NN_01a': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Outhouse_NN_01a'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Outhouse_NN_01c': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Outhouse_NN_01c'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Pokertable_NN_01a': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Pokertable_NN_01a'
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Rug_NN_01a': Can't find file.
+[2025.03.27-17.58.53:985][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Rug_NN_01a'
+[2025.03.27-17.58.53:986][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Rugs_NN_02a': Can't find file.
+[2025.03.27-17.58.53:986][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Rugs_NN_02a'
+[2025.03.27-17.58.53:986][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Rugs_NN_02b': Can't find file.
+[2025.03.27-17.58.53:986][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Rugs_NN_02b'
+[2025.03.27-17.58.53:986][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Stove_NN_01a': Can't find file.
+[2025.03.27-17.58.53:986][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Stove_NN_01a'
+[2025.03.27-17.58.53:986][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Stove_NN_01b': Can't find file.
+[2025.03.27-17.58.53:986][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Demonstration_NN.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Stove_NN_01b'
+[2025.03.27-17.58.54:047][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-17.58.54:073][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Chest_NN_05a': Can't find file.
+[2025.03.27-17.58.54:073][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Chest_NN_05a'
+[2025.03.27-17.58.54:073][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Chest_NN_05b': Can't find file.
+[2025.03.27-17.58.54:073][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Chest_NN_05b'
+[2025.03.27-17.58.54:073][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Curtains_NN_01c': Can't find file.
+[2025.03.27-17.58.54:073][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Curtains_NN_01c'
+[2025.03.27-17.58.54:073][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Outhouse_01c': Can't find file.
+[2025.03.27-17.58.54:074][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Outhouse_01c'
+[2025.03.27-17.58.54:074][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: Failed to load '/Game/OldWest/VOL5/Meshes/SM_Outhouse_NN_01b': Can't find file.
+[2025.03.27-17.58.54:074][805]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL5\Maps\Overview.umap: VerifyImport: Failed to load package for import object 'Package /Game/OldWest/VOL5/Meshes/SM_Outhouse_NN_01b'
+[2025.03.27-17.58.54:148][805]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-17.58.54:149][805]LogObjectTools: Deleting 3 worlds: /Game/OldWest/VOL5/Maps/Demonstration.Demonstration, /Game/OldWest/VOL5/Maps/Demonstration_NN.Demonstration_NN, /Game/OldWest/VOL5/Maps/Overview.Overview
+[2025.03.27-17.58.54:149][805]LogObjectTools: Currently 6 active worlds: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5
+[2025.03.27-17.58.54:158][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-17.58.55:512][805]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.58.55:518][805]LogWorld: UWorld::CleanupWorld for Demonstration, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-17.58.55:519][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-17.58.55:522][805]LogWorld: UWorld::CleanupWorld for Demonstration_NN, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-17.58.55:522][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-17.58.55:523][805]LogWorld: UWorld::CleanupWorld for Overview, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-17.58.55:523][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-17.58.55:539][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.27-17.58.55:545][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.27-17.58.55:578][805]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.27-17.58.55:596][805]LogAutomationController: Ignoring very large delta of 2.39 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-17.58.59:819][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.27-17.59.00:867][231]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.00:884][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.27-17.59.00:889][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.03.27-17.59.00:893][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.27-17.59.03:017][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-17.59.04:534][435]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.04:554][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.27-17.59.04:559][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.27-17.59.04:563][435]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-17.59.08:320][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.59.09:091][828]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.09:103][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.03.27-17.59.09:108][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.27-17.59.09:111][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-17.59.10:636][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-17.59.11:554][973]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.11:568][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2025.03.27-17.59.11:575][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.27-17.59.11:597][973]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-17.59.12:440][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.59.12:529][ 56]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-17.59.14:267][ 56]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.15:726][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.59.16:506][190]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.16:521][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.27-17.59.16:527][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-17.59.16:532][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.59.17:107][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.59.17:899][242]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.17:915][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.27-17.59.17:920][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.27-17.59.17:924][242]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-17.59.18:654][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-17.59.19:381][313]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.19:396][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.03.27-17.59.19:401][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2025.03.27-17.59.19:404][313]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-17.59.20:050][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.59.20:767][372]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.20:778][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.03.27-17.59.20:783][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.27-17.59.20:787][372]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-17.59.21:551][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.03.27-17.59.22:198][441]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.22:218][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-17.59.22:223][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.27-17.59.22:227][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-17.59.22:827][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-17.59.23:506][498]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.23:520][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-17.59.23:524][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-17.59.23:527][498]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.27-17.59.24:140][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.27-17.59.24:839][556]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.24:855][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.27-17.59.24:860][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2025.03.27-17.59.24:864][556]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-17.59.25:656][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.59.26:386][628]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.26:400][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2025.03.27-17.59.26:406][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.03.27-17.59.26:411][628]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-17.59.27:164][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.59.27:857][693]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.27:901][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.27-17.59.27:907][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.27-17.59.27:912][693]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.27-17.59.28:595][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.59.29:630][754]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.29:641][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-17.59.29:644][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.27-17.59.29:647][754]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.03.27-17.59.38:972][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-17.59.39:825][791]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.39:840][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.27-17.59.39:846][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.27-17.59.39:851][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-17.59.43:158][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.59.44:107][139]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.44:121][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.27-17.59.44:142][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-17.59.44:146][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-17.59.48:008][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.27-17.59.48:717][527]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.48:730][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-17.59.48:736][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.27-17.59.48:741][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-17.59.49:521][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-17.59.50:319][611]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.50:331][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-17.59.50:336][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.27-17.59.50:341][611]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-17.59.54:648][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.59.55:308][733]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.55:318][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-17.59.55:323][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.27-17.59.55:327][733]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-17.59.56:117][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.03.27-17.59.56:877][795]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.56:888][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-17.59.56:893][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.27-17.59.56:897][795]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.27-17.59.58:523][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-17.59.59:593][956]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-17.59.59:606][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-17.59.59:611][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.27-17.59.59:616][956]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-18.00.01:488][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-18.00.02:567][143]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.02:577][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.00.02:585][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.27-18.00.02:588][143]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.03.27-18.00.03:755][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-18.00.04:963][264]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.04:976][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.27-18.00.04:981][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.00.04:986][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.00.05:992][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.00.06:782][373]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.06:795][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.03.27-18.00.06:802][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.03.27-18.00.06:806][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-18.00.07:729][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.27-18.00.08:522][469]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.08:536][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.00.08:541][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.27-18.00.08:545][469]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.00.09:893][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2025.03.27-18.00.13:015][607]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.13:028][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.00.13:033][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2025.03.27-18.00.13:037][607]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-18.00.13:048][607]LogAutomationController: Ignoring very large delta of 3.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-18.00.13:049][608]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 644.555176
+[2025.03.27-18.00.13:274][617]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-18.00.13:274][617]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 644.750305, Update Interval: 303.938721
+[2025.03.27-18.00.13:843][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-18.00.15:381][679]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.15:394][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.00.15:399][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.27-18.00.15:403][679]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.00.17:358][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.27-18.00.18:212][890]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.18:224][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-18.00.18:230][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-18.00.18:234][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.00.18:989][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-18.00.19:831][959]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.19:849][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.00.19:854][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.03.27-18.00.19:858][959]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-18.00.20:691][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.00.21:495][ 48]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.21:504][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-18.00.21:507][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.27-18.00.21:510][ 48]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.00.22:293][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.27-18.00.22:987][131]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.23:002][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.00.23:006][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.00.23:010][131]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-18.00.23:656][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.03.27-18.00.24:454][199]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.24:468][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.27-18.00.24:474][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.27-18.00.24:478][199]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.00.25:168][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.00.25:947][270]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.25:961][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.27-18.00.25:966][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.27-18.00.25:971][270]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-18.00.27:039][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.27-18.00.27:898][386]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.27:912][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.00.27:917][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.27-18.00.27:922][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-18.00.28:696][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-18.00.29:542][463]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.29:553][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.27-18.00.29:557][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-18.00.29:561][463]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2025.03.27-18.00.30:185][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.27-18.00.30:949][527]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.30:963][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-18.00.30:967][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.27-18.00.30:972][527]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-18.00.31:583][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.00.32:359][589]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.32:367][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.27-18.00.32:371][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.00.32:374][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.27-18.00.32:957][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2025.03.27-18.00.33:718][647]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.33:731][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.00.33:735][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.27-18.00.33:741][647]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.27-18.00.34:445][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-18.00.35:258][719]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.35:271][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-18.00.35:276][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.00.35:280][719]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.00.36:092][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-18.00.36:799][802]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.36:812][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-18.00.36:817][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.00.36:828][802]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-18.00.37:530][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-18.00.38:231][871]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.38:245][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.27-18.00.38:249][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-18.00.38:254][871]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-18.00.39:020][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.00.39:719][948]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.39:733][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-18.00.39:738][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.00.39:743][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.00.40:754][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-18.00.41:432][ 55]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.41:445][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.27-18.00.41:450][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.00.41:454][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2025.03.27-18.00.42:408][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.27-18.00.43:136][154]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.43:150][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.27-18.00.43:155][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-18.00.43:159][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.00.44:293][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-18.00.45:120][268]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.00.45:134][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2025.03.27-18.00.45:166][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-18.00.45:169][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.01.19:310][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.01.20:137][163]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.01.20:160][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.27-18.01.20:164][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-18.01.20:168][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-18.01.45:668][148]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.01.45:688][149]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.01.45:723][151]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: Total job queries 66, among them cache hits 12 (18.18%)
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: Tracking 54 distinct input hashes that result in 34 distinct outputs (62.96%)
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: RAM used: 1,22 MiB of 1,60 GiB budget. Usage: 0.07%
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.27-18.01.45:804][155]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.01.45:813][156]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.01.45:832][157]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.01.45:853][158]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.01.45:889][160]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.01.45:984][165]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.02.30:971][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.27-18.02.32:180][512]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.02.32:193][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.02.32:198][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-18.02.32:203][512]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-18.02.35:673][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.02.36:713][874]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.02.36:726][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.02.36:730][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.02.36:735][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.02.38:081][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-18.02.38:892][ 28]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.02.38:907][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.27-18.02.38:912][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-18.02.38:916][ 28]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-18.02.39:714][106]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2025.03.27-18.02.40:953][106]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.03.13:609][991]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.27-18.03.13:609][991]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.27-18.04.06:892][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2025.03.27-18.04.08:346][968]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.04.08:382][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.27-18.04.08:386][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.04.08:389][968]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.27-18.04.17:932][ 66]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\StarterContent\Blueprints\Blueprint_WallSconce.uasset: Failed to load '/Game/StarterContent/Props/SM_Lamp_Wall': Can't find file.
+[2025.03.27-18.04.17:932][ 66]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\StarterContent\Blueprints\Blueprint_WallSconce.uasset: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Props/SM_Lamp_Wall'
+[2025.03.27-18.04.17:936][ 66]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\StarterContent\Blueprints\Blueprint_CeilingLight.uasset: Failed to load '/Game/StarterContent/Props/SM_Lamp_Ceiling': Can't find file.
+[2025.03.27-18.04.17:936][ 66]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\StarterContent\Blueprints\Blueprint_CeilingLight.uasset: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Props/SM_Lamp_Ceiling'
+[2025.03.27-18.04.17:941][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.27-18.04.19:165][ 66]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.04.19:175][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-18.04.19:179][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.04.19:181][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.05.06:384][584]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.05.06:385][584]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.03.27-18.05.06:385][584]LogShaderCompilers: Display: Total job queries 75, among them cache hits 16 (21.33%)
+[2025.03.27-18.05.06:385][584]LogShaderCompilers: Display: Tracking 59 distinct input hashes that result in 37 distinct outputs (62.71%)
+[2025.03.27-18.05.06:385][584]LogShaderCompilers: Display: RAM used: 1,33 MiB of 1,60 GiB budget. Usage: 0.08%
+[2025.03.27-18.05.06:385][584]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.03.27-18.05.06:385][584]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.03.27-18.05.06:385][584]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.03.27-18.05.06:385][584]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.03.27-18.05.06:385][584]LogShaderCompilers: Display: ================================================
+[2025.03.27-18.05.06:491][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.05.10:562][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-18.05.12:347][ 42]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.05.12:361][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.27-18.05.12:366][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.27-18.05.12:370][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-18.05.23:822][382]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 955.326843
+[2025.03.27-18.05.23:981][401]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-18.05.23:981][401]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 955.476746, Update Interval: 332.126831
+[2025.03.27-18.06.14:857][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Bed_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.14:857][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_01a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.14:858][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_01a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.14:858][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_01a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.14:859][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_01a_ALB.TX_Bed_NN_01a_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.14:859][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_01a_NRM.TX_Bed_NN_01a_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.14:859][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_01a_RMA.TX_Bed_NN_01a_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.14:955][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Bed_NN_01b.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.14:955][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_01b_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.14:956][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_01b_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.14:956][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_01b_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.14:956][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_01b_ALB.TX_Bed_NN_01b_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.14:956][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_01b_NRM.TX_Bed_NN_01b_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.14:956][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_01b_RMA.TX_Bed_NN_01b_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:054][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Bed_NN_01c.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:054][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_01c_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:054][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_01c_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:055][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_01c_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:055][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_01c_ALB.TX_Bed_NN_01c_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:055][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_01c_NRM.TX_Bed_NN_01c_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:056][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_01c_RMA.TX_Bed_NN_01c_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:194][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Bed_NN_02a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:194][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_02a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:195][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_02a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:195][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_02a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:195][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_02a_ALB.TX_Bed_NN_02a_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:195][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_02a_NRM.TX_Bed_NN_02a_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:196][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_02a_RMA.TX_Bed_NN_02a_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:286][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Bed_NN_02b.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:286][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_02b_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:287][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_02b_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:287][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_02b_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:288][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_02b_ALB.TX_Bed_NN_02b_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:288][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_02b_NRM.TX_Bed_NN_02b_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:288][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_02b_RMA.TX_Bed_NN_02b_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:373][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Bed_NN_02c.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:373][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_02c_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:373][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_02c_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:374][223]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Bed_NN_02c_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.06.15:374][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_02c_ALB.TX_Bed_NN_02c_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:374][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_02c_NRM.TX_Bed_NN_02c_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:374][223]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Bed_NN_02c_RMA.TX_Bed_NN_02c_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.06.15:465][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2025.03.27-18.06.16:434][223]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.06.16:488][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-18.06.16:491][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.03.27-18.06.16:493][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-18.06.55:740][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.06.57:160][712]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.06.58:107][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.03.27-18.06.58:110][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-18.06.58:112][712]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.06.58:176][712]LogAutomationController: Ignoring very large delta of 2.44 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-18.07.14:827][549]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL1/Materials/MI_Cabinet_01a.MI_Cabinet_01a
+[2025.03.27-18.07.14:830][549]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.07.14:830][549]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.07.15:037][549]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.07.59:458][535]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Cabinent_03a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.07.59:458][535]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Cabinet_NN_03a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.07.59:459][535]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Cabinet_NN_03a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.07.59:460][535]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Cabinet_NN_03a_ALB.TX_Cabinet_NN_03a_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.07.59:460][535]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Cabinet_NN_03a_NRM.TX_Cabinet_NN_03a_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.07.59:460][535]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Cabinet_NN_03a_RMA.TX_Cabinet_NN_03a_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.07.59:541][535]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Cabinent_02a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.07.59:541][535]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Cabinet_NN_02_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.07.59:542][535]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Cabinet_NN_02_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.07.59:542][535]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Cabinet_NN_02_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.07.59:641][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-18.08.01:209][535]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.08.01:227][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.03.27-18.08.01:231][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2025.03.27-18.08.01:236][535]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-18.08.57:673][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-18.08.58:899][492]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.08.59:269][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-18.08.59:272][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-18.08.59:275][492]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-18.09.37:972][768]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Desk_01b.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.09.37:973][768]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Desk_NN_01b_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.09.37:973][768]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Desk_NN_01b_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.09.37:974][768]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Desk_NN_01b_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.09.38:061][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.09.39:555][768]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.09.39:569][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2025.03.27-18.09.39:575][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.54ms
+[2025.03.27-18.09.39:579][768]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.10.06:347][743]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL1/Materials/MI_Desk_02a.MI_Desk_02a
+[2025.03.27-18.10.06:348][743]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.10.06:349][743]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.10.06:582][743]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.10.09:650][ 98]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.10.09:650][ 98]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.10.10:657][200]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL1/Materials/MI_Desk_01a.MI_Desk_01a
+[2025.03.27-18.10.10:658][200]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.10.10:659][200]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.10.10:815][200]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.11.04:148][154]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1295.657349
+[2025.03.27-18.11.04:303][170]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-18.11.04:303][170]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1295.802979, Update Interval: 320.744659
+[2025.03.27-18.11.09:828][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-18.11.11:046][776]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.11.11:068][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.03.27-18.11.11:073][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.03.27-18.11.11:077][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.03.27-18.11.24:187][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.11.25:404][ 61]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.11.25:562][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.27-18.11.25:566][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.27-18.11.25:569][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2025.03.27-18.11.29:705][521]LogSlate: Window 'MI_Desk_01a' being destroyed
+[2025.03.27-18.11.29:709][521]LogSlate: Window 'MI_Desk_01a' being destroyed
+[2025.03.27-18.11.29:722][521]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.11.29:722][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.11.29:738][521]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.11.29:739][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.11.47:233][512]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL1/Materials/MI_Desk_01a.MI_Desk_01a
+[2025.03.27-18.11.47:235][512]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.11.47:235][512]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.11.47:446][512]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.12.05:786][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.03.27-18.12.08:123][495]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.12.08:183][495]LogAutomationController: Ignoring very large delta of 2.40 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-18.12.18:787][621]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-18.12.20:645][621]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.12.34:289][ 54]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL1/Materials/MI_Dresser_01a.MI_Dresser_01a
+[2025.03.27-18.12.34:290][ 54]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.12.34:290][ 54]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.12.34:447][ 54]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.12.36:243][261]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.12.36:243][261]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.12.49:928][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Dresser_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.49:928][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Dresser_NN_01a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.49:928][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Dresser_NN_01a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.49:928][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Dresser_NN_01a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.50:012][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Dresser_NN_02a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.50:012][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Dresser_NN_02a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.50:013][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Dresser_NN_02a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.50:013][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Dresser_NN_02a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.50:014][778]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Dresser_NN_02a_ALB.TX_Dresser_NN_02a_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.12.50:014][778]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Dresser_NN_02a_NRM.TX_Dresser_NN_02a_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.12.50:014][778]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Dresser_NN_02a_RMA.TX_Dresser_NN_02a_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.12.50:097][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Dresser_NN_03a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.50:097][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Dresser_NN_03a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.50:098][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Dresser_NN_03a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.50:098][778]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Dresser_NN_03a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.12.50:099][778]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Dresser_NN_03a_ALB.TX_Dresser_NN_03a_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.12.50:099][778]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Dresser_NN_03a_NRM.TX_Dresser_NN_03a_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.12.50:099][778]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Dresser_NN_03a_RMA.TX_Dresser_NN_03a_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.12.50:187][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.03.27-18.12.52:380][778]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.12.52:395][778]LogAutomationController: Ignoring very large delta of 2.56 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-18.13.07:874][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.13.09:673][397]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.13.09:687][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.27-18.13.09:692][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.27-18.13.09:697][397]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-18.13.21:462][735]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL1/Materials/MI_Dresser_02a.MI_Dresser_02a
+[2025.03.27-18.13.21:463][735]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.13.21:463][735]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.13.21:642][735]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.13.42:464][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-18.13.43:574][861]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.13.44:018][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.27-18.13.44:022][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.03.27-18.13.44:025][861]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.27-18.13.46:492][137]LogSlate: Window 'MI_Dresser_02a' being destroyed
+[2025.03.27-18.13.46:496][137]LogSlate: Window 'MI_Dresser_02a' being destroyed
+[2025.03.27-18.13.46:509][137]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.13.46:509][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.13.46:526][137]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.13.46:526][137]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.14.06:624][444]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL1/Materials/MI_Office_Cabinent_01a.MI_Office_Cabinent_01a
+[2025.03.27-18.14.06:625][444]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.14.06:625][444]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.14.06:851][444]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.14.16:222][529]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Office_Cabinent_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.14.16:222][529]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_OfficeCabinet_NN_01a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.14.16:222][529]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_OfficeCabinet_NN_01a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.14.16:223][529]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_OfficeCabinet_NN_01a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.14.16:304][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-18.14.17:707][529]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.14.17:720][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.27-18.14.17:725][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2025.03.27-18.14.17:730][529]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-18.14.36:408][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2025.03.27-18.14.37:802][425]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.14.37:923][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2025.03.27-18.14.37:928][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2025.03.27-18.14.37:932][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2025.03.27-18.14.46:526][301]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/OldWest/VOL1/Materials/MI_Wall_Shelf_04a.MI_Wall_Shelf_04a
+[2025.03.27-18.14.46:529][301]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.27-18.14.46:529][301]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.27-18.14.46:699][301]LogViewport: Scene viewport resized to 225x373, mode Windowed.
+[2025.03.27-18.14.48:311][476]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.14.48:312][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.27-18.15.04:387][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Wall_Shelf_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:387][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\T_WallShelf_NN_01a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:388][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\T_WallShelf_NN_01a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:388][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\T_WallShelf_NN_01a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:479][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Wall_Shelf_NN_04a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:479][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_WallShelf_NN_04a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:479][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_WallShelf_NN_04a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:480][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_WallShelf_NN_04a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:480][286]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_WallShelf_NN_04a_ALB.TX_WallShelf_NN_04a_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.15.04:480][286]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_WallShelf_NN_04a_NRM.TX_WallShelf_NN_04a_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.15.04:481][286]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_WallShelf_NN_04a_RMA.TX_WallShelf_NN_04a_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.15.04:647][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Work_Table_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:648][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_WorkTable_NN_01a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:648][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_WorkTable_NN_01a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:648][286]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_WorkTable_NN_01a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.04:731][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.27-18.15.05:952][286]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.15.05:963][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.27-18.15.05:969][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.03.27-18.15.05:974][286]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2025.03.27-18.15.32:401][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.25ms
+[2025.03.27-18.15.33:610][202]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.15.33:733][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.27-18.15.33:736][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.03.27-18.15.33:740][202]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-18.15.52:597][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Sink_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:597][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Sink_NN_01a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:598][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Sink_NN_01a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:598][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Sink_NN_01a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:598][314]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Sink_NN_01a_ALB.TX_Sink_NN_01a_ALB" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.15.52:599][314]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Sink_NN_01a_NRM.TX_Sink_NN_01a_NRM" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.15.52:599][314]LogTexture: Display: Texture "/Game/OldWest/VOL1/Textures/TX_Sink_NN_01a_RMA.TX_Sink_NN_01a_RMA" has CompressionFormat=PNG but not bPNGCompressed, assuming texture is actually uncompressed.
+[2025.03.27-18.15.52:682][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Small_Table_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:683][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_TableSmall_NN_01a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:683][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_TableSmall_NN_01a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:683][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_TableSmall_NN_01a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:851][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Materials\MI_Table_NN_01a.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:851][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Table_NN_01a_ALB.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:851][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Table_NN_01a_NRM.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.52:852][314]LogLinker: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\OldWest\VOL1\Textures\TX_Table_NN_01a_RMA.uasset: Asset has been saved with empty engine version. The asset will be loaded but may be incompatible.
+[2025.03.27-18.15.53:022][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.15.54:701][314]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.15.54:712][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.27-18.15.54:717][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.27-18.15.54:722][314]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.03.27-18.15.54:736][314]LogAutomationController: Ignoring very large delta of 2.14 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-18.16.25:100][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.03.27-18.16.26:269][275]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.16.26:526][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.27-18.16.26:530][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2025.03.27-18.16.26:533][275]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.03.27-18.16.45:247][179]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1636.757568
+[2025.03.27-18.16.45:413][194]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.27-18.16.45:413][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1636.915283, Update Interval: 332.742096
+[2025.03.27-18.16.56:778][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2025.03.27-18.16.58:309][418]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.27-18.16.58:949][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-18.16.58:952][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.03.27-18.16.58:955][418]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.03.27-18.16.59:031][418]LogAutomationController: Ignoring very large delta of 2.26 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.03.27-18.17.03:852][962]LogSlate: Window 'MI_Wall_Shelf_04a' being destroyed
+[2025.03.27-18.17.03:857][962]LogSlate: Window 'MI_Wall_Shelf_04a' being destroyed
+[2025.03.27-18.17.03:870][962]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2025.03.27-18.17.03:870][962]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
