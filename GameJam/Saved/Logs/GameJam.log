@@ -2727,3 +2727,270 @@ Make sure 'WB_Pause_C' has been compiled for  Get Button Text
 [2025.03.28-03.32.00:221][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 697 ms)
 [2025.03.28-03.32.00:223][729]AssetCheck: New page: Asset Save: IMC_Default
 [2025.03.28-03.32.00:223][729]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2025.03.28-03.35.08:227][875]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3433.651123
+[2025.03.28-03.35.09:227][878]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-03.35.09:227][878]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3434.319092, Update Interval: 312.609039
+[2025.03.28-03.37.17:906][341]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Mechanics/AI/WB_Words.WB_Words
+[2025.03.28-03.37.17:906][341]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.37.17:906][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.37.17:914][341]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.37.17:914][341]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.39.51:593][323]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-03.39.51:593][323]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-03.40.14:369][855]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.28-03.40.18:980][350]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.28-03.40.22:654][739]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.28-03.40.33:771][967]LogDerivedDataCache: C:/Users/elmir/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:42.099 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 22020 files in 24296 folders with total size 6556 MiB.
+[2025.03.28-03.41.10:564][ 18]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3795.961670
+[2025.03.28-03.41.10:714][ 35]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-03.41.10:714][ 35]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3796.102783, Update Interval: 308.153931
+[2025.03.28-03.42.38:907][472]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.03.28-03.42.38:911][472]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2025.03.28-03.42.38:911][472]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MENUE/UI_Elements/ESC/WB_Pause] ([2] browsable assets)...
+[2025.03.28-03.42.38:914][472]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MENUE/UI_Elements/ESC/WB_Pause.WB_Pause]
+[2025.03.28-03.42.38:914][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/MENUE/UI_Elements/ESC/WB_Pause]
+[2025.03.28-03.42.38:920][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MENUE/UI_Elements/ESC/WB_Pause_Auto4
+[2025.03.28-03.42.38:920][472]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WB_Pause_Auto4B3C4003543CA7646A4FE6B9719A477EF.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/MENUE/UI_Elements/ESC/WB_Pause_Auto4.uasset'
+[2025.03.28-03.42.38:921][472]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Mechanics/AI/WB_Words] ([2] browsable assets)...
+[2025.03.28-03.42.38:923][472]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Mechanics/AI/WB_Words.WB_Words]
+[2025.03.28-03.42.38:923][472]OBJ SavePackage: Finished generating thumbnails for package [/Game/Mechanics/AI/WB_Words]
+[2025.03.28-03.42.38:923][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mechanics/AI/WB_Words" FILE="../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/Mechanics/AI/WB_Words_Auto4.uasset" SILENT=false AUTOSAVING=true
+[2025.03.28-03.42.38:925][472]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Mechanics/AI/WB_Words_Auto4
+[2025.03.28-03.42.38:925][472]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WB_Words_Auto4BF612A904E4F69F899EE3A875343B6F5.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/Mechanics/AI/WB_Words_Auto4.uasset'
+[2025.03.28-03.42.38:925][472]LogFileHelpers: Auto-saving content packages took 0.014
+[2025.03.28-03.43.33:135][ 79]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.28-03.43.33:135][ 79]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.28-03.47.08:348][769]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4153.802734
+[2025.03.28-03.47.08:518][789]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-03.47.08:518][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4153.963379, Update Interval: 346.801361
+[2025.03.28-03.48.55:902][900]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-03.48.55:902][900]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-03.49.20:730][699]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.28-03.49.20:730][699]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.28-03.49.51:200][ 25]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:201][ 25]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:202][ 25]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:267][ 26]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:276][ 26]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:288][ 27]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:350][ 28]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:359][ 28]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:370][ 29]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:372][ 29]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:432][ 30]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:452][ 31]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:519][ 32]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:597][ 34]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:608][ 35]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:686][ 37]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:746][ 38]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:746][ 38]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:755][ 38]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:766][ 39]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:826][ 40]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:836][ 40]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:847][ 41]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:906][ 42]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:926][ 43]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.51:994][ 44]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.52:072][ 46]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.49.52:083][ 47]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:271][645]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:272][645]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:273][645]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:275][645]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:342][646]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:343][646]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:357][647]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:359][647]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:402][648]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:407][648]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:465][650]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:475][651]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:532][653]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:579][654]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:636][656]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:646][657]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:703][659]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:750][660]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:810][662]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:821][663]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:877][665]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:924][666]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:981][668]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.15:992][669]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.16:049][671]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.50.16:096][672]LogEditorTransaction: Warning: Canceling transaction partially is unsupported. Canceling Drag and Drop Widget entirely.
+[2025.03.28-03.51.09:624][ 27]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.28-03.51.24:018][539]BlueprintLog: New page: Compile WB_Words
+[2025.03.28-03.51.24:041][539]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.03.28-03.51.38:166][162]LogSlate: Window 'WB_Words' being destroyed
+[2025.03.28-03.51.45:249][998]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MENUE/UI_Elements/Options/WBP_Options.WBP_Options
+[2025.03.28-03.51.45:249][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.51.45:249][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.51.45:254][998]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.51.45:254][998]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.52.34:561][871]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-03.52.34:561][871]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-03.53.33:813][718]LogEditorTransaction: Undo Changed Anchors
+[2025.03.28-03.53.34:781][778]LogEditorTransaction: Undo Move Widget
+[2025.03.28-03.53.35:038][808]LogEditorTransaction: Undo Move Widget
+[2025.03.28-03.53.35:272][835]LogEditorTransaction: Undo Move Widget
+[2025.03.28-03.53.35:512][863]LogEditorTransaction: Undo Move Widgets
+[2025.03.28-03.53.39:169][301]LogEditorTransaction: Undo Add Widget
+[2025.03.28-03.53.51:372][640]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4556.755371
+[2025.03.28-03.53.51:531][659]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-03.53.51:531][659]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4556.904297, Update Interval: 349.705505
+[2025.03.28-03.54.42:913][645]BlueprintLog: New page: Compile WB_Words
+[2025.03.28-03.54.42:936][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.28-03.55.06:278][392]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.03.28-03.55.06:691][399]LogEditorTransaction: Undo Resize Widget
+[2025.03.28-03.55.07:084][429]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.03.28-03.55.07:787][511]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.03.28-03.55.08:350][576]LogEditorTransaction: Undo Drag and Drop Widget
+[2025.03.28-03.55.08:835][632]LogEditorTransaction: Undo Resize Widget
+[2025.03.28-03.55.09:572][718]LogEditorTransaction: Undo Changed Anchors
+[2025.03.28-03.55.10:474][824]LogEditorTransaction: Undo Move Widget
+[2025.03.28-03.55.11:068][836]LogEditorTransaction: Undo Move Widget
+[2025.03.28-03.55.11:748][915]LogEditorTransaction: Undo Resize Widget
+[2025.03.28-03.55.12:028][946]LogEditorTransaction: Undo Move Widget
+[2025.03.28-03.55.12:399][988]LogEditorTransaction: Undo Move Widgets
+[2025.03.28-03.55.12:771][ 30]LogEditorTransaction: Undo Add Widget
+[2025.03.28-03.55.31:718][279]BlueprintLog: New page: Compile WB_Words
+[2025.03.28-03.55.31:739][279]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.03.28-03.55.52:323][713]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:397][714]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:429][715]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:457][716]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:485][717]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:513][718]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:541][719]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:569][720]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:595][721]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:619][722]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:644][723]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.55.52:671][724]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.56.08:649][545]LogMetaData: Removing '/Game/MENUE/WB_Words.WB_Words_C' ref from Metadata '/Game/Mechanics/AI/WB_Words.PackageMetaData'
+[2025.03.28-03.56.08:649][545]LogMetaData: Removing '/Game/MENUE/WB_Words.WB_Words:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Mechanics/AI/WB_Words.PackageMetaData'
+[2025.03.28-03.56.08:649][545]LogMetaData: Removing '/Game/MENUE/WB_Words.WB_Words:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Mechanics/AI/WB_Words.PackageMetaData'
+[2025.03.28-03.56.08:649][545]LogMetaData: Removing '/Game/MENUE/WB_Words.WB_Words:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Mechanics/AI/WB_Words.PackageMetaData'
+[2025.03.28-03.56.08:649][545]LogMetaData: Removing '/Game/MENUE/WB_Words.SKEL_WB_Words_C' ref from Metadata '/Game/Mechanics/AI/WB_Words.PackageMetaData'
+[2025.03.28-03.56.08:649][545]LogMetaData: Removing '/Game/MENUE/WB_Words.SKEL_WB_Words_C:PreConstruct' ref from Metadata '/Game/Mechanics/AI/WB_Words.PackageMetaData'
+[2025.03.28-03.56.08:649][545]LogMetaData: Removing '/Game/MENUE/WB_Words.SKEL_WB_Words_C:Construct' ref from Metadata '/Game/Mechanics/AI/WB_Words.PackageMetaData'
+[2025.03.28-03.56.08:649][545]LogMetaData: Removing '/Game/MENUE/WB_Words.SKEL_WB_Words_C:Tick' ref from Metadata '/Game/Mechanics/AI/WB_Words.PackageMetaData'
+[2025.03.28-03.56.08:664][545]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-03.56.08:714][545]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.56.08:788][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mechanics/AI/AI_char" FILE="../../../../../Github/GameJam/GameJam/Content/Mechanics/AI/AI_char.uasset" SILENT=true
+[2025.03.28-03.56.08:793][545]LogSavePackage: Moving output files for package: /Game/Mechanics/AI/AI_char
+[2025.03.28-03.56.08:794][545]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/AI_char9021B7604A957184B6269E8625B35EE6.tmp' to '../../../../../Github/GameJam/GameJam/Content/Mechanics/AI/AI_char.uasset'
+[2025.03.28-03.56.08:798][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MENUE/WB_Words" FILE="../../../../../Github/GameJam/GameJam/Content/MENUE/WB_Words.uasset" SILENT=true
+[2025.03.28-03.56.08:800][545]LogSavePackage: Moving output files for package: /Game/MENUE/WB_Words
+[2025.03.28-03.56.08:800][545]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WB_Words92BB427140A29EA90517BDA08E53C305.tmp' to '../../../../../Github/GameJam/GameJam/Content/MENUE/WB_Words.uasset'
+[2025.03.28-03.56.08:808][545]LogFileHelpers: InternalPromptForCheckoutAndSave took 143 ms (total: 841 ms)
+[2025.03.28-03.56.08:826][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.03.28-03.56.08:836][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.03.28-03.56.08:842][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.03.28-03.56.08:853][545]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.28-03.56.08:853][545]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mechanics/AI/AI_char.AI_char
+[2025.03.28-03.56.08:853][545]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MENUE/WB_Words.WB_Words
+[2025.03.28-03.56.16:616][462]LogContentBrowser: Attempting asset rename: WB_Words -> WB_Words
+[2025.03.28-03.56.23:933][340]LogContentBrowser: Attempting asset rename: WB_Words -> WB_Words_1
+[2025.03.28-03.56.23:951][340]LogMetaData: Removing '/Game/MENUE/WB_Words_1.WB_Words_1_C' ref from Metadata '/Game/MENUE/WB_Words.PackageMetaData'
+[2025.03.28-03.56.23:951][340]LogMetaData: Removing '/Game/MENUE/WB_Words_1.SKEL_WB_Words_1_C' ref from Metadata '/Game/MENUE/WB_Words.PackageMetaData'
+[2025.03.28-03.56.23:951][340]LogMetaData: Removing '/Game/MENUE/WB_Words_1.SKEL_WB_Words_1_C:PreConstruct' ref from Metadata '/Game/MENUE/WB_Words.PackageMetaData'
+[2025.03.28-03.56.23:951][340]LogMetaData: Removing '/Game/MENUE/WB_Words_1.SKEL_WB_Words_1_C:Construct' ref from Metadata '/Game/MENUE/WB_Words.PackageMetaData'
+[2025.03.28-03.56.23:951][340]LogMetaData: Removing '/Game/MENUE/WB_Words_1.SKEL_WB_Words_1_C:Tick' ref from Metadata '/Game/MENUE/WB_Words.PackageMetaData'
+[2025.03.28-03.56.23:951][340]LogMetaData: Removing '/Game/MENUE/WB_Words_1.WB_Words_1:EventGraph.K2Node_Event_0' ref from Metadata '/Game/MENUE/WB_Words.PackageMetaData'
+[2025.03.28-03.56.23:951][340]LogMetaData: Removing '/Game/MENUE/WB_Words_1.WB_Words_1:EventGraph.K2Node_Event_1' ref from Metadata '/Game/MENUE/WB_Words.PackageMetaData'
+[2025.03.28-03.56.23:951][340]LogMetaData: Removing '/Game/MENUE/WB_Words_1.WB_Words_1:EventGraph.K2Node_Event_2' ref from Metadata '/Game/MENUE/WB_Words.PackageMetaData'
+[2025.03.28-03.56.23:964][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-03.56.24:112][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Mechanics/AI/AI_char" FILE="../../../../../Github/GameJam/GameJam/Content/Mechanics/AI/AI_char.uasset" SILENT=true
+[2025.03.28-03.56.24:118][340]LogSavePackage: Moving output files for package: /Game/Mechanics/AI/AI_char
+[2025.03.28-03.56.24:119][340]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/AI_charEF8B8861482D7B2FE5255EA8F68D6BBE.tmp' to '../../../../../Github/GameJam/GameJam/Content/Mechanics/AI/AI_char.uasset'
+[2025.03.28-03.56.24:119][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MENUE/WB_Words_1" FILE="../../../../../Github/GameJam/GameJam/Content/MENUE/WB_Words_1.uasset" SILENT=true
+[2025.03.28-03.56.24:121][340]LogSavePackage: Moving output files for package: /Game/MENUE/WB_Words_1
+[2025.03.28-03.56.24:121][340]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WB_Words_11A498C2A4F4BCDBA14D7B09C4492AFBD.tmp' to '../../../../../Github/GameJam/GameJam/Content/MENUE/WB_Words_1.uasset'
+[2025.03.28-03.56.24:129][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 164 ms (total: 1.00 sec)
+[2025.03.28-03.56.24:145][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.28-03.56.24:154][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-03.56.24:166][340]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.03.28-03.56.24:169][340]AssetCheck: New page: Asset Save: multiple assets
+[2025.03.28-03.56.24:169][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Mechanics/AI/AI_char.AI_char
+[2025.03.28-03.56.24:169][340]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MENUE/WB_Words_1.WB_Words_1
+[2025.03.28-03.56.47:212][ 79]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.28-03.56.47:212][ 79]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.28-03.56.51:316][571]BlueprintLog: New page: Compile WB_Words_1
+[2025.03.28-03.56.51:336][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-03.56.54:534][941]LogContentBrowser: Deferred new asset file creation: WB_Words_2
+[2025.03.28-03.56.54:537][941]LogContentBrowser: Creating deferred item: WB_Words_2
+[2025.03.28-03.56.54:546][942]LogContentBrowser: Renaming the item being created (Deferred Item: WB_Words_2).
+[2025.03.28-03.56.55:011][998]LogContentBrowser: Attempting asset rename: WB_Words_2 -> WB_Words_2
+[2025.03.28-03.56.55:021][998]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-03.56.55:028][998]LogContentBrowser: End creating deferred item WB_Words_2
+[2025.03.28-03.56.56:027][111]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MENUE/WB_Words_2.WB_Words_2
+[2025.03.28-03.56.56:028][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.56.56:028][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.56.56:036][111]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.56.56:036][111]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.58.05:943][764]BlueprintLog: New page: Compile WB_Words_2
+[2025.03.28-03.58.05:955][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.28-03.58.07:454][937]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-03.58.07:516][937]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MENUE/WB_Words_2" FILE="../../../../../Github/GameJam/GameJam/Content/MENUE/WB_Words_2.uasset" SILENT=true
+[2025.03.28-03.58.07:518][937]LogSavePackage: Moving output files for package: /Game/MENUE/WB_Words_2
+[2025.03.28-03.58.07:518][937]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WB_Words_29F27993445DC4FEBD242C8917A66DD0D.tmp' to '../../../../../Github/GameJam/GameJam/Content/MENUE/WB_Words_2.uasset'
+[2025.03.28-03.58.07:525][937]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.07 sec)
+[2025.03.28-03.58.07:525][937]AssetCheck: New page: Asset Save: WB_Words_2
+[2025.03.28-03.58.07:525][937]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MENUE/WB_Words_2.WB_Words_2
+[2025.03.28-03.58.25:878][124]LogContentBrowser: Deferred new asset file creation: WB_Words_3
+[2025.03.28-03.58.25:881][124]LogContentBrowser: Creating deferred item: WB_Words_3
+[2025.03.28-03.58.25:903][125]LogContentBrowser: Renaming the item being created (Deferred Item: WB_Words_3).
+[2025.03.28-03.58.28:571][446]LogContentBrowser: Attempting asset rename: WB_Words_3 -> WB_Words_3
+[2025.03.28-03.58.28:581][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-03.58.28:589][446]LogContentBrowser: End creating deferred item WB_Words_3
+[2025.03.28-03.58.39:930][801]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-03.58.39:930][801]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-03.58.41:330][969]LogContentBrowser: Attempting asset rename: WB_Words_3 -> WB_Next
+[2025.03.28-03.58.41:348][969]LogMetaData: Removing '/Game/MENUE/WB_Next.SKEL_WB_Next_C' ref from Metadata '/Game/MENUE/WB_Words_3.PackageMetaData'
+[2025.03.28-03.58.41:348][969]LogMetaData: Removing '/Game/MENUE/WB_Next.WB_Next_C' ref from Metadata '/Game/MENUE/WB_Words_3.PackageMetaData'
+[2025.03.28-03.58.41:349][969]LogMetaData: Removing '/Game/MENUE/WB_Next.SKEL_WB_Next_C:PreConstruct' ref from Metadata '/Game/MENUE/WB_Words_3.PackageMetaData'
+[2025.03.28-03.58.41:349][969]LogMetaData: Removing '/Game/MENUE/WB_Next.SKEL_WB_Next_C:Construct' ref from Metadata '/Game/MENUE/WB_Words_3.PackageMetaData'
+[2025.03.28-03.58.41:349][969]LogMetaData: Removing '/Game/MENUE/WB_Next.SKEL_WB_Next_C:Tick' ref from Metadata '/Game/MENUE/WB_Words_3.PackageMetaData'
+[2025.03.28-03.58.41:350][969]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-03.58.41:411][969]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MENUE/WB_Next" FILE="../../../../../Github/GameJam/GameJam/Content/MENUE/WB_Next.uasset" SILENT=true
+[2025.03.28-03.58.41:413][969]LogSavePackage: Moving output files for package: /Game/MENUE/WB_Next
+[2025.03.28-03.58.41:413][969]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WB_NextDFFC6EE54DC40CC8748152BAC9D268B7.tmp' to '../../../../../Github/GameJam/GameJam/Content/MENUE/WB_Next.uasset'
+[2025.03.28-03.58.41:422][969]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 1.14 sec)
+[2025.03.28-03.58.41:433][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.28-03.58.41:441][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.03.28-03.58.41:449][969]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.28-03.58.41:450][969]AssetCheck: New page: Asset Save: WB_Next
+[2025.03.28-03.58.41:450][969]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MENUE/WB_Next.WB_Next
+[2025.03.28-03.58.43:120][162]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MENUE/WB_Next.WB_Next
+[2025.03.28-03.58.43:120][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.58.43:121][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.58.43:126][162]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.58.43:126][162]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.59.11:488][477]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.28-03.59.11:488][477]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2025.03.28-03.59.21:157][614]LogSlate: Window 'Color Picker' being destroyed
+[2025.03.28-04.00.00:297][121]BlueprintLog: New page: Compile WB_Next
+[2025.03.28-04.00.00:308][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-04.00.16:108][975]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4941.466309
+[2025.03.28-04.00.16:267][994]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-04.00.16:267][994]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4941.616211, Update Interval: 330.021057
+[2025.03.28-04.00.24:660][998]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-04.00.24:660][998]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.03.28-04.00.27:410][316]BlueprintLog: New page: Compile WB_Next
+[2025.03.28-04.00.27:420][316]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.28-04.01.22:163][822]BlueprintLog: New page: Compile WB_Next
+[2025.03.28-04.01.22:172][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.03.28-04.02.05:888][919]LogEditorTransaction: Undo Resize Widget
+[2025.03.28-04.02.20:659][562]BlueprintLog: New page: Compile WB_Next
+[2025.03.28-04.02.20:671][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2025.03.28-04.04.31:894][105]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-04.04.31:925][105]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MENUE/UI_Elements/Options/WBP_Options" FILE="../../../../../Github/GameJam/GameJam/Content/MENUE/UI_Elements/Options/WBP_Options.uasset" SILENT=true
+[2025.03.28-04.04.31:936][105]LogSavePackage: Moving output files for package: /Game/MENUE/UI_Elements/Options/WBP_Options
+[2025.03.28-04.04.31:936][105]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WBP_Options1B4B2D524CC7F65344DFC0AF4025A507.tmp' to '../../../../../Github/GameJam/GameJam/Content/MENUE/UI_Elements/Options/WBP_Options.uasset'
+[2025.03.28-04.04.31:941][105]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 1.19 sec)
+[2025.03.28-04.04.31:943][105]AssetCheck: New page: Asset Save: WBP_Options
+[2025.03.28-04.04.31:943][105]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/MENUE/UI_Elements/Options/WBP_Options.WBP_Options
