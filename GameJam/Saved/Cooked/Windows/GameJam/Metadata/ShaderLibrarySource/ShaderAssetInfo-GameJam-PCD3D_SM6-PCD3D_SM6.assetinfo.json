@@ -1,0 +1,759 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "2C890700CD9B9680AAF868ECE9DFB95A44D2CB45",
+			"Assets": [
+				"/Game/OldWest/VOL5/Materials/MI_Rug_02a"
+			]
+		},
+		{
+			"ShaderMapHash": "59AD470090D49B35F34484FCE2F703027F6CFF51",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D2BC7304E19C92A116A21E6CBBD2D54C88B35EFF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "22B0DD050B9BD648B5F0D46E2B1EE493A98EE50B",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "EEA61A0748F2273F1A346134BF44DAF4438D219D",
+			"Assets": [
+				"/Game/OldWest/VOL1/Materials/MI_Bed_01b"
+			]
+		},
+		{
+			"ShaderMapHash": "533DFD086E877CC515039295977A6E1023029248",
+			"Assets": [
+				"/Game/Materials_elya/ceiling/Ceilimg_Triplanar",
+				"/Game/Materials_elya/Parquet"
+			]
+		},
+		{
+			"ShaderMapHash": "EA3C2B0BCFFE299D1AB93A559F62C45F17C48F7F",
+			"Assets": [
+				"/Game/Props_elya/Rope/Rope_Big/Big_rope"
+			]
+		},
+		{
+			"ShaderMapHash": "9C49830FB5118D6401406B9D16169B98BC2D3C2D",
+			"Assets": [
+				"/Game/OldWest/Shared/Materials/MM_PP_Sharpen"
+			]
+		},
+		{
+			"ShaderMapHash": "740906101A6FADF71754BCAF0E0A831106816B97",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "2E774F10DB8FCBFD5C932D087FAEF2C68EFD8FC9",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0CBA1E11538F0617658F2D3F395F9E3BEF557F71",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "DE7B9713B531723E3BB016CA25C954451DA03577",
+			"Assets": [
+				"/HDRIBackdrop/Materials/MI_HDRI_Sky"
+			]
+		},
+		{
+			"ShaderMapHash": "E69FCA134E95B9CBA5C806272F4B33A9B386126E",
+			"Assets": [
+				"/Game/Props_elya/Bottles/rom_02",
+				"/Game/Props_elya/vase/MatID_1",
+				"/Game/Props_elya/wall/Wall",
+				"/Game/Props_elya/wall/Wallpaper_1",
+				"/Game/Props_elya/wall/Wallpaper_2"
+			]
+		},
+		{
+			"ShaderMapHash": "F41020167194BC7D7FF4809CE6A45F62FFA78E08",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "1323A416A7FD67AC95CDDC6E36D4BD08F8CD9238",
+			"Assets": [
+				"/Game/Materials_elya/Marble/armani-marble_roughness_Mat"
+			]
+		},
+		{
+			"ShaderMapHash": "7C0C821A40528D2FD1A69A57E84885A86D56B072",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "4E4BAC1B474B717D58FF22554FDE04978B5B60EC",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B6EAD71B85B4990A6DC88455175E041747561E8E",
+			"Assets": [
+				"/Game/Materials_elya/Window_View/View_1",
+				"/Game/Materials_elya/Window_View/View_2",
+				"/Game/Materials_elya/Window_View/View_3",
+				"/Game/Materials_elya/Window_View/View_4",
+				"/Game/Materials_elya/Window_View/View_5",
+				"/Game/Materials_elya/Window_View/View_6"
+			]
+		},
+		{
+			"ShaderMapHash": "AC8E891C45993703B6B71C3BB5A9B031623124C7",
+			"Assets": [
+				"/Interchange/gltf/M_Sheen"
+			]
+		},
+		{
+			"ShaderMapHash": "BDBDE11CAEF640CD3C558C226B765668232F1F5E",
+			"Assets": [
+				"/Interchange/gltf/M_SpecularGlossiness"
+			]
+		},
+		{
+			"ShaderMapHash": "71F3841DA634D24A93C2D8084D8F5406773901B3",
+			"Assets": [
+				"/Game/Materials_elya/Grass/Grass"
+			]
+		},
+		{
+			"ShaderMapHash": "FAC2CC1D5893280137F253A5F6CDA83A64F037BA",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "DEF56220C7BD375B4FDAB75A7F6EDB6140CF8EB9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "8EF7432262121E8454796FC2E7A27749851C2451",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "4D875A2759C02D2CAE7FDD88B7D00A7353B4C89C",
+			"Assets": [
+				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "8F0DCB2A7CE346FC0CF04FA7AA3AAB468AEA5FA1",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "02952A2B245F77FEE86A5472B1E5BDCBEC365479",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat"
+			]
+		},
+		{
+			"ShaderMapHash": "FCE85F33CB5D23A0044C7F44EDA03BBC8E1CA022",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray",
+				"/Game/Props_elya/treasure/medallion/Old_gold"
+			]
+		},
+		{
+			"ShaderMapHash": "26785A35BAB94FB75CB51E5729423717AB7498D6",
+			"Assets": [
+				"/Game/Materials_elya/Wall_3/Wall_3"
+			]
+		},
+		{
+			"ShaderMapHash": "295E27370D68D6F64A9BFEC63B855D2678657E1D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "90BC783866290E4C8D6D3112123A58542987D915",
+			"Assets": [
+				"/Game/OldWest/Shared/Materials/MM_Foliage_Master_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "E7AF2C4287A724114315699EC858B12D7EDAF006",
+			"Assets": [
+				"/Game/OldWest/Shared/Materials/MM_MasterMaterial_01a",
+				"/Game/OldWest/VOL1/Materials/MI_Cabinet_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "C4396742398B0B5FA5B6616E12844F8AE1DAE870",
+			"Assets": [
+				"/Game/Materials_elya/Wall_Brick/Wall_brick"
+			]
+		},
+		{
+			"ShaderMapHash": "08147647FD92AB4A5378B343BE3829AAD4F2A7A9",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "2B278E47C59E0EE916098BFA3012CD84DD0F562E",
+			"Assets": [
+				"/Game/Materials_elya/Wall_2/Wall_2"
+			]
+		},
+		{
+			"ShaderMapHash": "54459E47C7A916E5712E6D5215E7275DBA6C2DF6",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
+			]
+		},
+		{
+			"ShaderMapHash": "9C8EC447B8F0ABFC783A30C5E81742A6F21D9A66",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "3969594955FFF7CDDD96484C1CAE6FD3CC76ED86",
+			"Assets": [
+				"/Game/OldWest/Shared/Materials/MM_Glass_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "723D524ADE4C9A9B4B4E99371FC40C8D010293B5",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "B2352451A8B93866FB529322E0377F81FFD9A501",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "4860EE52A6F04F2B979BFEECF08A8CBB4E20246C",
+			"Assets": [
+				"/Game/Props_elya/chandelier/chandelier"
+			]
+		},
+		{
+			"ShaderMapHash": "1114D653F4277F012874C4373CC4174F0B8B112F",
+			"Assets": [
+				"/HDRIBackdrop/Materials/HDRI_Projection_Sky"
+			]
+		},
+		{
+			"ShaderMapHash": "4EEEFE57B37BA4F0A593FF8F7898ACB5AE883720",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "DB626958631E950FB38D981C39A87E0D50CDBB22",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C1EE5E5B5BF67801CFCF926385ECA562DDB0D7FC",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C6ED275D8D69252DEBB5BC13782A2DCB0D943BA3",
+			"Assets": [
+				"/Game/Props_elya/books/books",
+				"/Game/Props_elya/Bottles/rom_01",
+				"/Game/Props_elya/Dishes/M_Dishes",
+				"/Game/Props_elya/furniture/Clock/Clock",
+				"/Game/Props_elya/furniture/Clock/Telhado",
+				"/Game/Props_elya/furniture/Clock/Woods",
+				"/Game/Props_elya/Gramophone/standardSurface1",
+				"/Game/Props_elya/treasure/Gold_Bar/Material",
+				"/Game/Props_elya/treasure/medallion/Jewel"
+			]
+		},
+		{
+			"ShaderMapHash": "A8C56A5F79D290132D95F83BE641513D0654E94E",
+			"Assets": [
+				"/Game/Mechanics/AI/character/Akai_MAT",
+				"/Game/Mechanics/AI/character/Body_MAT",
+				"/Game/Mechanics/AI/character/EyeSpec_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "5B3E895F182400C76628BFB02C933FD7D47A309D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "53763660661F9E9A32FC9453052912986B3A94BD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "F1649467B3C6052EEF75DDF6BBE9FFF9808BD8BB",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "3D345768528CF81A725E2DC6E89359A02A9F906F",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "39846B69E39D9D77B836F15FB9000C5968B9C508",
+			"Assets": [
+				"/Game/OldWest/VOL1/Materials/MI_Office_Cabinent_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "FB27F06AD0A8C98A92088E5997B1294B890EC16B",
+			"Assets": [
+				"/Game/Props_elya/BELL/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CA9EAD6DC072047E3E2E0FEEB746B4BC31CE6558",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "41E6DC6E9BF3FFDBDD9879CEDB87F8763CAE54BF",
+			"Assets": [
+				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
+			]
+		},
+		{
+			"ShaderMapHash": "6C7359730EB9AF435E8CB5EBCC88AD8F056EEA85",
+			"Assets": [
+				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A4657E759045A7781BDFD5DB5C00547BEEC7A756",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "D4865978444CFA3C06A1857ABC574FF20F28FBBD",
+			"Assets": [
+				"/Game/Materials_elya/Window_View/Brick_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "F816D58163313773C6D646547C6DAB29361E4076",
+			"Assets": [
+				"/Interchange/gltf/M_Unlit"
+			]
+		},
+		{
+			"ShaderMapHash": "1863DA8122FBE222BE001EEBD4A34292B6122F01",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "30BDF68143A9A3BC1795DDF095B2A35C42FE99D7",
+			"Assets": [
+				"/Game/OldWest/Shared/Materials/MM_Master_Foliage_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "3B4752835D57D94907883619BFBC63ADF22851EC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "865A5A855E2E01B28A0BB498D874ACEC398CBEA8",
+			"Assets": [
+				"/Engine/EngineMaterials/PPM_DefaultCalibrationColor"
+			]
+		},
+		{
+			"ShaderMapHash": "51699C89BC36DCEC9ECE190738FDA3AE09DAD649",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "EC2C668A2049976BDAF1B8918D8C3A88A90F1114",
+			"Assets": [
+				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D2262B8B4FCB74CDEDB375DC801151EB5ED0756B",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "355C728DCF897410C1C1E42ACCB88D46968062EC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "6F72AA956D048C9E851CD02D33459B4B3372F6C8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "51E2FD970CC35122B49C5FC4D34A6BAD0FEE925A",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "29373898A15E8546F075C4A84C834A37C005B67A",
+			"Assets": [
+				"/Game/OldWest/Shared/Materials/MI_Demo_Floor_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "6604DD9881A34C46211043191CEF657CDE26F9AF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "93310E9DE70C23AC1B09E4FDBFA2A37E901AF0AD",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CFAC259E3E9250EBCEB3B5EF96DA6A330BC07A61",
+			"Assets": [
+				"/Game/Mechanics/AI/character/eyelash_MAT"
+			]
+		},
+		{
+			"ShaderMapHash": "02553C9EFDCFA5797DCACC3506C4128B4E35E7E5",
+			"Assets": [
+				"/Game/Materials_elya/Wall_1/Wall_triplanar_1"
+			]
+		},
+		{
+			"ShaderMapHash": "4C5E399F02739FB058819A0EBA55DB224C5B07FC",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "480E58A0192F338736838F1A4019B09C4B8AD3A9",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Unlit_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "B410C8A16FB99DFBA6AB299211A56CE7B3598C12",
+			"Assets": [
+				"/Game/Props_elya/Lever/Lever",
+				"/Game/Props_elya/Painting/NewMaterial",
+				"/Game/Props_elya/Rope/Box",
+				"/Game/Props_elya/treasure/braclet/lambert2",
+				"/Game/Props_elya/treasure/Coins/coins"
+			]
+		},
+		{
+			"ShaderMapHash": "C3112FA22D81E2B19EFBD7C69909A870750C882C",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "1484D9A2514F10AA073850EFD4B4AB5B40CBFA99",
+			"Assets": [
+				"/Engine/EngineMaterials/NaniteHiddenSectionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1E9516A865328B66AC1A434CDA146CB7383A65EE",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "917DDEA92158E8F69F7B0ED774AD505B0DA3B723",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "C73753ACFA25521625CBF3750FA1C994D33FAB2E",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigXRayMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F599D2AEE86E5ECDE247FBA09C12EE61C91F4EFD",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2AC330B23B6DE679BFD78EC5C1990667FCC1C6D6",
+			"Assets": [
+				"/Game/Props_elya/Bottles/rom_03",
+				"/Game/Props_elya/Bottles/rom_04",
+				"/Game/Props_elya/Candle/candle1",
+				"/Game/Props_elya/Painting/OldPortraitWitch_02",
+				"/Game/Props_elya/Painting/T_Paint/7_Mat",
+				"/Game/Props_elya/Painting/T_Paint/8_Mat",
+				"/Game/Props_elya/Painting/T_Paint/9_Mat",
+				"/Game/Props_elya/Painting/T_Paint/P_1",
+				"/Game/Props_elya/Painting/T_Paint/P_2",
+				"/Game/Props_elya/Painting/T_Paint/P_3",
+				"/Game/Props_elya/Painting/T_Paint/P_4",
+				"/Game/Props_elya/Painting/T_Paint/P_5",
+				"/Game/Props_elya/Painting/T_Paint/P_6",
+				"/Game/Props_elya/Painting/T_Paint/P_7",
+				"/Game/Props_elya/Painting/T_Paint/P_9",
+				"/Game/Props_elya/Painting/T_Paint/P_10",
+				"/Game/Props_elya/treasure/Gold_Goblet/OPM0058",
+				"/Game/Props_elya/treasure/Key/Key10"
+			]
+		},
+		{
+			"ShaderMapHash": "7596DBB5FF57EA6A8846041B7D3860CB19F43F7D",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Mask"
+			]
+		},
+		{
+			"ShaderMapHash": "DC857FB8F8060046EDEE6832EE8C171CD9B6AD5B",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5C3002BB37E0ECFDEB499E89E076AF5D18A85EB9",
+			"Assets": [
+				"/Game/OldWest/VOL5/Materials/MI_Curtain_01a"
+			]
+		},
+		{
+			"ShaderMapHash": "A21DD3BB07B2D6829A4ACBAD60115EDAC4F5D6AA",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5A465CC377AAC3101DDC6A3DBD117760428F6A31",
+			"Assets": [
+				"/HDRIBackdrop/Materials/HDRI_Projection_Floor",
+				"/HDRIBackdrop/Materials/MI_HDRI_Floor"
+			]
+		},
+		{
+			"ShaderMapHash": "18B588C3B8734B458D8C5CDE9E24D2A1EE94B03D",
+			"Assets": [
+				"/Game/OldWest/VOL6/Materials/MI_Shelf_12a"
+			]
+		},
+		{
+			"ShaderMapHash": "870BAAC4E33E7F405B692237CBDE0F2A06781B8C",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "C7233BC6F14A8B2950824AB124FF96DA90290601",
+			"Assets": [
+				"/Game/Materials_elya/Marble/Black_marble",
+				"/Game/Materials_elya/Marble/white_marble",
+				"/Game/Props_elya/chair/Tex_Common_Chair_leg",
+				"/Game/Props_elya/chair/Tex_Common_Chair_seat",
+				"/Game/Props_elya/furniture/septum/T_pillar_2",
+				"/Game/Props_elya/furniture/Sofa/NewMaterial",
+				"/Game/Props_elya/Rope/NewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "BF9911C89FABA183B5A1D3CEEEEEA8E96962E3DF",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_ClearCoat_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "BBFDC1C866BC172EF00CD8FB5849AFC7F69D7986",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Transmission_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "50C76DCBA6D7FED0DF2D3B030E81E0189C9E6243",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "FC05AECBB6C43F0C9D054FC16E9D7742BE56251B",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "0C354DD575B1EE26E20E7BFA4E5D11ED47E1F520",
+			"Assets": [
+				"/Game/Props_elya/furniture/Locker/Material"
+			]
+		},
+		{
+			"ShaderMapHash": "C3FD79D70C7D43180B3DA1936C81EE2AF3486C2D",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "887B30DADE25E7729A909E806EBA25F58FF2FFA6",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "74801ADB3011D2ADD52B50FA51FC9F692AF3A7AA",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough",
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "5424A7E0A8EB60FCA2F17EF8B328D2BAF15BABC6",
+			"Assets": [
+				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
+			]
+		},
+		{
+			"ShaderMapHash": "6774EBE2C930726FABD59A828379C88D1292AC30",
+			"Assets": [
+				"/Interchange/gltf/M_Transmission"
+			]
+		},
+		{
+			"ShaderMapHash": "6998D1E322A7A3D3EF6C6766E69EE69594755162",
+			"Assets": [
+				"/Game/Materials_elya/white/NewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A0E28EE59861BF7F5BA23B4A610C34F652FE9F81",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Default_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "8F94B6E64D36FCDA742EB6A25C6352D04BAD5D56",
+			"Assets": [
+				"/Game/Props_elya/Window/MatID_1"
+			]
+		},
+		{
+			"ShaderMapHash": "86C344E7A8C8E5AC32250965576F749DD29FBF8B",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "122F0CE8B33F28CEE3FACDDA5E57E4F3E1A5CFF8",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "58F759E8D236E54831916A7203563B03D1AEB65E",
+			"Assets": [
+				"/Game/Materials_elya/Decal/Decal_1"
+			]
+		},
+		{
+			"ShaderMapHash": "5CC663EA6CB06C07C0A58626E2C98C39706F7419",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "454D50EC0B07024F1C1BE2A62C61E14ABB17B554",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "FF6A5EF2A3C767990A27ED872CC3F4B45A34618C",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A52275F3BA41AD3188E60348D08D60167D74DE98",
+			"Assets": [
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "21009EF534B71E23DD1AAB75341CEAF58071C845",
+			"Assets": [
+				"/Game/OldWest/VOL1/Materials/MI_Bed_01c"
+			]
+		},
+		{
+			"ShaderMapHash": "079217FB82A46692AE3A18833BA01C09BE207528",
+			"Assets": [
+				"/Interchange/gltf/M_ClearCoat"
+			]
+		},
+		{
+			"ShaderMapHash": "4D4630FBFE903E74008E2B51BDAFA2BB7252B015",
+			"Assets": [
+				"/Game/Props_elya/MAP/Material_003"
+			]
+		},
+		{
+			"ShaderMapHash": "4B648BFC853119FA5D90F64245E5788DCC122DE5",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6EFBE7FC5DB0A389B628028286CC1EBC4AFA7082",
+			"Assets": [
+				"/Interchange/gltf/MaterialInstances/MI_Sheen_Blend"
+			]
+		}
+	]
+}
