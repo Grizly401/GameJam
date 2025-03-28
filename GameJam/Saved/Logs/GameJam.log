@@ -2517,3 +2517,213 @@ Make sure 'WB_Pause_C' has been compiled for  Get Button Text
 [2025.03.28-03.22.41:372][838]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
 [2025.03.28-03.22.42:132][917]BlueprintLog: New page: Compile WB_Pause
 [2025.03.28-03.22.42:145][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.28-03.23.36:213][583]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2741.631348
+[2025.03.28-03.23.37:212][586]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-03.23.37:212][586]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2742.297852, Update Interval: 302.777802
+[2025.03.28-03.26.15:027][270]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MENUE/UI_Elements/Options/WBP_Options.WBP_Options
+[2025.03.28-03.26.15:027][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.26.15:028][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.26.15:035][270]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.26.15:035][270]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.26.34:034][515]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.26.34:034][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.26.34:039][515]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.26.34:039][515]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.26.38:351][ 24]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.26.38:351][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.26.38:356][ 24]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.26.38:356][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.26.43:522][624]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MENUE/UI_Elements/WBP_MainMenue.WBP_MainMenue
+[2025.03.28-03.26.43:522][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.26.43:522][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.26.43:533][624]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.26.43:533][624]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.26.46:105][914]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.26.46:105][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.26.46:110][914]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.26.46:110][914]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.26.49:612][320]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MENUE/UI_Elements/WBP_Buttons.WBP_Buttons
+[2025.03.28-03.26.49:612][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.26.49:612][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.26.49:625][320]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.26.49:625][320]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.28.44:008][981]BlueprintLog: New page: Compile WB_Pause
+[2025.03.28-03.28.44:033][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2025.03.28-03.29.26:919][ 98]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3092.364014
+[2025.03.28-03.29.27:086][118]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.03.28-03.29.27:086][118]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3092.522461, Update Interval: 305.918152
+[2025.03.28-03.30.05:319][887]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.03.28-03.30.05:321][887]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.012
+[2025.03.28-03.30.05:321][887]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MENUE/UI_Elements/WBP_Buttons] ([2] browsable assets)...
+[2025.03.28-03.30.05:325][887]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MENUE/UI_Elements/WBP_Buttons.WBP_Buttons]
+[2025.03.28-03.30.05:325][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/MENUE/UI_Elements/WBP_Buttons]
+[2025.03.28-03.30.05:325][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MENUE/UI_Elements/WBP_Buttons" FILE="../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/MENUE/UI_Elements/WBP_Buttons_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2025.03.28-03.30.05:336][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MENUE/UI_Elements/WBP_Buttons_Auto3
+[2025.03.28-03.30.05:336][887]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WBP_Buttons_Auto37FC21DB4484A28D095E48BB9BDC21631.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/MENUE/UI_Elements/WBP_Buttons_Auto3.uasset'
+[2025.03.28-03.30.05:337][887]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MENUE/UI_Elements/ESC/WB_Pause] ([2] browsable assets)...
+[2025.03.28-03.30.05:342][887]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MENUE/UI_Elements/ESC/WB_Pause.WB_Pause]
+[2025.03.28-03.30.05:342][887]OBJ SavePackage: Finished generating thumbnails for package [/Game/MENUE/UI_Elements/ESC/WB_Pause]
+[2025.03.28-03.30.05:350][887]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MENUE/UI_Elements/ESC/WB_Pause_Auto3
+[2025.03.28-03.30.05:351][887]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/WB_Pause_Auto30BA1460F4AD109E48334F1A89C1D1B16.tmp' to '../../../../../Github/GameJam/GameJam/Saved/Autosaves/Game/MENUE/UI_Elements/ESC/WB_Pause_Auto3.uasset'
+[2025.03.28-03.30.05:351][887]LogFileHelpers: Auto-saving content packages took 0.030
+[2025.03.28-03.30.58:867][840]BlueprintLog: New page: Compile WB_Pause
+[2025.03.28-03.30.58:874][840]LogBlueprint: Warning: [AssetLog] E:\Github\GameJam\GameJam\Content\MENUE\UI_Elements\ESC\WB_Pause.uasset: [Compiler] On Clicked (Settings)  does not have a valid matching component!
+[2025.03.28-03.30.58:888][840]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.28-03.31.08:352][948]BlueprintLog: New page: Compile WB_Pause
+[2025.03.28-03.31.08:364][948]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2025.03.28-03.31.21:098][439]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MENUE/UI_Elements/Options/NewUserDefinedStruct.NewUserDefinedStruct
+[2025.03.28-03.31.25:382][930]LogSlate: Window 'NewUserDefinedStruct' being destroyed
+[2025.03.28-03.31.29:188][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2025.03.28-03.31.30:800][369]LogSlate: Window 'Delete Assets' being destroyed
+[2025.03.28-03.31.30:833][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.28-03.31.30:847][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2025.03.28-03.31.30:859][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.03.28-03.31.32:921][589]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.03.28-03.31.32:927][589]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.03.28-03.31.32:927][589]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2025.03.28-03.31.32:937][589]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 10 ms (total: 64 ms)
+[2025.03.28-03.31.32:937][589]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.03.28-03.31.32:938][589]PIE: New page: PIE session: FirstPersonMap (28 мар. 2025 г., 09:31:32)
+[2025.03.28-03.31.32:938][589]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.28-03.31.32:969][589]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031526s)
+[2025.03.28-03.31.32:969][589]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.031552s)
+[2025.03.28-03.31.32:975][589]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2025.03.28-03.31.32:975][589]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.31.32:976][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.31.32:976][589]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.28-03.31.32:977][589]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-03.31.32:977][589]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-03.31.32:977][589]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-03.31.32:977][589]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-03.31.32:984][589]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.28-03.31.32:984][589]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 2.36 sec)
+[2025.03.28-03.31.32:984][589]LogPlayLevel: PIE: World Init took: (0.008887s)
+[2025.03.28-03.31.32:984][589]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.03.28-03.31.32:984][589]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.03.28-03.31.32:984][589]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.03.28-03.31.32:984][589]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.03.28-03.31.32:984][589]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.03.28-03.31.32:984][589]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.03.28-03.31.32:984][589]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.03.28-03.31.32:984][589]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.03.28-03.31.32:984][589]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.03.28-03.31.32:985][589]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.03.28-03.31.32:985][589]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.03.28-03.31.32:985][589]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.03.28-03.31.32:987][589]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.03.28-03.31.32:998][589]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Xonar SoundCard)
+[2025.03.28-03.31.32:998][589]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.03.28-03.31.32:998][589]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.03.28-03.31.32:998][589]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.03.28-03.31.32:998][589]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.03.28-03.31.32:998][589]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.03.28-03.31.32:999][589]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.03.28-03.31.32:999][589]LogInit: FAudioDevice initialized with ID 7.
+[2025.03.28-03.31.32:999][589]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.03.28-03.31.32:999][589]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2025.03.28-03.31.32:999][589]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.03.28-03.31.33:002][589]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.28-03.31.33:013][589]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.03.28-06.31.33
+[2025.03.28-03.31.33:014][589]LogWorld: Bringing up level for play took: 0.011988
+[2025.03.28-03.31.33:029][589]LogOnline: OSS: Created online subsystem instance for: :Context_56
+[2025.03.28-03.31.33:032][589]LogBlueprintUserMessages: [TestSecondVar_C_UAID_309C2392D39F2C5902_1248905223] 90
+[2025.03.28-03.31.33:032][589]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2025.03.28-03.31.33:032][589]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-03.31.33:033][589]PIE: Server logged in
+[2025.03.28-03.31.33:034][589]PIE: Play in editor total start time 0,107 seconds.
+[2025.03.28-03.31.33:041][589]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Suspensify'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.28-03.31.33:895][680]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-03.31.33:895][680]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2025.03.28-03.31.33:895][680]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.28-03.31.35:078][822]LogNet: Browse: /Game/FirstPerson/Maps/MainMenue_2
+[2025.03.28-03.31.35:078][822]LogLoad: LoadMap: /Game/FirstPerson/Maps/MainMenue_2
+[2025.03.28-03.31.35:079][822]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.28-03.31.35:080][822]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.35:082][822]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.35:082][822]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.28-03.31.35:133][822]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.28-03.31.35:137][822]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2025.03.28-03.31.35:147][822]LogAudio: Display: Audio Device (ID: 7) registered with world 'MainMenue_2'.
+[2025.03.28-03.31.35:147][822]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.31.35:147][822]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.31.35:148][822]LogAIModule: Creating AISystem for world MainMenue_2
+[2025.03.28-03.31.35:148][822]LogPlayLevel: PIE: World Init took: (0.000605s)
+[2025.03.28-03.31.35:148][822]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.28-03.31.35:150][822]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_MainMenue_2.MainMenue_2 up for play (max tick rate 0) at 2025.03.28-06.31.35
+[2025.03.28-03.31.35:150][822]LogWorld: Bringing up level for play took: 0.002405
+[2025.03.28-03.31.35:151][822]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2025.03.28-03.31.35:152][822]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(954)]!
+[2025.03.28-03.31.35:152][822]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockAlways
+[2025.03.28-03.31.35:152][822]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> NoCapture
+[2025.03.28-03.31.35:153][822]LogLoad: Took 0.074435 seconds to LoadMap(/Game/FirstPerson/Maps/MainMenue_2)
+[2025.03.28-03.31.35:155][822]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Mjolnir_Menue'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.28-03.31.36:488][981]LogNet: Browse: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.03.28-03.31.36:488][981]LogLoad: LoadMap: /Game/FirstPerson/Maps/FirstPersonMap
+[2025.03.28-03.31.36:488][981]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_MainMenue_2
+[2025.03.28-03.31.36:488][981]LogWorld: UWorld::CleanupWorld for MainMenue_2, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.36:488][981]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.36:529][981]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.03.28-03.31.36:530][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.03.28-03.31.36:532][981]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.28-03.31.36:563][981]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030147s)
+[2025.03.28-03.31.36:563][981]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.030181s)
+[2025.03.28-03.31.36:563][981]LogAudio: Display: Audio Device (ID: 7) registered with world 'FirstPersonMap'.
+[2025.03.28-03.31.36:563][981]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.03.28-03.31.36:563][981]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.03.28-03.31.36:563][981]LogAIModule: Creating AISystem for world FirstPersonMap
+[2025.03.28-03.31.36:564][981]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.03.28-03.31.36:564][981]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.03.28-03.31.36:564][981]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.03.28-03.31.36:564][981]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.03.28-03.31.36:571][981]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2025.03.28-03.31.36:571][981]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 2.37 sec)
+[2025.03.28-03.31.36:571][981]LogPlayLevel: PIE: World Init took: (0.008062s)
+[2025.03.28-03.31.36:571][981]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2025.03.28-03.31.36:581][981]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2025.03.28-06.31.36
+[2025.03.28-03.31.36:581][981]LogWorld: Bringing up level for play took: 0.010278
+[2025.03.28-03.31.36:596][981]LogBlueprintUserMessages: [TestSecondVar_C_UAID_309C2392D39F2C5902_1248905223] 90
+[2025.03.28-03.31.36:596][981]LogViewport: Display: Viewport MouseLockMode Changed, LockAlways -> LockOnCapture
+[2025.03.28-03.31.36:596][981]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2025.03.28-03.31.36:596][981]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-03.31.36:597][981]LogLoad: Took 0.108403 seconds to LoadMap(/Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap)
+[2025.03.28-03.31.36:603][981]LogAudio: Warning: Detected orphaned sound which is not a one-shot 'Suspensify'. Sounds which are not one-shots need to have audio components or they risk being orphaned.
+[2025.03.28-03.31.37:167][ 43]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2025.03.28-03.31.37:167][ 43]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2025.03.28-03.31.38:342][183]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2025.03.28-03.31.38:342][183]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2025.03.28-03.31.39:959][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-03.31.39:959][367]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2025.03.28-03.31.39:961][367]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.39:965][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.39:965][367]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2025.03.28-03.31.39:968][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.03.28-03.31.39:971][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.40:011][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.03.28-03.31.40:014][367]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.03.28-03.31.40:014][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.28-03.31.40:015][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7
+[2025.03.28-03.31.40:024][367]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.03.28-03.31.40:063][368]LogPlayLevel: Display: Destroying online subsystem :Context_56
+[2025.03.28-03.31.46:109][ 86]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.46:109][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.46:114][ 86]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.46:114][ 86]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.47:320][224]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.47:320][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.48:214][323]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.48:214][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.48:219][323]LogWorld: UWorld::CleanupWorld for World_50, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.48:219][323]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.54:591][ 80]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.54:591][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.54:596][ 80]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.54:596][ 80]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.31.56:185][263]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2025.03.28-03.31.56:185][263]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.03.28-03.32.00:174][729]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.03.28-03.32.00:217][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/FirstPerson/Input/IMC_Default" FILE="../../../../../Github/GameJam/GameJam/Content/FirstPerson/Input/IMC_Default.uasset" SILENT=true
+[2025.03.28-03.32.00:218][729]LogSavePackage: Moving output files for package: /Game/FirstPerson/Input/IMC_Default
+[2025.03.28-03.32.00:218][729]LogSavePackage: Moving '../../../../../Github/GameJam/GameJam/Saved/IMC_Default919B3B314E13EDA73F3C8CBBE4353BBC.tmp' to '../../../../../Github/GameJam/GameJam/Content/FirstPerson/Input/IMC_Default.uasset'
+[2025.03.28-03.32.00:221][729]LogFileHelpers: InternalPromptForCheckoutAndSave took 46 ms (total: 697 ms)
+[2025.03.28-03.32.00:223][729]AssetCheck: New page: Asset Save: IMC_Default
+[2025.03.28-03.32.00:223][729]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
