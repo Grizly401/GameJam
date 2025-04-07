@@ -85,12 +85,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F41020167194BC7D7FF4809CE6A45F62FFA78E08",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Main"
-			]
-		},
-		{
 			"ShaderMapHash": "1323A416A7FD67AC95CDDC6E36D4BD08F8CD9238",
 			"Assets": [
 				"/Game/Materials_elya/Marble/armani-marble_roughness_Mat"
@@ -168,15 +162,8 @@
 			]
 		},
 		{
-			"ShaderMapHash": "02952A2B245F77FEE86A5472B1E5BDCBEC365479",
-			"Assets": [
-				"/Engine/EditorMaterials/Camera/CineMat"
-			]
-		},
-		{
 			"ShaderMapHash": "FCE85F33CB5D23A0044C7F44EDA03BBC8E1CA022",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
 				"/Game/Props_elya/treasure/medallion/Old_gold"
 			]
 		},
@@ -272,12 +259,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "DB626958631E950FB38D981C39A87E0D50CDBB22",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "C1EE5E5B5BF67801CFCF926385ECA562DDB0D7FC",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
@@ -348,18 +329,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "41E6DC6E9BF3FFDBDD9879CEDB87F8763CAE54BF",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
-			]
-		},
-		{
-			"ShaderMapHash": "6C7359730EB9AF435E8CB5EBCC88AD8F056EEA85",
-			"Assets": [
-				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "A4657E759045A7781BDFD5DB5C00547BEEC7A756",
 			"Assets": [
 				"/Interchange/gltf/MaterialInstances/MI_SpecularGlossiness_Mask_DS"
@@ -375,12 +344,6 @@
 			"ShaderMapHash": "F816D58163313773C6D646547C6DAB29361E4076",
 			"Assets": [
 				"/Interchange/gltf/M_Unlit"
-			]
-		},
-		{
-			"ShaderMapHash": "1863DA8122FBE222BE001EEBD4A34292B6122F01",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
 			]
 		},
 		{
@@ -408,12 +371,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EC2C668A2049976BDAF1B8918D8C3A88A90F1114",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "D2262B8B4FCB74CDEDB375DC801151EB5ED0756B",
 			"Assets": [
 				"/Engine/EngineMaterials/EmissiveMeshMaterial"
@@ -429,12 +386,6 @@
 			"ShaderMapHash": "6F72AA956D048C9E851CD02D33459B4B3372F6C8",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
-			]
-		},
-		{
-			"ShaderMapHash": "51E2FD970CC35122B49C5FC4D34A6BAD0FEE925A",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
 			]
 		},
 		{
@@ -717,12 +668,6 @@
 			"ShaderMapHash": "FF6A5EF2A3C767990A27ED872CC3F4B45A34618C",
 			"Assets": [
 				"/Engine/EngineMaterials/DefaultMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "A52275F3BA41AD3188E60348D08D60167D74DE98",
-			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
 			]
 		},
 		{

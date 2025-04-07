@@ -112,12 +112,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "A191811C5DB5991557970E6B9CBEF420916FE415",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Main"
-			]
-		},
-		{
 			"ShaderMapHash": "E0B72E1E220B4807DCDF1B469A0FB2F77ED1FAAF",
 			"Assets": [
 				"/MeshModelingToolset/Materials/M_DynamicMeshComponentVtxColor"
@@ -258,12 +252,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "F3F16F580CCD0648A6CBAB1128925B2B2928062D",
-			"Assets": [
-				"/Engine/VREditor/SnapGrid/SnapGridMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "45534D5CD2454021A4C7A061A77D574E9110A6A8",
 			"Assets": [
 				"/Game/OldWest/VOL6/Materials/MI_Shelf_12a"
@@ -339,12 +327,6 @@
 			"ShaderMapHash": "5F7FA372C777ADBE392D4301B8ED0B74A0F587EB",
 			"Assets": [
 				"/Game/OldWest/Shared/Materials/MI_Demo_Floor_01a"
-			]
-		},
-		{
-			"ShaderMapHash": "979A4475E0B6772FE78F89F40310043023AB5238",
-			"Assets": [
-				"/Engine/EditorMaterials/Camera/CineMat"
 			]
 		},
 		{
@@ -488,12 +470,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "533210A191DDE777697662714A8C479C4C8D8B94",
-			"Assets": [
-				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "9D07C1A2CCA8400075D050BF484618BBF6502E21",
 			"Assets": [
 				"/Game/Materials_elya/Window_View/View_1",
@@ -594,45 +570,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "5BEAA9CB39711C335230B055AEC3243143E32675",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "E3E28DCC23B91583170180881B052C88A5A1E94C",
-			"Assets": [
-				"/Engine/EditorLandscapeResources/SplineEditorMeshMat"
-			]
-		},
-		{
 			"ShaderMapHash": "84BD64CDF9B459C8C51DF27B2C52B74BC2198079",
 			"Assets": [
 				"/Game/Materials_elya/white/NewMaterial"
 			]
 		},
 		{
-			"ShaderMapHash": "CDD6F6D0AAACD600E94525FBEEA46E214381CE46",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
-			]
-		},
-		{
 			"ShaderMapHash": "800910D2E729B830E958CA1E91775281DC73C065",
 			"Assets": [
 				"/Game/Materials_elya/Wall_3/Wall_3"
-			]
-		},
-		{
-			"ShaderMapHash": "3E481FD556500629B5BD4D42760074172FAB0947",
-			"Assets": [
-				"/Engine/EditorMaterials/PhAT_NoCollisionMaterial"
-			]
-		},
-		{
-			"ShaderMapHash": "D0F0ADD981E98C754967A2D65578BE04D0215239",
-			"Assets": [
-				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
 			]
 		},
 		{
@@ -669,7 +615,6 @@
 		{
 			"ShaderMapHash": "F9506EDF1C4EFA38AC0002A537C3173507C6B07F",
 			"Assets": [
-				"/Engine/VREditor/TransformGizmo/Xray",
 				"/Game/Props_elya/treasure/medallion/Old_gold"
 			]
 		},
