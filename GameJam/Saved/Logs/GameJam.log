@@ -964,3 +964,24 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.13-11.47.11:198][  0]LogMeshReduction: Display: Using ProxyLODMeshReduction for automatic mesh merging
 [2025.04.13-11.47.11:198][  0]LogMeshReduction: Display: No distributed automatic mesh merging module available
 [2025.04.13-11.47.11:198][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2025.04.13-11.47.38:557][  0]LogVirtualization: Display: VirtualizationSystem name found in ini file: None
+[2025.04.13-11.47.38:557][  0]LogVirtualization: Display: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2025.04.13-11.47.39:144][  0]LogUObjectArray: 21917 objects as part of root set at end of initial load.
+[2025.04.13-11.47.39:144][  0]LogUObjectAllocator: 6142568 out of 0 bytes used by permanent object pool.
+[2025.04.13-11.47.39:144][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2025.04.13-11.47.39:253][  0]LogLiveCoding: Display: Starting LiveCoding
+[2025.04.13-11.47.39:253][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2025.04.13-11.47.39:254][  0]LogLiveCoding: Display: First instance in process group "UE_GameJam_0x72c2e341", spawning console
+[2025.04.13-11.47.40:645][  0]LogLiveCoding: Display: Waiting for server
+[2025.04.13-11.47.40:650][  0]LogSlate: Border
+[2025.04.13-11.47.40:650][  0]LogSlate: BreadcrumbButton
+[2025.04.13-11.47.40:650][  0]LogSlate: Brushes.Title
+[2025.04.13-11.47.40:650][  0]LogSlate: Default
+[2025.04.13-11.47.40:650][  0]LogSlate: Icons.Save
+[2025.04.13-11.47.40:650][  0]LogSlate: Icons.Toolbar.Settings
+[2025.04.13-11.47.40:650][  0]LogSlate: ListView
+[2025.04.13-11.47.40:650][  0]LogSlate: SoftwareCursor_CardinalCross
+[2025.04.13-11.47.40:650][  0]LogSlate: SoftwareCursor_Grab
+[2025.04.13-11.47.40:650][  0]LogSlate: TableView.DarkRow
+[2025.04.13-11.47.40:650][  0]LogSlate: TableView.Row
+[2025.04.13-11.47.40:650][  0]LogSlate: TreeView
