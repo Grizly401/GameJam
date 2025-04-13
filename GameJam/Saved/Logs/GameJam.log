@@ -1072,3 +1072,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.13-11.49.14:517][  0]LogSourceControl: Uncontrolled asset enumeration started...
 [2025.04.13-11.49.14:520][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.003082 seconds (Found 135 uncontrolled assets)
 [2025.04.13-11.49.15:029][  0]BlueprintLog: New page: Editor Load
+[2025.04.13-11.49.18:070][  0]LocalizationService: Localization service is disabled
+[2025.04.13-11.49.18:845][  0]TimingProfiler: Initialize
+[2025.04.13-11.49.18:861][  0]TimingProfiler: OnSessionChanged
+[2025.04.13-11.49.18:861][  0]LoadingProfiler: Initialize
+[2025.04.13-11.49.18:862][  0]LoadingProfiler: OnSessionChanged
+[2025.04.13-11.49.18:870][  0]NetworkingProfiler: Initialize
+[2025.04.13-11.49.18:885][  0]NetworkingProfiler: OnSessionChanged
+[2025.04.13-11.49.18:885][  0]MemoryProfiler: Initialize
+[2025.04.13-11.49.18:885][  0]MemoryProfiler: OnSessionChanged
+[2025.04.13-11.49.28:773][  0]LogFileCache: Scanning file cache for directory 'D:/GitUnreal/GameJam/GameJam/GameJam/Content/' took 0.15s
