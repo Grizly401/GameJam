@@ -1028,3 +1028,47 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.13-11.49.06:784][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2025.04.13-11.49.07:240][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2025.04.13-11.49.08:570][  0]LogAIModule: Creating AISystem for world Untitled
+[2025.04.13-11.49.10:830][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2025.04.13-11.49.10:840][  0]LogInit: Texture streaming: Enabled
+[2025.04.13-11.49.11:335][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.3.2-29314046+++UE5+Release-5.3
+[2025.04.13-11.49.11:578][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2025.04.13-11.49.11:857][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2025.04.13-11.49.11:922][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2025.04.13-11.49.11:922][  0]LogAudio: Display: AudioInfo: 'BINKA' Registered
+[2025.04.13-11.49.11:923][  0]LogAudio: Display: AudioInfo: 'PCM' Registered
+[2025.04.13-11.49.11:923][  0]LogAudio: Display: AudioInfo: 'ADPCM' Registered
+[2025.04.13-11.49.11:923][  0]LogAudio: Display: AudioInfo: 'OGG' Registered
+[2025.04.13-11.49.11:923][  0]LogAudio: Display: AudioInfo: 'OPUS' Registered
+[2025.04.13-11.49.11:982][  0]LogAudio: Display: Audio Device Manager Initialized
+[2025.04.13-11.49.11:994][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2025.04.13-11.49.11:995][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.04.13-11.49.11:995][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.04.13-11.49.11:995][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.04.13-11.49.11:995][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.04.13-11.49.11:995][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2025.04.13-11.49.11:995][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.04.13-11.49.11:995][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2025.04.13-11.49.11:996][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.04.13-11.49.12:018][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.04.13-11.49.12:018][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.04.13-11.49.12:018][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.04.13-11.49.12:241][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.04.13-11.49.12:291][  0]LogAudioMixer: Display: Using Audio Hardware Device Динамики (Realtek(R) Audio)
+[2025.04.13-11.49.12:324][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.04.13-11.49.12:392][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.04.13-11.49.12:393][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.04.13-11.49.12:560][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2025.04.13-11.49.12:560][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2025.04.13-11.49.12:562][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2025.04.13-11.49.12:562][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2025.04.13-11.49.12:563][  0]LogInit: FAudioDevice initialized with ID 1.
+[2025.04.13-11.49.12:572][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2025.04.13-11.49.12:579][  0]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 1
+[2025.04.13-11.49.12:590][  0]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.04.13-11.49.13:252][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2025.04.13-11.49.13:697][  0]LogInit: Undo buffer set to 32 MB
+[2025.04.13-11.49.13:734][  0]LogInit: Transaction tracking system initialized
+[2025.04.13-11.49.14:517][  0]LogSourceControl: Display: Uncontrolled Changelist persistency file loaded ../../../../../GitUnreal/GameJam/GameJam/GameJam/Saved/SourceControl/UncontrolledChangelists.json
+[2025.04.13-11.49.14:517][  0]LogSourceControl: Uncontrolled asset enumeration started...
+[2025.04.13-11.49.14:520][  0]LogSourceControl: Uncontrolled asset enumeration finished in 0.003082 seconds (Found 135 uncontrolled assets)
+[2025.04.13-11.49.15:029][  0]BlueprintLog: New page: Editor Load
