@@ -1082,3 +1082,97 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.13-11.49.18:885][  0]MemoryProfiler: Initialize
 [2025.04.13-11.49.18:885][  0]MemoryProfiler: OnSessionChanged
 [2025.04.13-11.49.28:773][  0]LogFileCache: Scanning file cache for directory 'D:/GitUnreal/GameJam/GameJam/GameJam/Content/' took 0.15s
+[2025.04.13-11.49.41:661][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2025.04.13-11.49.43:101][  0]LogAssetRegistry: Display: Triggering cache save on discovery complete
+[2025.04.13-11.49.43:611][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2025.04.13-11.49.44:030][  0]LogAssetRegistry: Display: Asset registry cache written as 19.9 MiB to ../../../../../GitUnreal/GameJam/GameJam/GameJam/Intermediate/CachedAssetRegistry_*.bin
+[2025.04.13-11.49.44:375][  0]SourceControl: Revision control is disabled
+[2025.04.13-11.49.44:396][  0]LogUnrealEdMisc: Loading editor; pre map load, took 303.707
+[2025.04.13-11.49.44:705][  0]Cmd: MAP LOAD FILE="../../../../../GitUnreal/GameJam/GameJam/GameJam/Content/FirstPerson/Maps/MainMenue_2.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.04.13-11.49.44:750][  0]LightingResults: New page: Lighting Build
+[2025.04.13-11.49.45:547][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2025.04.13-11.49.45:998][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.04.13-11.49.46:389][  0]MapCheck: New page: Map Check
+[2025.04.13-11.49.46:389][  0]LightingResults: New page: Lighting Build
+[2025.04.13-11.49.47:720][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.04.13-11.49.49:368][  0]LogUObjectHash: Compacting FUObjectHashTables data took  51.21ms
+[2025.04.13-11.49.57:507][  0]LogLinker: Warning: [AssetLog] D:\GitUnreal\GameJam\GameJam\GameJam\Content\StarterContent\Architecture\Wall_400x400.uasset: Failed to load '/Game/StarterContent/Materials/M_Basic_Wall': Can't find file.
+[2025.04.13-11.49.57:507][  0]LogLinker: Warning: [AssetLog] D:\GitUnreal\GameJam\GameJam\GameJam\Content\StarterContent\Architecture\Wall_400x400.uasset: VerifyImport: Failed to load package for import object 'Package /Game/StarterContent/Materials/M_Basic_Wall'
+[2025.04.13-11.50.02:201][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'MainMenue_2'.
+[2025.04.13-11.50.02:201][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.13-11.50.02:201][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.13-11.50.02:201][  0]LogAIModule: Creating AISystem for world MainMenue_2
+[2025.04.13-11.50.03:778][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.04.13-11.50.04:425][  0]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2025.04.13-11.50.04:666][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.04.13-11.50.04:680][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,399ms to complete.
+[2025.04.13-11.50.08:396][  0]LogUnrealEdMisc: Total Editor Startup Time, took 327.708
+[2025.04.13-11.50.08:397][  0]LogShaderCompilers: Display: ================================================
+[2025.04.13-11.50.08:397][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.04.13-11.50.08:413][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2025.04.13-11.50.08:413][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2025.04.13-11.50.08:413][  0]LogShaderCompilers: Display: RAM used: 240,00 B of 819,20 MiB budget. Usage: 0.00%
+[2025.04.13-11.50.08:413][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.04.13-11.50.08:413][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2025.04.13-11.50.08:413][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0%)
+[2025.04.13-11.50.08:421][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2025.04.13-11.50.08:421][  0]LogShaderCompilers: Display: ================================================
+[2025.04.13-11.50.10:886][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.13-11.50.10:945][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.13-11.50.10:962][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.13-11.50.10:974][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.04.13-11.50.12:808][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:095][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2025.04.13-11.50.13:102][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:314][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2025.04.13-11.50.13:315][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:348][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2025.04.13-11.50.13:349][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:397][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2025.04.13-11.50.13:401][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:426][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2025.04.13-11.50.13:426][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:453][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2025.04.13-11.50.13:454][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:487][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2025.04.13-11.50.13:592][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:641][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2025.04.13-11.50.13:643][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:681][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2025.04.13-11.50.13:682][  0]LogPakFile: Initializing PakPlatformFile
+[2025.04.13-11.50.13:718][  0]LogPakFile: Display: Mounted Pak file 'D:/EPic/UE_5.3/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2025.04.13-11.50.20:290][  0]LogSlate: Took 0.033356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2025.04.13-11.50.20:721][  0]LogSlate: Took 0.032969 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2025.04.13-11.50.20:783][  0]LogSlate: Took 0.036934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.04.13-11.50.20:831][  0]LogSlate: Took 0.021715 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2025.04.13-11.50.21:193][  0]LogViewport: Scene viewport resized to 1376x506, mode Windowed.
+[2025.04.13-11.50.23:088][  0]LogSlate: Took 0.022311 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.04.13-11.50.25:433][  0]LogStall: Startup...
+[2025.04.13-11.50.25:435][  0]LogStall: Startup complete.
+[2025.04.13-11.50.25:713][  0]LogLoad: (Engine Initialization) Total time: 345.02 seconds
+[2025.04.13-11.50.25:713][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2025.04.13-11.50.27:002][  0]LogContentStreaming: Texture pool size now 800 MB
+[2025.04.13-11.50.27:707][  0]LogAutomationController: Ignoring very large delta of 18644366.24 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.13-11.50.29:226][  1]LogPython: registering <class 'ControlRigWorkflows.workflow_deformation_rig_preset.provider'>
+
+[2025.04.13-11.50.29:378][  1]Running Python start-up script 'D:/EPic/UE_5.3/Engine/Plugins/Animation/ControlRig/Content/Python/init_unreal.py': 1.156136 secs
+[2025.04.13-11.50.29:572][  1]LogFab: Error: Login failed - error code: EOS_InvalidAuth
+[2025.04.13-11.50.29:605][  1]LogFab: Display: Logging in using exchange code
+[2025.04.13-11.50.29:605][  1]LogFab: Display: Reading exchange code from commandline
+[2025.04.13-11.50.29:605][  1]LogEOSSDK: Error: LogEOSAuth: Invalid parameter EOS_Auth_Credentials.Token reason: must not be null or empty
+[2025.04.13-11.50.30:715][  1]LogD3D12RHI: Cannot end block when stack is empty
+[2025.04.13-11.50.30:728][  2]LogAutomationController: Ignoring very large delta of 3.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.13-11.50.30:988][  2]LogFab: Error: Login failed - error code: EOS_InvalidParameters
+[2025.04.13-11.50.31:725][  2]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.04.13-11.50.31:725][  2]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2025.04.13-11.50.33:347][  3]LogAutomationController: Ignoring very large delta of 2.62 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.13-11.50.33:348][  3]LogEOSSDK: LogEOS: SDK Config Platform Update Request Successful, Time: 101.325119
+[2025.04.13-11.50.33:360][  3]LogEOSSDK: LogEOSAnalytics: EOS SDK Analytics disabled for route [1].
+[2025.04.13-11.50.33:421][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 103.696762
+[2025.04.13-11.50.33:666][  3]LogAssetRegistry: AssetRegistryGather time 19.0898s: AssetDataDiscovery 9.2971s, AssetDataGather 9.3004s, StoreResults 0.4923s.
+[2025.04.13-11.50.34:421][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.020672 seconds (updated 0 objects)
+[2025.04.13-11.50.35:356][  4]LogAutomationController: Ignoring very large delta of 2.01 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.04.13-11.50.36:335][  7]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.04.13-11.50.36:902][  9]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 106.904602
+[2025.04.13-11.50.36:904][  9]LogEOSSDK: LogEOS: SDK Config Data - Watermark: 1151022895
+[2025.04.13-11.50.36:904][  9]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 106.904602, Update Interval: 318.245178
