@@ -985,3 +985,46 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2025.04.13-11.47.40:650][  0]LogSlate: TableView.DarkRow
 [2025.04.13-11.47.40:650][  0]LogSlate: TableView.Row
 [2025.04.13-11.47.40:650][  0]LogSlate: TreeView
+[2025.04.13-11.47.56:985][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2025.04.13-11.47.58:690][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize started...
+[2025.04.13-11.47.59:412][  0]LogWorldPartition: Display: FWorldPartitionClassDescRegistry::Initialize took 737 ms
+[2025.04.13-11.47.59:874][  0]LogInit: XR: Instanced Stereo Rendering is Disabled
+[2025.04.13-11.47.59:874][  0]LogInit: XR: MultiViewport is Disabled
+[2025.04.13-11.47.59:874][  0]LogInit: XR: Mobile Multiview is Disabled
+[2025.04.13-11.47.59:886][  0]LogTurnkeySupport: Turnkey Device: Win64@DESKTOP-3B3HPC3: (Name=DESKTOP-3B3HPC3, Type=Computer, Status=Valid, MinAllowed=10.0.18362.0, MaxAllowed=, Current=10.0.19045.0, Flags="Device_InstallSoftwareValid")
+[2025.04.13-11.48.04:369][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2025.04.13-11.48.04:442][  0]LogMetasoundEngine: MetaSound Engine Initialized
+[2025.04.13-11.48.12:040][  0]LogPython: Using Python 3.9.7
+[2025.04.13-11.48.14:854][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2025.04.13-11.48.14:883][  0]LogUdpMessaging: Display: Added local interface '192.168.31.92' to multicast group '230.0.0.1:6666'
+[2025.04.13-11.48.14:950][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2025.04.13-11.48.16:394][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 7BFAAD0649BE7E95F7488D8A8B83D84B | Instance: 69B847864C15D6D5EA6C1CB81C6AB5F3 (DESKTOP-3B3HPC3-15428).
+[2025.04.13-11.48.20:785][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2025.04.13-11.48.21:258][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.13-11.48.21:258][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2025.04.13-11.48.30:873][  0]LogDerivedDataCache: C:/Users/qwert/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:29.124 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 15160 files in 17584 folders with total size 2574 MiB.
+[2025.04.13-11.48.35:685][  0]SourceControl: Revision control is disabled
+[2025.04.13-11.48.35:973][  0]LogUProjectInfo: Found projects:
+[2025.04.13-11.48.36:733][  0]SourceControl: Revision control is disabled
+[2025.04.13-11.48.41:397][  0]LogOpenImageDenoise: OIDN starting up
+[2025.04.13-11.48.47:843][  0]LogCollectionManager: Loaded 0 collections in 0.002005 seconds
+[2025.04.13-11.48.47:864][  0]LogFileCache: Scanning file cache for directory 'D:/GitUnreal/GameJam/GameJam/GameJam/Saved/Collections/' took 0.02s
+[2025.04.13-11.48.47:884][  0]LogFileCache: Scanning file cache for directory 'D:/GitUnreal/GameJam/GameJam/GameJam/Content/Developers/qwert/Collections/' took 0.02s
+[2025.04.13-11.48.47:892][  0]LogFileCache: Scanning file cache for directory 'D:/GitUnreal/GameJam/GameJam/GameJam/Content/Collections/' took 0.01s
+[2025.04.13-11.48.49:008][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Version 1.16.1-27379709 booting at 2025-04-13T11:48:48.951Z using C
+[2025.04.13-11.48.49:027][  0]LogEOSSDK: LogEOS: [Boot] EOSSDK Platform Properties [OS=Windows/10.0.19041.5072.64bit, ClientId=xyza7891REBVsEqSJRRNXmlS7EQHM459, ProductId=86f32f1151354e7cb39c12f8ab2c22a3, SandboxId=a01927f7421a4d4995673fe30ef46945, DeploymentId=a652a72ea1664dcab3a467891eea5f30, ProductName=GameJam, ProductVersion=++UE5+Release-5.3-CL-29314046, IsServer=false, Flags=DisableOverlay]
+[2025.04.13-11.48.49:077][  0]LogEOSSDK: LogEOSAnalytics: Start Session (User: ...)
+[2025.04.13-11.48.49:273][  0]LogEOSSDK: LogEOSOverlay: Overlay will not load, because it was explicitly disabled when creating the platform
+[2025.04.13-11.48.49:626][  0]LogEOSSDK: LogEOSAntiCheat: [AntiCheatClient] Anti-cheat client not available. Verify that the game was started using the anti-cheat bootstrapper if you intend to use it.
+[2025.04.13-11.48.49:651][  0]LogEOSSDK: LogEOS: SetApplicationStatus - OldStatus: EOS_AS_Foreground, NewStatus: EOS_AS_Foreground, Current Time: 0001.01.01-00.00.00
+[2025.04.13-11.48.49:651][  0]LogEOSSDK: LogEOS: SetNetworkStatus - OldStatus: EOS_NS_Online, NewStatus: EOS_NS_Online
+[2025.04.13-11.48.49:660][  0]LogEOSSDK: LogEOS: Updating Platform SDK Config, Time: 0.009443
+[2025.04.13-11.48.49:664][  0]LogFab: Display: Logging in using persist
+[2025.04.13-11.48.49:681][  0]LogEOSSDK: Warning: LogEOSAuth: No existing persistent auth credentials were found for automatic login.
+[2025.04.13-11.48.58:735][  0]LogAutomationTest: Warning: Smoke tests took >2s to run (6.71s). 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' took 4913ms. SmokeFilter tier tests should take less than 1ms. Please optimize or move 'FAutomationTestAttemptToFindUninitializedScriptStructMembers' to a slower tier than SmokeFilter.
+[2025.04.13-11.48.59:176][  0]LogEngine: Initializing Engine...
+[2025.04.13-11.49.00:093][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.002 s
+[2025.04.13-11.49.06:010][  0]LogInit: Initializing FReadOnlyCVARCache
+[2025.04.13-11.49.06:784][  0]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.04.13-11.49.07:240][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.04.13-11.49.08:570][  0]LogAIModule: Creating AISystem for world Untitled
