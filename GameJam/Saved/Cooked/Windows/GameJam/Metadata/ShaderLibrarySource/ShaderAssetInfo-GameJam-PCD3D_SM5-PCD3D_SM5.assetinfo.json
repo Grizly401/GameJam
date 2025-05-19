@@ -20,6 +20,24 @@
 			]
 		},
 		{
+			"ShaderMapHash": "029EBD03BA472A3A25ACF32FAB0CC78A57B3B698",
+			"Assets": [
+				"/Game/Props_elya/Painting/OldPortraitWitch_02",
+				"/Game/Props_elya/Painting/T_Paint/7_Mat",
+				"/Game/Props_elya/Painting/T_Paint/8_Mat",
+				"/Game/Props_elya/Painting/T_Paint/9_Mat",
+				"/Game/Props_elya/Painting/T_Paint/P_1",
+				"/Game/Props_elya/Painting/T_Paint/P_2",
+				"/Game/Props_elya/Painting/T_Paint/P_3",
+				"/Game/Props_elya/Painting/T_Paint/P_4",
+				"/Game/Props_elya/Painting/T_Paint/P_5",
+				"/Game/Props_elya/Painting/T_Paint/P_6",
+				"/Game/Props_elya/Painting/T_Paint/P_7",
+				"/Game/Props_elya/Painting/T_Paint/P_9",
+				"/Game/Props_elya/Painting/T_Paint/P_10"
+			]
+		},
+		{
 			"ShaderMapHash": "9B5F1205A792DB0D2E63E352DED5402A5C6B1241",
 			"Assets": [
 				"/Interchange/gltf/M_Unlit"
@@ -77,6 +95,12 @@
 			"ShaderMapHash": "CEFB48128FF01D3C079FDA728288E4D700BB3D28",
 			"Assets": [
 				"/Interchange/gltf/M_Default"
+			]
+		},
+		{
+			"ShaderMapHash": "8468DB134FCE79CB28EDCA55DE302F36AF32FF89",
+			"Assets": [
+				"/Game/Mechanics/interaction/WhiteBox/BPM_InvisibiliteWhiteBox"
 			]
 		},
 		{
@@ -255,6 +279,12 @@
 			"ShaderMapHash": "45534D5CD2454021A4C7A061A77D574E9110A6A8",
 			"Assets": [
 				"/Game/OldWest/VOL6/Materials/MI_Shelf_12a"
+			]
+		},
+		{
+			"ShaderMapHash": "3A1D6C5DAC87D069998CC547944C86557958BFD3",
+			"Assets": [
+				"/Game/FirstPerson/Blueprints/FirstPerson_Animation/T_POse/Akai_MAT"
 			]
 		},
 		{
@@ -516,10 +546,7 @@
 			"ShaderMapHash": "078A55B8F5EE6A0E11C47F37A2F5693E18A1B07A",
 			"Assets": [
 				"/Game/Props_elya/Bottles/rom_02",
-				"/Game/Props_elya/vase/MatID_1",
-				"/Game/Props_elya/wall/Wall",
-				"/Game/Props_elya/wall/Wallpaper_1",
-				"/Game/Props_elya/wall/Wallpaper_2"
+				"/Game/Props_elya/vase/MatID_1"
 			]
 		},
 		{
@@ -552,19 +579,6 @@
 				"/Game/Props_elya/Bottles/rom_03",
 				"/Game/Props_elya/Bottles/rom_04",
 				"/Game/Props_elya/Candle/candle1",
-				"/Game/Props_elya/Painting/OldPortraitWitch_02",
-				"/Game/Props_elya/Painting/T_Paint/7_Mat",
-				"/Game/Props_elya/Painting/T_Paint/8_Mat",
-				"/Game/Props_elya/Painting/T_Paint/9_Mat",
-				"/Game/Props_elya/Painting/T_Paint/P_1",
-				"/Game/Props_elya/Painting/T_Paint/P_2",
-				"/Game/Props_elya/Painting/T_Paint/P_3",
-				"/Game/Props_elya/Painting/T_Paint/P_4",
-				"/Game/Props_elya/Painting/T_Paint/P_5",
-				"/Game/Props_elya/Painting/T_Paint/P_6",
-				"/Game/Props_elya/Painting/T_Paint/P_7",
-				"/Game/Props_elya/Painting/T_Paint/P_9",
-				"/Game/Props_elya/Painting/T_Paint/P_10",
 				"/Game/Props_elya/treasure/Gold_Goblet/OPM0058",
 				"/Game/Props_elya/treasure/Key/Key10"
 			]
@@ -590,7 +604,6 @@
 		{
 			"ShaderMapHash": "E19391DA7E3EA5F24E186B594AAE401AC4F06DEF",
 			"Assets": [
-				"/Game/OldWest/Shared/Materials/MM_MasterMaterial_01a",
 				"/Game/OldWest/VOL1/Materials/MI_Cabinet_01a"
 			]
 		},
