@@ -191,7 +191,8 @@
 		{
 			"ShaderMapHash": "E7AF2C4287A724114315699EC858B12D7EDAF006",
 			"Assets": [
-				"/Game/OldWest/Shared/Materials/MM_MasterMaterial_01a"
+				"/Game/OldWest/Shared/Materials/MM_MasterMaterial_01a",
+				"/Game/OldWest/VOL1/Materials/MI_Cabinet_01a"
 			]
 		},
 		{
