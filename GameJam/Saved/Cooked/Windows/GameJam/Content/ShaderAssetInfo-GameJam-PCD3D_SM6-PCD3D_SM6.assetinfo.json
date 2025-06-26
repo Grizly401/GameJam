@@ -605,6 +605,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "DAE0F5D9EBD141A9C2C494D93A471674D0FB8C6C",
+			"Assets": [
+				"/Game/Mechanics/AI/Enemy/Knight/Anim/Paladin_MAT"
+			]
+		},
+		{
 			"ShaderMapHash": "887B30DADE25E7729A909E806EBA25F58FF2FFA6",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial",

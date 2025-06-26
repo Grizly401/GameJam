@@ -300,6 +300,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "26BE9162E284FAF1CCB8A5E1B8980B75DB2223CE",
+			"Assets": [
+				"/Game/Mechanics/AI/Enemy/Knight/Anim/Paladin_MAT"
+			]
+		},
+		{
 			"ShaderMapHash": "3C137167C575C8DA5015D2FEDF150BB132E5ECA0",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
