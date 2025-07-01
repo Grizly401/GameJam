@@ -1,6 +1,7 @@
 <div align="center">
-
-## 📌 Тизер игры
+ 
+## Chase
+**Тизер игры**
 
 [![Видео-превью](./Screenshots/YouTube.jpg)](https://www.youtube.com/watch?v=wXiDYSwg4Ow&ab_channel=CoronaART)
 
