@@ -1,6 +1,6 @@
 <div align="center">
  
-### Chase
+# Chase
 ## Тизер игры
 
 [![Видео-превью](./Screenshots/YouTube.jpg)](https://www.youtube.com/watch?v=wXiDYSwg4Ow&ab_channel=CoronaART)
