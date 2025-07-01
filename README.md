@@ -48,7 +48,7 @@ Chase — это напряжённый стелс-симулятор от пе�
 |--------------------------------------|--------------------------------------| 
 | ![Геймплей 1](./Screenshots/TOP_3_3.jpg) | ![Геймплей 2](./Screenshots/Screen_6.png) | 
 |--------------------------------------|--------------------------------------| 
-| ![Геймплей 1](./Screenshots/Screen_2.jpg) | ![Геймплей 2](./Screenshots/Screen_7.png) | 
+| ![Геймплей 1](./Screenshots/Screen_2.ppg) | ![Геймплей 2](./Screenshots/Screen_7.png) | 
 |--------------------------------------|--------------------------------------| 
  
 
@@ -60,8 +60,6 @@ Chase — это напряжённый стелс-симулятор от пе�
 
 - **Движок**: Unreal Engine 5.3 
 - **Язык**: Blueprints (визуальное программирование)  
-- **Плагины**: 
-
 
 <div align="center">
 
@@ -69,11 +67,11 @@ Chase — это напряжённый стелс-симулятор от пе�
 
 </div>
 
-1. Скачайте проект (`git clone https://github.com/ваш-ник/название-репозитория.git`).  
-2. Откройте `.uproject` файл в Unreal Engine 5.3+.  
+1. Скачайте проект (`git clone https://github.com/Grizly401/GameJam`).  
+2. Откройте `.uproject` файл в Unreal Engine 5.3.  
 3. Нажмите **Play** в редакторе.  
 
-📌 **Важно**: Для работы требуется Unreal Engine 5.3+ (скачать можно с [официального сайта](https://www.unrealengine.com/)).  
+📌 **Важно**: Для работы требуется Unreal Engine 5.3 (скачать можно с [официального сайта](https://www.unrealengine.com/)).  
 
 
 <div align="center">
@@ -84,7 +82,7 @@ Chase — это напряжённый стелс-симулятор от пе�
 
 - **WASD** — движение  
 - **Е** — взаимодействие  
-- **ESC** — пауза  
+- **P** — пауза  
 
 
 
@@ -92,6 +90,23 @@ Chase — это напряжённый стелс-симулятор от пе�
 
 ## 📜 Лицензия
 
-</div>  
+</div>
 
-MIT License.
+**Royalty free Music License:** 
+
+Music: Waves of Treasure by Alexander Nakarada (https://www.creatorchords.com)
+Licensed under Creative Commons BY Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+
+Music: Mjolnir by Alexander Nakarada (https://www.creatorchords.com)
+Licensed under Creative Commons BY Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
+
+Chase by Alexander Nakarada (CreatorChords) | https://creatorchords.com
+Music promoted by https://www.free-stock-music.com
+Creative Commons / Attribution 4.0 International (CC BY 4.0)
+https://creativecommons.org/licenses/by/4.0/
+
+Music: Suspensify by Alexander Nakarada (https://www.creatorchords.com)
+Licensed under Creative Commons BY Attribution 4.0 License
+https://creativecommons.org/licenses/by/4.0/
