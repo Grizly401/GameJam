@@ -1,7 +1,13 @@
 <div align="center">
+
 ## 📌 Демонстрация геймплея
 
-[![Видео-превью](./2.-minions-clapping-and-super-excited-gif.gif)](https://www.youtube.com/watch?v=wXiDYSwg4Ow&ab_channel=CoronaART)
+[![Видео-превью](./Screenshots/YouTube.jpg)](https://www.youtube.com/watch?v=wXiDYSwg4Ow&ab_channel=CoronaART)
+
+<a href="https://ваш-сайт.ру/download">
+  <img src="assets/download_button.png" alt="Скачать" width="250">
+</a>
+
 </div>
 
 Chase — это напряжённый стелс-симулятор от первого лица, где вы играете за вора, вынужденного принимать сложные решения в самых неудобных ситуациях. 
