@@ -82,6 +82,10 @@
 
 
 <div align="center">
+
+ </div>
+
+ 
 **Chase** — is a first-person stealth simulator where you play as a thief, forced to make difficult decisions in the most awkward situations.
  
 You go on a dangerous mission with your partner to find the legendary Ruby Medallion. Plan your actions, search hiding places, cover each other - but remember: one wrong step and you will have to run.  
