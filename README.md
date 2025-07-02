@@ -85,6 +85,15 @@
 
  </div>
 
+
+
+
+
+ # English description
+
+
+
+
  
 **Chase** — is a first-person stealth simulator where you play as a thief, forced to make difficult decisions in the most awkward situations.
  
