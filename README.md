@@ -101,7 +101,7 @@
 
 <div align="center">
 
- # English description
+## English description
   
 </div>
 
@@ -162,11 +162,11 @@ You go on a dangerous mission with your partner to find the legendary Ruby Medal
 
 <div align="center">
  
- **WASD** — movement 
+ **WASD** — Move
  
- **Е** — interaction  
+ **Е** — Interaction  
  
- **P** — pause  
+ **P** — Pause  
 
  </div>
 
@@ -180,7 +180,7 @@ You go on a dangerous mission with your partner to find the legendary Ruby Medal
 
 <div align="center">
 
-## 📜 Лицензия
+## 📜 Лицензия/License
 
 </div>
 
