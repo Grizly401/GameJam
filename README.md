@@ -1,7 +1,7 @@
 <div align="center">
  
 # Chase
-# English description is below
+## English description is below
 ## Тизер игры (Eng sub)
 
 [![Видео-превью](./Screenshots/YouTube.jpg)](https://www.youtube.com/watch?v=wXiDYSwg4Ow&ab_channel=CoronaART)
@@ -75,13 +75,13 @@
 
 </div>
 
-- **WASD** — движение  
-- **Е** — взаимодействие  
-- **P** — пауза  
-
-
-
 <div align="center">
+ 
+ **WASD** — движение  
+ 
+ **Е** — взаимодействие  
+ 
+ **P** — пауза  
 
  </div>
 
@@ -89,7 +89,21 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+<div align="center">
+
  # English description
+  
+</div>
 
 
 
@@ -125,6 +139,37 @@ You go on a dangerous mission with your partner to find the legendary Ruby Medal
   
 
 <img src="./Screenshots/GOLD.png" alt="Пример" style="width:20px; height:auto;" /> **Score system** – your decisions and speed affect the outcome. Complete the level cleanly and quickly to get the highest reward or play it safe and risk losing points. 
+
+
+<div align="center">
+
+## � Installation and Launch 
+
+</div>
+
+1. Download the project (`git clone https://github.com/Grizly401/GameJam`).  
+2. Open .uproject file in Unreal Engine 5.3
+3. Press **Play** in the editor
+
+📌 **Важно**: Important: You can download Unreal Engine 5.3 ( on the official website. (https://www.unrealengine.com/)).  
+
+
+<div align="center">
+
+## 🎮 Control Keys  
+
+</div>
+
+<div align="center">
+ 
+ **WASD** — movement 
+ 
+ **Е** — interaction  
+ 
+ **P** — pause  
+
+ </div>
+
 
 <div align="center">
 
