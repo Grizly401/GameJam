@@ -1,7 +1,7 @@
 <div align="center">
  
 # Chase
-# English Description is below
+# English description is below
 ## Тизер игры (Eng sub)
 
 [![Видео-превью](./Screenshots/YouTube.jpg)](https://www.youtube.com/watch?v=wXiDYSwg4Ow&ab_channel=CoronaART)
@@ -80,6 +80,38 @@
 - **P** — пауза  
 
 
+
+<div align="center">
+**Chase** — is a first-person stealth simulator where you play as a thief, forced to make difficult decisions in the most awkward situations.
+ 
+You go on a dangerous mission with your partner to find the legendary Ruby Medallion. Plan your actions, search hiding places, cover each other - but remember: one wrong step and you will have to run.  
+<div align="center">
+ 
+## <img src="./Screenshots/free-icon-game-2506535.png" alt="Пример" style="width:30px; height:auto;" /> Mechanics:
+
+</div>
+
+<img src="./Screenshots/HELPER.png" alt="Пример" style="width:20px; height:auto;" /> **Your partner** – Is not just a programmed companion, but a smart AI that analyzes your play style and adapts to it. If you act stealthily, the partner will be quieter and more careful; if you go straight ahead, she will become more aggressive. 
+
+ 
+
+<img src="./Screenshots/EYE_2.png" alt="Пример" style="width:20px; height:auto;" /> **Alert mode** – Is a dynamic system where danger can strike you suddenly or gradually increase, triggering a countdown. Your actions determine the outcome: prevent the threat in time or try to buy time before the timer runs out. 
+
+ 
+
+<img src="./Screenshots/Lampa.png" alt="Пример" style="width:20px; height:auto;" /> **Lighting Control** – Manage the light to reduce alert, but be prepared for the consequences: your partner will slow down or even stop working in the dark. Find a balance between stealth and efficiency! 
+
+  
+
+<img src="./Screenshots/CURSOR.png" alt="Пример" style="width:20px; height:auto;" /> **Prevention Mechanics** – Use skills and resources to reduce alert. Find ways to slow down the timer or even stop it completely. But be careful – every step has consequences. 
+
+  
+
+<img src="./Screenshots/KEY.png" alt="Пример" style="width:20px; height:auto;" /> **Secret Stashes** – There are locked storage areas with valuable items hidden throughout the levels. Find them to gain an advantage, but beware – searching may attract unwanted attention. 
+
+  
+
+<img src="./Screenshots/GOLD.png" alt="Пример" style="width:20px; height:auto;" /> **Score system** – your decisions and speed affect the outcome. Complete the level cleanly and quickly to get the highest reward or play it safe and risk losing points. 
 
 <div align="center">
 
