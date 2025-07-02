@@ -1,7 +1,8 @@
 <div align="center">
  
 # Chase
-## Тизер игры
+# English Description is below
+## Тизер игры (Eng sub)
 
 [![Видео-превью](./Screenshots/YouTube.jpg)](https://www.youtube.com/watch?v=wXiDYSwg4Ow&ab_channel=CoronaART)
 
