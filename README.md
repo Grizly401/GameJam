@@ -151,7 +151,7 @@ You go on a dangerous mission with your partner to find the legendary Ruby Medal
 2. Open .uproject file in Unreal Engine 5.3
 3. Press **Play** in the editor
 
-📌 **Важно**: Important: You can download Unreal Engine 5.3 ( on the official website. (https://www.unrealengine.com/)).  
+📌 **Important**: You can download Unreal Engine 5.3 on the official website. (https://www.unrealengine.com/).  
 
 
 <div align="center">
@@ -169,6 +169,13 @@ You go on a dangerous mission with your partner to find the legendary Ruby Medal
  **P** — pause  
 
  </div>
+
+
+
+
+
+
+
 
 
 <div align="center">
